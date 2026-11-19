@@ -1,0 +1,36 @@
+keyword,volume,cpc,kd,source,proposed_use
+how to get smoke smell out of house,4400,0.42,33,phrase_these,Guide G1 primary
+how to get rid of smoke smell in house,3600,0.42,26,phrase_these,G1 secondary
+how to get fire smoke smell out of house fast,320,,14,phrase_questions (house fire),G1 secondary
+smoke smell in house,390,3.79,31,phrase_these,G1 secondary
+does renters insurance cover fire damage,2900,,33,phrase_questions (fire damage),Guide G2 primary
+will renters insurance cover fire damage,140,,30,phrase_questions,G2 secondary
+does renters insurance cover smoke damage,170,,21,phrase_questions (smoke damage),G2 secondary
+how to get smoke smell out of clothes,2400,0.33,29,phrase_these,Guide G3 primary
+what to throw away after smoke damage,260,,11,phrase_questions (smoke damage),G3 secondary
+what is soot,4400,,40,phrase_questions (soot),Guide G4 primary (soot dangers)
+what is in soot,3600,,39,phrase_questions (soot),G4 secondary
+is soot dangerous,70,0,26,phrase_these,G4 secondary
+how to clean soot off walls,480,2.35,17,phrase_these,Guide G5 primary
+how do i clean soot off walls,320,,22,phrase_questions (soot),G5 secondary
+how to clean smoke damage on walls and ceiling,140,1.88,7,phrase_these,G5 secondary
+how to clean fireplace brick soot,390,,4,phrase_questions (soot),later guide (fireplace soot)
+how to clean soot off brick,320,,1,phrase_questions (soot),later guide (fireplace soot)
+what to do after a house fire,590,7.23,29,phrase_these,Guide G6 primary
+what to do after a house fire checklist,260,0,3,phrase_these,G6 secondary
+how to deal with insurance adjuster after a house fire,590,0,7,phrase_these,Guide G7 primary
+does home insurance cover fire damage,320,,33,phrase_questions (fire damage),Guide G8 primary
+does homeowners insurance cover fire damage,170,7.65,32,phrase_these,G8 secondary
+is smoke damage covered by insurance,110,,24,phrase_questions (smoke damage),G8 secondary
+fire damage restoration process,880,0,29,phrase_these,Guide G9 primary
+how long does fire damage restoration take,50,0,0,phrase_these,G9 secondary
+fire damage restoration cost,320,25.51,9,phrase_these,Guide G10 primary (factors only)
+fire restoration cost,90,13.38,2,phrase_these,G10 secondary
+hydroxyl generator,1600,0,7,phrase_these,Guide G11 primary (odor equipment)
+thermal fogging,320,0,5,phrase_these,G11 secondary
+ozone generator smoke smell,90,1.41,19,phrase_these,G11 secondary
+what is considered smoke damage,110,,12,phrase_questions (smoke damage),Guide G12 primary
+what is smoke damage,70,,15,phrase_questions (smoke damage),G12 secondary
+how to sell a fire damaged house,260,,22,phrase_questions (fire damage),later guide (selling cluster ~1500/mo combined)
+who buys fire damaged homes,170,,7,phrase_questions (fire damage),later guide (selling cluster)
+how hot does a house fire get,720,,18,phrase_questions (house fire),skip (low hire intent)

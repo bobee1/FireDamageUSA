@@ -22,4 +22,12 @@ A dated log of every step. Newest entries at the bottom. Status: Done / In progr
 | 16 | 2026-11-19 | 1 | Audit + readability + site audit | Done | 0 issues; FK 6.0–6.4 (legal exempt); home `/` pending (Build 3) |
 | 17 | 2026-11-19 | 1 | Responsive check 360/768/1280/1440 | Done | No overflow, no console errors, menu works |
 | 18 | 2026-11-19 | 1 | STATUS.md + record register written; committed and pushed | Done | Branch `main` |
-| 19 | — | 2 | Semrush keyword research + site plan for approval | Planned | Next build |
+| 19 | 2026-11-19 | 2 | Owner confirmed ANSI/IICRC S700 claim; phone kept until after deployment; owner hosts after Build 2 push | Done | |
+| 20 | 2026-11-19 | 2 | Semrush: 60 service keywords (volume, CPC, KD, intent) | Done | `research/01-service-keywords.csv` (600 units) |
+| 21 | 2026-11-19 | 2 | Semrush: 100 city terms + 20 state terms | Done | `research/02-city-demand.csv`, `03-state-terms.csv`; 62 cities ≥110/mo; states mostly 0–480 |
+| 22 | 2026-11-19 | 2 | Semrush: question keywords (fire damage, smoke damage, house fire, soot) + 30 guide terms | Done | `research/04-guide-keywords.csv` |
+| 23 | 2026-11-19 | 2 | Semrush top-10 SERPs: fire damage restoration, smoke damage restoration, smoke odor removal, fire damage restoration denver | Done | `research/05-competitors.csv` |
+| 24 | 2026-11-19 | 2 | Competitor pages read: SERVPRO (~4,500–5,000 words), PuroClean (~3,500 unique), BELFOR | Done | Term list for service pages (soot types, S700, HEPA, fogging, hydroxyl, ozone, lead/asbestos, ALE) |
+| 25 | 2026-11-19 | 2 | Site plan doc written for owner approval | Done | https://claude.ai/artifact/5DcSVz4eh8dK1rEX8g8TCo |
+| 26 | 2026-11-19 | 2 | STATUS.md and register updated; committed and pushed | Done | Branch `main` |
+| 27 | — | 3 | Home, services hub, 8 service pages | Planned | Starts after plan approval |
