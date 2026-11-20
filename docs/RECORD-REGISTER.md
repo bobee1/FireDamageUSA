@@ -35,4 +35,10 @@ A dated log of every step. Newest entries at the bottom. Status: Done / In progr
 | 29 | 2026-11-19 | 2b | Design system artifact created: tokens, brand book, logos, 14 components, cover | Done | https://claude.ai/artifact/Y1stA843hy3x3heukjyA8n |
 | 30 | 2026-11-19 | 2b | Site CSS reads the new tokens (hero-glow, hero-ink, focus-on-dark, radius-btn) | Done | Audit 0 issues after rebuild |
 | 31 | 2026-11-19 | 2b | STATUS.md and register updated; committed and pushed | Done | Branch `main` |
-| 32 | — | 3 | Home, services hub, 8 service pages | Planned | Next build |
+| 32 | 2026-11-19 | 3 | Home page written (1,498 words, 7 FAQs, house-fire zones illustration) | Done | `src/pages/index.html` |
+| 33 | 2026-11-19 | 3 | Services hub written (scenario table, hiring checklist) | Done | `src/pages/services/index.html` |
+| 34 | 2026-11-19 | 3 | 8 service pages written per keyword map; 10 Pexels photos as WebP | Done | `src/pages/services/` |
+| 35 | 2026-11-19 | 3 | Build: tables wrapped in scroll box for phones; future-module blocks dropped until built | Done | `build.py` |
+| 36 | 2026-11-19 | 3 | Checks: audit 0 issues, FK 5.9–8.9, site audit clean, responsive 360/768/1280 | Done | — |
+| 37 | 2026-11-19 | 3 | STATUS.md and register updated; committed and pushed | Done | Branch `main` |
+| 38 | — | 4 | Locations hub + 50 state pages + DC | Planned | Next build |

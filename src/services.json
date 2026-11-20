@@ -1,0 +1,10 @@
+[
+  {"slug": "fire-damage-cleanup", "name": "Fire damage cleanup", "card": "Debris out, water from fire hoses removed, and burned materials torn out so restoration can start."},
+  {"slug": "smoke-damage-restoration", "name": "Smoke damage restoration", "card": "Smoke residue cleaned from walls, ceilings, ducts and fixtures before it stains and corrodes."},
+  {"slug": "soot-removal", "name": "Soot removal", "card": "Dry, wet, protein and fuel-oil soot cleaned with the method each one needs."},
+  {"slug": "smoke-odor-removal", "name": "Smoke odor removal", "card": "Smoke smell traced to its source, then treated with thermal fogging, hydroxyl or ozone."},
+  {"slug": "board-up-and-roof-tarping", "name": "Board-up and roof tarping", "card": "Broken windows, doors and roof holes covered to keep out rain, animals and intruders."},
+  {"slug": "contents-cleaning", "name": "Contents cleaning and pack-out", "card": "Belongings inventoried, packed out, cleaned and stored while the home is restored."},
+  {"slug": "fire-damage-repair", "name": "Fire damage repair", "card": "Burned framing, drywall, roofing, wiring and finishes rebuilt to code."},
+  {"slug": "commercial-fire-damage-restoration", "name": "Commercial fire damage restoration", "card": "Fire, smoke and soot cleanup for offices, stores, restaurants, rentals and warehouses."}
+]
