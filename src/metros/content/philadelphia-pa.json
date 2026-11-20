@@ -1,0 +1,43 @@
+{
+ "lead": "Philadelphia's rowhouses share walls, roofs and history, so one fire often damages a whole row. SootMend helps homes and businesses across the city recover from fire, smoke and soot.",
+ "risk": "rowhouse fires that spread to neighbors, older wiring and heating fires, and fires in converted apartments",
+ "risk_short": "rowhouse, heating and electrical fires",
+ "why": [
+  "Most Philadelphians live in rowhouses that share party walls and roof lines. Fire and smoke move through shared cocklofts and walls into neighbors' homes, and firefighting water often damages several houses. Deadly rowhouse fires, including one in Fairmount in 2022 in a home converted into apartments, have shown the risk of divided older houses.",
+  "About four in ten Philadelphia homes were built before 1940, and more than eight in ten before 1980. Gas heats most, but some still use oil, which brings puff-back soot. Old wiring, space heaters and cluttered basements add winter risk."
+ ],
+ "problems": [
+  [
+   "Rowhouse fires affecting neighbors",
+   "South Philly, Kensington, Fishtown and North Philly",
+   "<a href=\"/services/fire-damage-repair/\">Fire damage repair</a>"
+  ],
+  [
+   "Fires in converted apartments",
+   "Older rowhouses citywide",
+   "<a href=\"/services/commercial-fire-damage-restoration/\">Commercial fire restoration</a>"
+  ],
+  [
+   "Smoke through shared walls",
+   "Rowhouses and twins",
+   "<a href=\"/services/smoke-damage-restoration/\">Smoke damage restoration</a>"
+  ],
+  [
+   "Oil burner puff-back soot",
+   "Homes still on oil heat",
+   "<a href=\"/services/soot-removal/\">Soot removal</a>"
+  ]
+ ],
+ "tips": [
+  "Never store flammable items in the shared roof space or basement of a rowhouse.",
+  "Make sure every floor and unit of a converted rowhouse has smoke alarms.",
+  "Have older wiring checked by a licensed electrician.",
+  "Keep space heaters away from bedding."
+ ],
+ "insurance": "If a fire next door damaged your rowhouse, file with your own insurer; it may later seek repayment from the neighbor's insurer.",
+ "areas": "SootMend works across Philadelphia, including Center City, Fishtown, South Philly, Manayunk, Northern Liberties, Fairmount, Chestnut Hill and Kensington.",
+ "faq": {
+  "q": "Who pays when a neighbor's rowhouse fire damages mine in Philadelphia?",
+  "a": "Your own homeowners policy usually pays first. Your insurer may then seek repayment from the neighbor's insurer if the neighbor was at fault. Start cleanup without waiting on that process."
+ }
+}

@@ -1,0 +1,43 @@
+{
+ "lead": "Gilbert is one of the newest large towns in the country, with master-planned neighborhoods, attached garages and extreme summer heat. SootMend helps homes and businesses across Gilbert recover from fire, smoke and soot.",
+ "risk": "garage and electrical fires, AC and pool equipment fires in summer heat, and kitchen fires",
+ "risk_short": "garage, electrical and kitchen fires",
+ "why": [
+  "Gilbert's median home was built in 2003, and fewer than one in twenty homes predate 1980. Most are single-family homes with attached garages, where vehicles, batteries, chargers and stored fuel can start fires that spread into the house. Open floor plans let smoke reach every room fast.",
+  "Air conditioners, pool pumps and wiring run near full load for months in Valley summers. About half of homes heat with electricity. Most homes are in HOAs, which can affect exterior repairs and colors after a fire."
+ ],
+ "problems": [
+  [
+   "Garage fires spreading into the house",
+   "Neighborhoods townwide",
+   "<a href=\"/services/fire-damage-repair/\">Fire damage repair</a>"
+  ],
+  [
+   "AC and pool equipment fires",
+   "Homes in summer",
+   "<a href=\"/services/fire-damage-cleanup/\">Fire damage cleanup</a>"
+  ],
+  [
+   "Smoke through open floor plans",
+   "Newer homes",
+   "<a href=\"/services/smoke-damage-restoration/\">Smoke damage restoration</a>"
+  ],
+  [
+   "Soot on light stucco and tile",
+   "Homes townwide",
+   "<a href=\"/services/soot-removal/\">Soot removal</a>"
+  ]
+ ],
+ "tips": [
+  "Store gasoline and propane outside the attached garage.",
+  "Charge e-bikes and tools away from the door to the house.",
+  "Have AC and pool equipment serviced before summer.",
+  "Check HOA rules before exterior repairs."
+ ],
+ "insurance": "Arizona's Registrar of Contractors licenses repair contractors, and many Gilbert HOAs require approval for exterior changes after a fire.",
+ "areas": "SootMend works across Gilbert, including the Heritage District, Agritopia, Val Vista Lakes, Power Ranch, Seville, Morrison Ranch, Lyons Gate and Finley Farms.",
+ "faq": {
+  "q": "Do HOA rules affect fire repairs in Gilbert?",
+  "a": "They can. Most Gilbert HOAs require approval for exterior colors, materials and roofing. Interior repairs usually don't need HOA review. Ask your contractor to check early."
+ }
+}

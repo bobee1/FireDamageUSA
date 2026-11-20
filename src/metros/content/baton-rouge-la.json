@@ -1,0 +1,43 @@
+{
+ "lead": "Baton Rouge's heat, humidity, hurricanes and student rentals shape its fire damage. SootMend helps homes and businesses across the city recover from fire, smoke and soot.",
+ "risk": "electrical and kitchen fires, generator fires after hurricanes, and fast soot staining in humid air",
+ "risk_short": "electrical, kitchen and generator fires",
+ "why": [
+  "Two in three Baton Rouge homes heat with electricity, and air conditioners run hard for much of the year. After hurricanes knock out power, portable generators run too close to homes and garages cause fires. Louisiana's fire death risk was 1.5 times the national rate in 2023, according to the U.S. Fire Administration.",
+  "Older neighborhoods like the Garden District, Spanish Town and Mid City have early 1900s homes with wood siding and older wiring. Many renters live near LSU. Humid air makes soot absorb moisture, so stains set into paint and grout quickly if cleanup waits."
+ ],
+ "problems": [
+  [
+   "Generator fires after hurricanes",
+   "Homes during long outages",
+   "<a href=\"/services/fire-damage-cleanup/\">Fire damage cleanup</a>"
+  ],
+  [
+   "Electrical fires in older homes",
+   "Garden District, Spanish Town and Mid City",
+   "<a href=\"/services/fire-damage-repair/\">Fire damage repair</a>"
+  ],
+  [
+   "Kitchen fires in student rentals",
+   "Neighborhoods near LSU",
+   "<a href=\"/services/smoke-damage-restoration/\">Smoke damage restoration</a>"
+  ],
+  [
+   "Soot staining in humid air",
+   "Homes citywide",
+   "<a href=\"/services/soot-removal/\">Soot removal</a>"
+  ]
+ ],
+ "tips": [
+  "Run portable generators outdoors, well away from doors and windows.",
+  "Fry turkeys outside, away from the house, with the bird fully thawed.",
+  "Run AC or dehumidifiers after a fire to slow soot staining.",
+  "Keep renters insurance in student housing."
+ ],
+ "insurance": "Many Louisiana homes are insured through Louisiana Citizens, so check which company holds your policy before you file a fire claim.",
+ "areas": "SootMend works across Baton Rouge, including the Garden District, Spanish Town, Mid City, Capital Heights, Southdowns, Old Goodwood, Bocage and Sherwood Forest.",
+ "faq": {
+  "q": "Why does soot need fast cleanup in Baton Rouge?",
+  "a": "Humid air lets soot take on moisture, which helps its acids set into paint, grout and fabric and corrode metal. Running AC or dehumidifiers and cleaning within days limits lasting damage."
+ }
+}

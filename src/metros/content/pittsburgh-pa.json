@@ -1,0 +1,43 @@
+{
+ "lead": "Pittsburgh's hillside neighborhoods are packed with century-old row houses and frame homes. SootMend helps homes and businesses across the city recover from fire, smoke and soot.",
+ "risk": "fires in old row and frame houses, furnace and electrical fires, and fires spreading on steep, narrow streets",
+ "risk_short": "old-home, furnace and electrical fires",
+ "why": [
+  "Nearly half of Pittsburgh's homes were built before 1940, among the highest shares of any big city. Row houses and frame homes in Lawrenceville, Bloomfield and the South Side sit close together on steep hillsides, often with balloon framing and old wiring. Fire can spread to neighbors before crews climb narrow streets and city steps.",
+  "Natural gas heats about three in four homes, usually with basement furnaces. Long, damp winters keep heating systems running, and plaster walls and wood trim hold smoke odor long after a fire."
+ ],
+ "problems": [
+  [
+   "Fire spreading between row houses",
+   "Lawrenceville, Bloomfield and the South Side",
+   "<a href=\"/services/fire-damage-repair/\">Fire damage repair</a>"
+  ],
+  [
+   "Basement furnace fires",
+   "Older homes citywide",
+   "<a href=\"/services/soot-removal/\">Soot removal</a>"
+  ],
+  [
+   "Smoke odor in plaster and woodwork",
+   "Pre-war homes",
+   "<a href=\"/services/smoke-odor-removal/\">Smoke odor removal</a>"
+  ],
+  [
+   "Electrical fires in old wiring",
+   "Neighborhoods citywide",
+   "<a href=\"/services/fire-damage-cleanup/\">Fire damage cleanup</a>"
+  ]
+ ],
+ "tips": [
+  "Service furnaces each fall and keep basements clear.",
+  "Have old wiring checked before adding big appliances.",
+  "Install smoke alarms on every level.",
+  "Keep exterior stairs and walkways clear for firefighters."
+ ],
+ "insurance": "Pennsylvania has no statewide general contractor license, so check Pittsburgh permit rules and the contractor's home improvement registration with the Attorney General.",
+ "areas": "SootMend works across Pittsburgh, including Lawrenceville, Shadyside, Squirrel Hill, Mount Washington, the Strip District, Bloomfield, Brookline and the South Side.",
+ "faq": {
+  "q": "Can old plaster walls in a Pittsburgh home be saved after a fire?",
+  "a": "Often. Plaster resists fire better than drywall but holds soot and odor. Cleaning, sealing and repainting usually work; badly burned sections are cut out and patched."
+ }
+}

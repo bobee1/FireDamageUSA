@@ -1,0 +1,43 @@
+{
+ "lead": "Reno sits against the Sierra and the sagebrush hills, where wildfires burn almost every year. SootMend helps homes and businesses across the Truckee Meadows recover from wildfire, smoke and house fires.",
+ "risk": "wind-driven wildfires in the hills, wildfire smoke from the Sierra, and heating and house fires",
+ "risk_short": "wildfires, smoke, heating fires",
+ "why": [
+  "Washoe County has had more than 40 FEMA fire declarations since 2000. Wind-driven fires have burned into Reno neighborhoods before: the 2011 Caughlin Fire destroyed about 30 homes in southwest Reno, and the 2012 Washoe Drive Fire burned homes south of the city. The most recent declaration, the Bull Fire, came in October 2026.",
+  "Smoke from Sierra and California fires often fills the Truckee Meadows. Natural gas heats most homes, and winters bring cold nights. Newer neighborhoods like Somersett and Caughlin Ranch sit at the edge of sagebrush and grass that burn fast in wind."
+ ],
+ "problems": [
+  [
+   "Wildfire ember damage to homes",
+   "Caughlin Ranch, Somersett and Northwest Reno",
+   "<a href=\"/services/fire-damage-repair/\">Fire damage repair</a>"
+  ],
+  [
+   "Wildfire smoke and ash indoors",
+   "Neighborhoods valley-wide",
+   "<a href=\"/services/smoke-damage-restoration/\">Smoke damage restoration</a>"
+  ],
+  [
+   "Smoke odor in HVAC systems",
+   "Homes with forced-air heat",
+   "<a href=\"/services/smoke-odor-removal/\">Smoke odor removal</a>"
+  ],
+  [
+   "Furnace and heating fires",
+   "Older homes in Old Southwest and Midtown",
+   "<a href=\"/services/fire-damage-cleanup/\">Fire damage cleanup</a>"
+  ]
+ ],
+ "tips": [
+  "Clear sagebrush and dry grass around the house.",
+  "Use ember-resistant vents and a Class A roof.",
+  "Sign up for Washoe County emergency alerts.",
+  "Use a MERV 13 filter or HEPA air cleaner on smoky days."
+ ],
+ "insurance": "Homes near the wildland edge may face higher premiums or fewer insurer choices, so keep limits current and keep a home inventory.",
+ "areas": "SootMend works across Reno, including Downtown, Midtown, Old Southwest, Northwest Reno, Somersett, Caughlin Ranch, South Meadows and Damonte Ranch, plus Sparks.",
+ "faq": {
+  "q": "How often do wildfires threaten Reno?",
+  "a": "Often. Washoe County has had more than 40 FEMA fire declarations since 2000. Wind-driven fires in the hills can reach neighborhoods quickly, so defensible space and early evacuation matter."
+ }
+}

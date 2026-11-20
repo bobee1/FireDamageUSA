@@ -1,0 +1,43 @@
+{
+ "lead": "Boise's foothills put many homes right at the wildland edge, and its winters keep furnaces busy. SootMend helps homes and businesses across the city recover from fire, smoke and soot.",
+ "risk": "foothill grass fires, wildfire smoke from across the region, and furnace and wood stove fires",
+ "risk_short": "foothill fires, smoke, heating fires",
+ "why": [
+  "Homes in the North End, East End, Harris Ranch and on the Bench sit below grass- and brush-covered foothills that dry out early in summer. The 2016 Table Rock Fire, started by fireworks, burned a home and threatened many more on the city's east side. Ada County was part of a 2000 FEMA wildfire disaster declaration.",
+  "Wildfire smoke from Idaho, Oregon and the wider West often settles in the Treasure Valley for days in late summer. Natural gas heats most Boise homes, and some still use wood stoves. The North End has many early 1900s homes with older wiring."
+ ],
+ "problems": [
+  [
+   "Foothill grass fires near homes",
+   "North End, East End and Harris Ranch",
+   "<a href=\"/services/fire-damage-repair/\">Fire damage repair</a>"
+  ],
+  [
+   "Wildfire smoke and ash indoors",
+   "Neighborhoods citywide on smoke days",
+   "<a href=\"/services/smoke-damage-restoration/\">Smoke damage restoration</a>"
+  ],
+  [
+   "Wood stove and chimney fires",
+   "Older homes",
+   "<a href=\"/services/soot-removal/\">Soot removal</a>"
+  ],
+  [
+   "Smoke odor in ducts",
+   "Homes with forced-air heat",
+   "<a href=\"/services/smoke-odor-removal/\">Smoke odor removal</a>"
+  ]
+ ],
+ "tips": [
+  "Never use fireworks near the foothills.",
+  "Keep a mowed, green buffer between homes and open grass.",
+  "Sweep chimneys yearly if you burn wood.",
+  "Use a MERV 13 filter on smoky days."
+ ],
+ "insurance": "Idaho's Division of Occupational and Professional Licenses registers contractors, so check the registration before repairs.",
+ "areas": "SootMend works across Boise, including the North End, East End, the Bench, Southeast Boise, West Boise, Harris Ranch, Downtown and Barber Valley.",
+ "faq": {
+  "q": "How close is wildfire risk to Boise homes?",
+  "a": "Very close in foothill neighborhoods. Grass fires can start from fireworks, sparks or lightning and move fast in wind. A mowed buffer and ember-resistant vents help."
+ }
+}

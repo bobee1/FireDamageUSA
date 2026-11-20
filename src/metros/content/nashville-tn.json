@@ -1,0 +1,43 @@
+{
+ "lead": "Nashville's fast growth has filled its neighborhoods with new tall-and-skinny homes, apartments and short-term rentals beside older bungalows. SootMend helps homes and businesses across Davidson County recover from fire, smoke and soot.",
+ "risk": "space heater and electrical fires, fires in new apartments and townhomes, and kitchen fires",
+ "risk_short": "heater, electrical and apartment fires",
+ "why": [
+  "Tennessee residents were 1.9 times as likely to die in a fire as the U.S. population in 2023, according to the U.S. Fire Administration. Two in three Nashville homes heat with electricity, so space heaters, cords and outlets drive winter fires. Older bungalows in East Nashville, Sylvan Park and 12 South may have original wiring.",
+  "Rapid growth has added thousands of apartments and tall, narrow infill homes built close together. Fire and smoke can move between closely spaced homes and through shared attics in apartment buildings. Many homes are also short-term rentals, where guests may not know where smoke alarms or exits are."
+ ],
+ "problems": [
+  [
+   "Space heater and electrical fires",
+   "Homes across Davidson County",
+   "<a href=\"/services/fire-damage-cleanup/\">Fire damage cleanup</a>"
+  ],
+  [
+   "Fires spreading between close-set infill homes",
+   "East Nashville, 12 South and Germantown",
+   "<a href=\"/services/fire-damage-repair/\">Fire damage repair</a>"
+  ],
+  [
+   "Apartment fires",
+   "The Gulch, Midtown and Antioch",
+   "<a href=\"/services/commercial-fire-damage-restoration/\">Commercial fire restoration</a>"
+  ],
+  [
+   "Smoke odor through open layouts",
+   "Newer homes citywide",
+   "<a href=\"/services/smoke-odor-removal/\">Smoke odor removal</a>"
+  ]
+ ],
+ "tips": [
+  "Plug space heaters straight into the wall and turn them off at night.",
+  "Check smoke alarms in short-term rentals before every guest stay.",
+  "Keep grills away from siding on narrow lots.",
+  "Have older wiring checked by a licensed electrician."
+ ],
+ "insurance": "Short-term rental owners need a policy that covers rental use; a standard homeowners policy may not pay for a fire during a guest stay.",
+ "areas": "SootMend works across Nashville and Davidson County, including East Nashville, the Gulch, 12 South, Germantown, Green Hills, Bellevue, Donelson and Antioch.",
+ "faq": {
+  "q": "Is a fire in my Nashville short-term rental covered by homeowners insurance?",
+  "a": "Often not fully. Many homeowners policies limit or exclude business use. Short-term rentals usually need a landlord or rental policy. Check before you list the home."
+ }
+}

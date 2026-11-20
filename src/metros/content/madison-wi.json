@@ -1,0 +1,43 @@
+{
+ "lead": "Madison's isthmus neighborhoods, student rentals and cold winters shape its fire damage. SootMend helps homes and businesses across the city recover from fire, smoke and soot.",
+ "risk": "furnace and heating fires, fires in student rentals and older homes, and kitchen fires",
+ "risk_short": "heating, student rental and kitchen fires",
+ "why": [
+  "Natural gas heats about two in three Madison homes, and furnaces run for half the year. Half of the city's housing was built before 1980. Neighborhoods on the isthmus, like Tenney-Lapham, Marquette and Greenbush, have older houses with basements, original wiring and plaster walls.",
+  "Fewer than half of Madison homes are owner-occupied, and many older houses near the University of Wisconsin are split into rentals with several tenants. Kitchen fires, overloaded outlets and porch fires are common causes."
+ ],
+ "problems": [
+  [
+   "Fires in student rentals",
+   "Near the UW campus and the isthmus",
+   "<a href=\"/services/fire-damage-cleanup/\">Fire damage cleanup</a>"
+  ],
+  [
+   "Basement furnace fires",
+   "Older homes with gas heat",
+   "<a href=\"/services/soot-removal/\">Soot removal</a>"
+  ],
+  [
+   "Smoke through shared walls",
+   "Converted houses and apartments",
+   "<a href=\"/services/smoke-damage-restoration/\">Smoke damage restoration</a>"
+  ],
+  [
+   "Electrical fires in older homes",
+   "Tenney-Lapham, Marquette and Greenbush",
+   "<a href=\"/services/fire-damage-repair/\">Fire damage repair</a>"
+  ]
+ ],
+ "tips": [
+  "Service furnaces each fall.",
+  "Never leave cooking unattended in shared rentals.",
+  "Don't use grills or fire pits on wooden porches.",
+  "Make sure every bedroom in a rental has a smoke alarm."
+ ],
+ "insurance": "Students may have only limited coverage under a parent's policy, so a renters policy is usually the better choice.",
+ "areas": "SootMend works across Madison, including the Isthmus, Tenney-Lapham, Marquette, Vilas, Dudgeon-Monroe, Westmorland, Greenbush and Hill Farms.",
+ "faq": {
+  "q": "Does a parent's insurance cover a UW student's belongings after a fire?",
+  "a": "It may, with lower limits, when the student is a dependent living away at school. Read the parent's policy first. A renters policy in the student's own name usually pays more."
+ }
+}

@@ -1,0 +1,43 @@
+{
+ "lead": "Portland's older homes, mixed heating and recent wildfire seasons shape its fire damage. SootMend helps homes and businesses across the city recover from fire, smoke and soot.",
+ "risk": "heating and electrical fires in older homes, wildfire smoke, and fires in apartments and houses split into units",
+ "risk_short": "heating fires, old homes, wildfire smoke",
+ "why": [
+  "More than a quarter of Portland homes were built before 1940. Bungalows, foursquares and old Victorians in neighborhoods like Laurelhurst, Sellwood and Alberta often have older wiring, basements and attics where fire spreads. Heating splits between gas and electric, and a few homes still use oil.",
+  "The September 2020 Labor Day wildfires and wind storm led to a FEMA major disaster declaration that included Multnomah County, and smoke from fires across Oregon and Washington covered the city for days. Smoke and fine ash settle in homes even far from the flames."
+ ],
+ "problems": [
+  [
+   "Wildfire smoke and ash indoors",
+   "Neighborhoods citywide on smoke days",
+   "<a href=\"/services/smoke-damage-restoration/\">Smoke damage restoration</a>"
+  ],
+  [
+   "Electrical fires in older homes",
+   "Laurelhurst, Sellwood and Alberta",
+   "<a href=\"/services/fire-damage-repair/\">Fire damage repair</a>"
+  ],
+  [
+   "Fires in houses split into units",
+   "Inner east side",
+   "<a href=\"/services/commercial-fire-damage-restoration/\">Commercial fire restoration</a>"
+  ],
+  [
+   "Smoke odor in old plaster walls",
+   "Pre-war homes",
+   "<a href=\"/services/smoke-odor-removal/\">Smoke odor removal</a>"
+  ]
+ ],
+ "tips": [
+  "Use a MERV 13 filter or HEPA air cleaner during smoke season.",
+  "Have older wiring checked before adding heat pumps or EV chargers.",
+  "If you still have an oil furnace, service it every year.",
+  "Keep gutters and roofs clear of needles in summer."
+ ],
+ "insurance": "Oregon's Construction Contractors Board licenses contractors, so check the license number before repairs start.",
+ "areas": "SootMend works across Portland, including the Pearl District, Sellwood, Hawthorne, Alberta Arts, St. Johns, Laurelhurst, Hillsdale and Lents.",
+ "faq": {
+  "q": "How long does wildfire smoke smell last in a Portland home?",
+  "a": "Without cleaning, it can linger for weeks and come back on warm days. Cleaning surfaces, changing filters, cleaning ducts and treating odor usually clear it in days to weeks."
+ }
+}

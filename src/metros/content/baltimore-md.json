@@ -1,0 +1,43 @@
+{
+ "lead": "Baltimore's rowhouses and thousands of vacant buildings make fire a block-by-block problem. SootMend helps homes and businesses across the city recover from fire, smoke and soot.",
+ "risk": "rowhouse fires that spread to neighbors, fires in vacant buildings, and heating and electrical fires in old homes",
+ "risk_short": "rowhouse, vacant and heating fires",
+ "why": [
+  "More than four in ten Baltimore homes were built before 1940, most of them brick rowhouses that share walls and roof spaces. A fire in one home often damages the houses on both sides. Fires in vacant rowhouses are especially dangerous; a January 2022 vacant rowhouse fire on South Stricker Street killed three Baltimore firefighters.",
+  "Gas heats about six in ten homes, and some still use oil, which brings puff-back soot. Old wiring and space heaters add winter risk. Board-up after a fire keeps weather and trespassers out of damaged rowhouses."
+ ],
+ "problems": [
+  [
+   "Rowhouse fires affecting neighbors",
+   "Highlandtown, Hampden, Canton and West Baltimore",
+   "<a href=\"/services/fire-damage-repair/\">Fire damage repair</a>"
+  ],
+  [
+   "Fire spreading from vacant rowhouses",
+   "East and West Baltimore",
+   "<a href=\"/services/board-up-and-roof-tarping/\">Board-up and roof tarping</a>"
+  ],
+  [
+   "Smoke through shared walls",
+   "Rowhouses citywide",
+   "<a href=\"/services/smoke-damage-restoration/\">Smoke damage restoration</a>"
+  ],
+  [
+   "Oil burner puff-back soot",
+   "Homes still on oil heat",
+   "<a href=\"/services/soot-removal/\">Soot removal</a>"
+  ]
+ ],
+ "tips": [
+  "Board up and secure a damaged rowhouse quickly.",
+  "Report open vacant buildings to the city.",
+  "Have older wiring checked by a licensed electrician.",
+  "Install smoke alarms on every level."
+ ],
+ "insurance": "Maryland requires home improvement contractors to be licensed by the Maryland Home Improvement Commission, which also runs a guaranty fund for some homeowner losses.",
+ "areas": "SootMend works across Baltimore, including Canton, Fells Point, Federal Hill, Hampden, Roland Park, Mount Vernon, Charles Village and Highlandtown.",
+ "faq": {
+  "q": "What should I do if a vacant rowhouse next door burns in Baltimore?",
+  "a": "Make sure the fire department has cleared your home. Check the shared wall, roof and attic for hidden fire and water damage. Your homeowners policy usually covers your damage; document it and report it."
+ }
+}

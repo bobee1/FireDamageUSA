@@ -1,0 +1,43 @@
+{
+ "lead": "Fort Worth is one of the fastest-growing big cities in the country, with new suburbs, older neighborhoods and open land on its edges. SootMend helps homes and businesses across the city recover from fire, smoke and soot.",
+ "risk": "space heater and electrical fires, grass fires on the city's edges, and fires in new apartments and townhomes",
+ "risk_short": "heater, grass and apartment fires",
+ "why": [
+  "About two in three Fort Worth homes heat with electricity, and hard freezes like February 2021 push families to space heaters, cords and ovens. Older neighborhoods like Fairmount near the Near Southside, Arlington Heights and Ridglea have early homes with older wiring.",
+  "Fast growth to the north around Alliance and to the west means many homes sit next to open grassland. In dry, windy winters, grass fires can reach fences and houses; Tarrant County was part of a FEMA wildfire emergency declaration in 2008. New apartment and townhome communities add shared-attic fire risks."
+ ],
+ "problems": [
+  [
+   "Grass fires near new subdivisions",
+   "Alliance, far north and west Fort Worth",
+   "<a href=\"/services/smoke-damage-restoration/\">Smoke damage restoration</a>"
+  ],
+  [
+   "Space heater fires during freezes",
+   "Homes citywide",
+   "<a href=\"/services/fire-damage-cleanup/\">Fire damage cleanup</a>"
+  ],
+  [
+   "Electrical fires in older homes",
+   "Near Southside, Arlington Heights and Ridglea",
+   "<a href=\"/services/fire-damage-repair/\">Fire damage repair</a>"
+  ],
+  [
+   "Apartment fires through shared attics",
+   "New communities citywide",
+   "<a href=\"/services/commercial-fire-damage-restoration/\">Commercial fire restoration</a>"
+  ]
+ ],
+ "tips": [
+  "Mow a short-grass buffer between homes and open fields.",
+  "Follow Tarrant County burn bans in dry weather.",
+  "Keep space heaters away from beds and turn them off at night.",
+  "Never heat a home with an oven during outages."
+ ],
+ "insurance": "The Texas Department of Insurance takes complaints about stalled fire claims, and the Texas FAIR Plan covers homes private insurers decline.",
+ "areas": "SootMend works across Fort Worth, including Downtown, the Near Southside, the Cultural District, the TCU area, Tanglewood, Alliance, Westover Hills and Ridglea.",
+ "faq": {
+  "q": "Are grass fires a real risk in Fort Worth neighborhoods?",
+  "a": "Yes, on the growing edges of the city. Dry winter grass and strong winds can push fire toward new homes. A mowed buffer, clean gutters and following burn bans all help."
+ }
+}

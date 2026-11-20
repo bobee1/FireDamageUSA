@@ -1,0 +1,49 @@
+{
+ "lead": "Orlando's renters, short-term rentals, lightning and all-electric homes shape its fire damage. SootMend helps homes and businesses across the city recover from fire, smoke and soot.",
+ "risk": "kitchen and electrical fires, lightning fires, and fires in apartments and vacation rentals",
+ "risk_short": "kitchen, lightning and rental fires",
+ "why": [
+  "More than nine in ten Orlando homes heat with electricity, and most need heat only a few days a year. Cooking, dryers, electrical problems and lithium-ion batteries cause most fires. Central Florida also gets frequent summer lightning that can start attic fires.",
+  "About six in ten Orlando households rent, many in large apartment complexes, and the area has many vacation and short-term rentals. Pine flatwoods on the edges of the metro burn in dry springs; Orange County had FEMA fire assistance during the 2001 Orlando Complex Fire. Humid air speeds soot staining."
+ ],
+ "problems": [
+  [
+   "Apartment complex fires",
+   "Metro West, Conway and Lake Nona",
+   "<a href=\"/services/commercial-fire-damage-restoration/\">Commercial fire restoration</a>"
+  ],
+  [
+   "Lightning strike fires",
+   "Homes citywide in summer",
+   "<a href=\"/services/fire-damage-repair/\">Fire damage repair</a>"
+  ],
+  [
+   "Kitchen and dryer fires",
+   "Homes and vacation rentals",
+   "<a href=\"/services/fire-damage-cleanup/\">Fire damage cleanup</a>"
+  ],
+  [
+   "Soot staining in humid air",
+   "Homes citywide",
+   "<a href=\"/services/soot-removal/\">Soot removal</a>"
+  ]
+ ],
+ "tips": [
+  "Clean dryer lint traps every load and vents yearly.",
+  "Charge e-bikes away from exits and never overnight.",
+  "Post fire exits and alarm info inside vacation rentals.",
+  "Run AC or dehumidifiers after a fire."
+ ],
+ "insurance": "Many Floridians are insured through Citizens Property Insurance, and vacation rental owners need a policy that covers rental use.",
+ "areas": "SootMend works across Orlando, including Downtown, College Park, Thornton Park, Baldwin Park, Dr. Phillips, Lake Nona, Conway and Metro West.",
+ "faq": {
+  "q": "Who pays for fire damage in an Orlando vacation rental?",
+  "a": "The owner's rental or landlord policy covers the building and owner's furnishings. Guests' belongings fall under their own insurance. A standard homeowners policy may not cover rental use."
+ },
+ "sources": [
+  [
+   "Citizens Property Insurance Corporation",
+   "https://www.citizensfla.com/"
+  ]
+ ]
+}

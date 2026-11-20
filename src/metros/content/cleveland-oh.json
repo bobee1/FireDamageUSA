@@ -1,0 +1,43 @@
+{
+ "lead": "Cleveland has some of the oldest housing of any big city, with doubles, lake-effect winters and gas heat. SootMend helps homes and businesses across the city recover from fire, smoke and soot.",
+ "risk": "furnace and heating fires in old homes, fires in vacant houses, and smoke spread in up-and-down doubles",
+ "risk_short": "heating, vacant-home and double fires",
+ "why": [
+  "Nearly half of Cleveland's homes were built before 1940, and more than eight in ten before 1980. Up-and-down doubles and wood-frame houses in Slavic Village, Tremont and Detroit-Shoreway often have balloon framing, which lets fire climb inside walls, and old wiring. Natural gas heats nearly eight in ten homes.",
+  "Lake-effect winters keep furnaces and space heaters running for months. Vacant houses on some blocks catch fire and spread it to the homes next door on narrow lots. Board-up is often a first step to keep weather and intruders out."
+ ],
+ "problems": [
+  [
+   "Fires in up-and-down doubles",
+   "Slavic Village, Tremont and Detroit-Shoreway",
+   "<a href=\"/services/commercial-fire-damage-restoration/\">Commercial fire restoration</a>"
+  ],
+  [
+   "Fire spreading from vacant houses",
+   "East and west side blocks",
+   "<a href=\"/services/board-up-and-roof-tarping/\">Board-up and roof tarping</a>"
+  ],
+  [
+   "Fire inside balloon-framed walls",
+   "Pre-war homes citywide",
+   "<a href=\"/services/fire-damage-repair/\">Fire damage repair</a>"
+  ],
+  [
+   "Basement furnace fires",
+   "Older homes with gas heat",
+   "<a href=\"/services/soot-removal/\">Soot removal</a>"
+  ]
+ ],
+ "tips": [
+  "Keep basement storage clear of the furnace and water heater.",
+  "Install smoke alarms in both units of a double.",
+  "Report open vacant houses to the city.",
+  "If a fire cuts the heat in winter, protect pipes right away."
+ ],
+ "insurance": "In doubles, the owner's policy covers the building, and each tenant needs renters insurance for belongings and temporary housing.",
+ "areas": "SootMend works across Cleveland, including Ohio City, Tremont, Detroit-Shoreway, University Circle, Old Brooklyn, Slavic Village, Collinwood and Downtown.",
+ "faq": {
+  "q": "Why do fires spread inside walls in older Cleveland homes?",
+  "a": "Many homes built before about 1940 use balloon framing, with studs running from basement to attic and no fire blocks. Fire and smoke travel up inside walls. Repairs often add fire blocking."
+ }
+}

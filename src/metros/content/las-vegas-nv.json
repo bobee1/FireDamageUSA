@@ -1,0 +1,43 @@
+{
+ "lead": "Las Vegas's desert heat, fast growth and large rental market shape its fire damage. SootMend helps homes and businesses across the valley recover from fire, smoke and soot.",
+ "risk": "electrical and AC fires in extreme heat, apartment and rental fires, and wildfire smoke from the mountains",
+ "risk_short": "electrical, apartment fires and smoke",
+ "why": [
+  "Las Vegas summers push air conditioners, pool pumps and wiring to their limits. Attic air handlers and overloaded circuits can overheat. Most homes were built since the 1990s, often with attached garages and stucco walls that resist flames but let smoke in through vents.",
+  "Many residents rent, in apartments, condos and short-term rentals. Fire in one unit spreads smoke through shared attics. In the Spring Mountains, the 2013 Carpenter 1 Fire led to a FEMA fire management declaration and sent smoke into the valley."
+ ],
+ "problems": [
+  [
+   "AC and electrical fires in summer",
+   "Homes valley-wide",
+   "<a href=\"/services/fire-damage-cleanup/\">Fire damage cleanup</a>"
+  ],
+  [
+   "Apartment and condo fires",
+   "Paradise, Spring Valley and Downtown",
+   "<a href=\"/services/commercial-fire-damage-restoration/\">Commercial fire restoration</a>"
+  ],
+  [
+   "Garage fires spreading into homes",
+   "Summerlin, Centennial Hills and Enterprise",
+   "<a href=\"/services/fire-damage-repair/\">Fire damage repair</a>"
+  ],
+  [
+   "Wildfire smoke odor",
+   "Northwest valley on smoke days",
+   "<a href=\"/services/smoke-odor-removal/\">Smoke odor removal</a>"
+  ]
+ ],
+ "tips": [
+  "Have AC units and attic wiring checked before summer.",
+  "Keep gasoline and propane out of attached garages.",
+  "Never leave cooking unattended.",
+  "Replace AC filters after any smoke event."
+ ],
+ "insurance": "Short-term rental owners in Las Vegas need a policy that covers rental use; a standard homeowners policy may not pay for a fire during a guest stay.",
+ "areas": "SootMend works across Las Vegas, including Summerlin, Downtown, Centennial Hills, Spring Valley, The Lakes, Desert Shores, Paradise and Enterprise.",
+ "faq": {
+  "q": "Why do electrical fires spike in Las Vegas summers?",
+  "a": "AC systems, pool pumps and wiring run near full load for months. Worn connections and overloaded circuits overheat. Yearly AC service and checking older panels reduce the risk."
+ }
+}

@@ -1,0 +1,43 @@
+{
+ "lead": "Durham mixes historic mill-era neighborhoods, a large university and fast new growth. SootMend helps homes and businesses across the city recover from fire, smoke and soot.",
+ "risk": "kitchen and electrical fires, fires in older mill houses and rentals, and space heater fires",
+ "risk_short": "kitchen, electrical and old-home fires",
+ "why": [
+  "Durham's tobacco and textile past left neighborhoods like Walltown, Old West Durham and Trinity Park full of early 1900s mill houses and bungalows. Many have older wiring, crawl spaces and wood siding, and some have been split into rentals for Duke and NCCU students.",
+  "About six in ten homes heat with electricity, so space heaters come out in cold snaps. Newer apartments downtown and in south Durham let smoke spread through halls and shared attics. Humid summers make soot stain quickly if left."
+ ],
+ "problems": [
+  [
+   "Electrical fires in mill houses",
+   "Walltown, Old West Durham and East Durham",
+   "<a href=\"/services/fire-damage-repair/\">Fire damage repair</a>"
+  ],
+  [
+   "Kitchen fires in student rentals",
+   "Near Duke and NCCU",
+   "<a href=\"/services/fire-damage-cleanup/\">Fire damage cleanup</a>"
+  ],
+  [
+   "Apartment fires",
+   "Downtown and South Durham",
+   "<a href=\"/services/commercial-fire-damage-restoration/\">Commercial fire restoration</a>"
+  ],
+  [
+   "Smoke odor in crawl spaces",
+   "Older homes",
+   "<a href=\"/services/smoke-odor-removal/\">Smoke odor removal</a>"
+  ]
+ ],
+ "tips": [
+  "Have older wiring checked before adding big appliances.",
+  "Never leave cooking unattended in shared rentals.",
+  "Turn off space heaters when you leave the room.",
+  "Test smoke alarms monthly."
+ ],
+ "insurance": "Students living off campus may have only limited coverage under a parent's policy; a renters policy usually gives better protection.",
+ "areas": "SootMend works across Durham, including Downtown, Trinity Park, Walltown, Old West Durham, Forest Hills, Hope Valley, Woodcroft and Brightleaf.",
+ "faq": {
+  "q": "Can a fire-damaged mill house in Durham be restored?",
+  "a": "Usually. Smoke and soot can be cleaned, and burned sections rebuilt. Older wiring often needs updating during repairs, and homes in historic districts may need review for exterior changes."
+ }
+}

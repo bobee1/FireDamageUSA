@@ -1,0 +1,43 @@
+{
+ "lead": "Indianapolis has older city neighborhoods, long gas-heated winters and a fire death risk above the national average. SootMend helps homes and businesses across the city recover from fire, smoke and soot.",
+ "risk": "furnace and space heater fires, electrical fires in older homes, and fires in vacant houses",
+ "risk_short": "furnace, electrical and vacant-home fires",
+ "why": [
+  "In 2023, people in Indiana were 1.2 times as likely to die in a fire as the U.S. as a whole, the U.S. Fire Administration says. About six in ten Indianapolis homes were built before 1980. Many have old wiring, basements and gas furnaces. Space heaters fill gaps in drafty homes when it gets cold.",
+  "Fountain Square, Irvington and the Near Eastside have early 1900s homes. Some blocks have empty houses where fires start and spread next door. The north side adds apartments and townhomes with shared attics."
+ ],
+ "problems": [
+  [
+   "Furnace and space heater fires",
+   "Older homes citywide",
+   "<a href=\"/services/fire-damage-cleanup/\">Fire damage cleanup</a>"
+  ],
+  [
+   "Fire spreading from empty houses",
+   "Near Eastside and older blocks",
+   "<a href=\"/services/board-up-and-roof-tarping/\">Board-up and roof tarping</a>"
+  ],
+  [
+   "Wiring fires in older homes",
+   "Fountain Square, Irvington and Butler-Tarkington",
+   "<a href=\"/services/fire-damage-repair/\">Fire damage repair</a>"
+  ],
+  [
+   "Apartment fires",
+   "North side and Castleton",
+   "<a href=\"/services/commercial-fire-damage-restoration/\">Commercial fire restoration</a>"
+  ]
+ ],
+ "tips": [
+  "Have the furnace serviced every fall.",
+  "Plug space heaters straight into the wall.",
+  "Report open vacant houses to the city.",
+  "Install smoke alarms in every bedroom and on every level."
+ ],
+ "insurance": "Ask any repair contractor for references and proof of insurance before you sign.",
+ "areas": "SootMend works across Indianapolis, including Broad Ripple, Fountain Square, Irvington, Meridian-Kessler, Mass Ave, Butler-Tarkington, Castleton and Lawrence.",
+ "faq": {
+  "q": "What if an empty house next door burned in Indianapolis?",
+  "a": "Wait until the fire department says it is safe. Then check your siding, windows, roof and attic for heat and smoke. Your own home policy usually pays for your damage. Take photos and report it."
+ }
+}

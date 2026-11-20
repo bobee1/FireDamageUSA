@@ -1,0 +1,49 @@
+{
+ "lead": "Long Beach's older apartments, coastal air and Los Angeles County wildfire smoke shape its fire damage. SootMend helps homes and businesses across the city recover from fire, smoke and soot.",
+ "risk": "apartment fires, kitchen and electrical fires in older buildings, and wildfire smoke and ash",
+ "risk_short": "apartment, electrical fires and smoke",
+ "why": [
+  "About six in ten Long Beach households rent, many in older apartment buildings in Alamitos Beach, Downtown and North Long Beach. Nearly eight in ten homes were built before 1980, often with older wiring. Fires spread smoke through shared halls and attics.",
+  "Los Angeles County has had more than 50 FEMA fire declarations since 2000, and wildfire smoke and ash from those fires drift over Long Beach. Mild weather means many homes use little heat, so cooking, electrical and battery fires cause most damage. Salt air speeds corrosion once soot lands on metal."
+ ],
+ "problems": [
+  [
+   "Apartment fires",
+   "Alamitos Beach, Downtown and North Long Beach",
+   "<a href=\"/services/commercial-fire-damage-restoration/\">Commercial fire restoration</a>"
+  ],
+  [
+   "Electrical fires in older buildings",
+   "Neighborhoods citywide",
+   "<a href=\"/services/fire-damage-repair/\">Fire damage repair</a>"
+  ],
+  [
+   "Wildfire smoke and ash",
+   "Homes citywide during LA County fires",
+   "<a href=\"/services/smoke-damage-restoration/\">Smoke damage restoration</a>"
+  ],
+  [
+   "Corrosion of metal after soot",
+   "Homes near the coast",
+   "<a href=\"/services/contents-cleaning/\">Contents cleaning and pack-out</a>"
+  ]
+ ],
+ "tips": [
+  "Charge e-bikes away from exits and never overnight.",
+  "Know your building's exits and alarm locations.",
+  "Clean soot from metal fixtures quickly near the coast.",
+  "Keep windows closed on smoky days."
+ ],
+ "insurance": "If private insurers decline you, the California FAIR Plan offers basic fire coverage; renters need their own policy for belongings.",
+ "areas": "SootMend works across Long Beach, including Belmont Shore, Naples, Bixby Knolls, California Heights, Alamitos Beach, Los Altos, Downtown and North Long Beach.",
+ "faq": {
+  "q": "Does soot cause more damage near the coast in Long Beach?",
+  "a": "It can. Soot is acidic, and salt air adds moisture and chlorides. Together they corrode metal and electronics faster. Cleaning within days limits the damage."
+ },
+ "sources": [
+  [
+   "California FAIR Plan",
+   "https://www.cfpnet.com/"
+  ]
+ ]
+}

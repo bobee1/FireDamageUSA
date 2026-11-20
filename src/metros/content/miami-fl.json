@@ -1,0 +1,49 @@
+{
+ "lead": "Miami's high-rises, renters, humidity and all-electric homes shape its fire damage. SootMend helps homes and businesses across the city recover from fire, smoke and soot.",
+ "risk": "kitchen and electrical fires, lithium-ion battery fires, and smoke spread in condo and apartment towers",
+ "risk_short": "kitchen, battery and high-rise fires",
+ "why": [
+  "Nine in ten Miami homes heat with electricity, and many use no heating fuel at all. Cooking, dryers, electrical problems and lithium-ion batteries in e-bikes and scooters cause most fires. About seven in ten households rent.",
+  "Brickell, Downtown and Edgewater are full of condo and apartment towers where smoke spreads through halls, trash chutes and shafts to units far from the fire. Older homes in Little Havana and Allapattah may have older wiring. Humid air makes soot set into surfaces fast."
+ ],
+ "problems": [
+  [
+   "Smoke in high-rise condos and apartments",
+   "Brickell, Downtown and Edgewater",
+   "<a href=\"/services/commercial-fire-damage-restoration/\">Commercial fire restoration</a>"
+  ],
+  [
+   "Lithium-ion battery fires",
+   "Apartments and garages",
+   "<a href=\"/services/fire-damage-cleanup/\">Fire damage cleanup</a>"
+  ],
+  [
+   "Soot staining in humid air",
+   "Homes citywide",
+   "<a href=\"/services/soot-removal/\">Soot removal</a>"
+  ],
+  [
+   "Electrical fires in older homes",
+   "Little Havana and Allapattah",
+   "<a href=\"/services/fire-damage-repair/\">Fire damage repair</a>"
+  ]
+ ],
+ "tips": [
+  "Charge e-bikes and scooters away from exits and never overnight.",
+  "Close your door when you leave a burning unit.",
+  "Run AC or dehumidifiers after a fire.",
+  "Know your building's fire exits and alarm locations."
+ ],
+ "insurance": "Condo owners need their own HO-6 policy for interiors and belongings; the association's master policy covers the building, and Citizens insures many Miami properties.",
+ "areas": "SootMend works across Miami, including Brickell, Downtown, Edgewater, Wynwood, Little Havana, Coconut Grove, Allapattah and Coral Way.",
+ "faq": {
+  "q": "Who pays for smoke damage in a Miami condo from a fire on another floor?",
+  "a": "The association's master policy covers the building and common areas. Your own condo or renters policy covers your belongings, interior finishes it insures and extra living costs. Report the damage to the association and your insurer."
+ },
+ "sources": [
+  [
+   "Citizens Property Insurance Corporation",
+   "https://www.citizensfla.com/"
+  ]
+ ]
+}

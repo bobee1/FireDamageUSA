@@ -15,19 +15,17 @@ Last updated: 2026-11-19
 - Build 3 — Home, services hub and 8 service pages (done): home (1,498 words), services hub, 8 service pages (1,103–1,304 words) per the keyword map; 10 Pexels photos; tables scroll on phones; audit 0 issues, FK 5.9–8.9.
 - Build 4 — Locations hub, 50 state pages and DC (done): `states.py` + hand-written copy per state; ACS heating fuel, OpenFEMA fire declarations and USFA 2023 fire deaths in `research/07`–`09`; heating bar chart; 1,053–1,182 words per state.
 - Build 5 — Guides hub, 12 guides and glossary (done): 12 guides (1,368–1,786 words) with branded images, 55-term glossary with auto-links, briefs in `docs/guide-briefs.md`.
+- Build 6 — Wave 1 city pages, batch 1 (done): 25 cities (Denver to Salt Lake City) built by `metros.py`; city heating fuel and county FEMA fire data in `research/10`–`12`; city links on state pages, hub and home.
 
-## Current — Build 6: Wave 1 city pages, batch 1 of 2 (done)
-- **25 city pages** at `/locations/<state>/<city>/` (1,054–1,243 words each): Denver, San Diego, Dallas, Los Angeles, Houston, Colorado Springs, Charlotte, Columbus, Atlanta, Austin, Chicago, Jacksonville, Tampa, Sacramento, Plano, Arlington, Raleigh, San Antonio, Minneapolis, Kansas City (MO), Mesa, Cincinnati, Seattle, Phoenix and Salt Lake City — Wave 1 ranks 1–25 by Semrush demand.
-- **Generator:** `metros.py` builds each page from data plus hand-written copy in `src/metros/content/<slug>.json` (source: `scripts/metro_content/batch1.py` → `gen.py`). A city goes live only when its content file exists, so batch 2 just adds files.
-- **Each city page has:** quick answer with county and ZIPs; a facts table (population, housing age, owner share, main heating fuel, county FEMA fire declarations since 2000 and the latest one); a housing paragraph; local "why it's different" copy naming real neighborhoods and past fires; a heating bar chart and paragraph; a problems → service table; tips; neighborhoods served with links to nearby city pages; insurance, permit and contractor-board notes linking the state page; 4 FAQs; services grid; nearby links; helpful guides; 6–8 sources; Service schema with `areaServed` and `containedInPlace`.
-- **New data (pulled 2026-11-19):** `research/10-city-heating-fuel.json` (ACS 2024 5-year B25040 for all 50 Wave 1 cities), `research/11-county-fire-declarations.json` (OpenFEMA fire declarations by county), `research/12-city-acs.json` (housing data, reused from the sister project). `src/metros/meta.json` holds all 50 Wave 1 cities (batch 1 and 2), with Kansas City, MO and Portland, OR chosen for the ambiguous names.
-- **Links:** state pages list their city pages; the locations hub has a "City pages" list; the home page links eight major cities; nearby cities link both ways.
-- **Checks:** audit PASS 0 issues (109 pages); reading grade ≤ 9 and no repeated paragraphs; site audit clean (every city has 3+ inbound links); no overflow or console errors at 360/768/1280.
+## Current — Build 6b: Wave 1 city pages, batch 2 (done)
+- **25 more city pages** (Wave 1 ranks 26–50): Baton Rouge, New York, Fort Worth, Nashville, Durham, Orlando, Philadelphia, Las Vegas, Indianapolis, Portland (OR), Omaha, Louisville, Cleveland, Aurora, Tucson, Boise, Madison, Reno, Miami, Wichita, Baltimore, Memphis, Pittsburgh, Long Beach and Gilbert. All 50 Wave 1 cities are now live.
+- Copy in `scripts/metro_content/batch2.py`, with local fire history where it applies: the 2022 Fairmount rowhouse fire (Philadelphia), the 2022 Stricker Street vacant rowhouse fire (Baltimore), the Caughlin and Washoe Drive fires (Reno), the Aspen and Bighorn fires (Tucson), the 2016 Table Rock Fire (Boise), the 2020 Labor Day fires (Portland), e-bike battery fires and oil heat (New York).
+- Home page now links nine major cities, Nashville included; nearby-city links now connect both batches.
+- **Checks:** audit PASS 0 issues (134 pages); reading grade ≤ 9 and no repeated paragraphs; site audit clean (every city has 6+ inbound links); no overflow or console errors at 360/768/1280.
 
 ## Coming
 | Build | Scope | Needs from owner |
 | --- | --- | --- |
-| 6b | Wave 1 batch 2: cities 26–50 (Baton Rouge, New York, Fort Worth, Nashville, Durham, Orlando, Philadelphia, Las Vegas, Indianapolis, Portland, Omaha, Louisville, Cleveland, Aurora, Tucson, Boise, Madison, Reno, Miami, Wichita, Baltimore, Memphis, Pittsburgh, Long Beach, Gilbert). | — |
 | 7+ | Cities 51–62, then suburbs scored from a second Semrush pull, 25 at a time, once 70%+ of Wave 1 is indexed. | Search Console access |
 | Launch | Buy sootmend.us, Cloudflare Pages project, real toll-free number, email, Resend keys, Search Console + analytics. | Domain, number, email, Resend key |
 

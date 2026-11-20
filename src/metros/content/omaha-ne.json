@@ -1,0 +1,43 @@
+{
+ "lead": "Omaha's older brick neighborhoods, long gas-heated winters and spring storms shape its fire damage. SootMend helps homes and businesses across the city recover from fire, smoke and soot.",
+ "risk": "furnace and heating fires, electrical fires in older homes, and lightning fires in spring storms",
+ "risk_short": "furnace, electrical and lightning fires",
+ "why": [
+  "Natural gas heats more than seven in ten Omaha homes, and furnaces run through long, cold winters. About six in ten homes were built before 1980, and neighborhoods like Dundee, Benson and Florence have early 1900s houses with basements, original wiring and plaster walls.",
+  "Spring and summer thunderstorms bring lightning that can start attic fires. On the west side, newer subdivisions in Millard and Elkhorn have open layouts and attached garages, where garage fires can spread into the house."
+ ],
+ "problems": [
+  [
+   "Basement furnace fires",
+   "Dundee, Benson and Midtown",
+   "<a href=\"/services/soot-removal/\">Soot removal</a>"
+  ],
+  [
+   "Electrical fires in older homes",
+   "Older neighborhoods citywide",
+   "<a href=\"/services/fire-damage-repair/\">Fire damage repair</a>"
+  ],
+  [
+   "Lightning strike fires",
+   "Homes during spring storms",
+   "<a href=\"/services/fire-damage-cleanup/\">Fire damage cleanup</a>"
+  ],
+  [
+   "Garage fires spreading into homes",
+   "Millard and Elkhorn",
+   "<a href=\"/services/smoke-damage-restoration/\">Smoke damage restoration</a>"
+  ]
+ ],
+ "tips": [
+  "Service furnaces every fall and keep storage away from them.",
+  "Consider a whole-house surge protector for storm season.",
+  "Keep the door between the garage and house closed.",
+  "Install smoke alarms on every level."
+ ],
+ "insurance": "Nebraska homeowners often have separate wind and hail deductibles, but fire claims usually use the regular deductible.",
+ "areas": "SootMend works across Omaha, including Dundee, Benson, the Old Market, Aksarben, Midtown, Florence, Millard and Elkhorn.",
+ "faq": {
+  "q": "Is a lightning fire covered by insurance in Omaha?",
+  "a": "Usually. Lightning and the fire it causes are covered perils on standard home policies. Surge damage to electronics may also be covered. Report the loss quickly and document the damage."
+ }
+}

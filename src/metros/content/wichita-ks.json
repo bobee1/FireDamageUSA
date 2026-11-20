@@ -1,0 +1,43 @@
+{
+ "lead": "Wichita's older homes, gas heat and prairie winds shape its fire damage. SootMend helps homes and businesses across the city recover from fire, smoke and soot.",
+ "risk": "furnace and space heater fires, electrical fires in older homes, and grass fires on the city's edges",
+ "risk_short": "furnace, electrical and grass fires",
+ "why": [
+  "Kansas residents were 1.7 times as likely to die in a fire as the U.S. population in 2023, according to the U.S. Fire Administration. Natural gas heats about seven in ten Wichita homes, and nearly six in ten were built before 1980. College Hill, Riverside and Delano have older homes with basements and original wiring.",
+  "Strong prairie winds and dry grass can push fires toward homes on the city's edges, especially in late winter and spring. Mobile homes make up a small but real share of housing and burn quickly."
+ ],
+ "problems": [
+  [
+   "Furnace and space heater fires",
+   "Older homes citywide",
+   "<a href=\"/services/fire-damage-cleanup/\">Fire damage cleanup</a>"
+  ],
+  [
+   "Electrical fires in older homes",
+   "College Hill, Riverside and Delano",
+   "<a href=\"/services/fire-damage-repair/\">Fire damage repair</a>"
+  ],
+  [
+   "Grass fires near homes",
+   "Edges of the city",
+   "<a href=\"/services/smoke-damage-restoration/\">Smoke damage restoration</a>"
+  ],
+  [
+   "Mobile home fires",
+   "Communities across Wichita",
+   "<a href=\"/services/contents-cleaning/\">Contents cleaning and pack-out</a>"
+  ]
+ ],
+ "tips": [
+  "Service furnaces each fall.",
+  "Keep space heaters three feet from anything that can burn.",
+  "Never burn outdoors on red flag days.",
+  "Install smoke alarms in every bedroom."
+ ],
+ "insurance": "Kansas homeowners often have high wind and hail deductibles, but fire claims usually use the regular deductible, so check your declarations page.",
+ "areas": "SootMend works across Wichita, including College Hill, Riverside, Delano, Old Town, Crown Heights, Rockhurst, Linwood and Northeast Wichita.",
+ "faq": {
+  "q": "Why is fire risk higher in Kansas than average?",
+  "a": "Older homes, space heaters, rural distances and wind-driven grass fires all play a part. Working smoke alarms, safe heater use and yearly furnace service make the biggest difference."
+ }
+}

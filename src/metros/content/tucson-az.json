@@ -1,0 +1,43 @@
+{
+ "lead": "Tucson sits among mountain ranges where wildfires burn every few years, with older adobe neighborhoods and many manufactured homes. SootMend helps homes and businesses across the city recover from fire, smoke and soot.",
+ "risk": "mountain wildfires and smoke, electrical and AC fires in summer, and manufactured home fires",
+ "risk_short": "wildfires, smoke, electrical fires",
+ "why": [
+  "Tucson is ringed by mountains. The 2003 Aspen Fire burned hundreds of homes in Summerhaven on Mount Lemmon, and the 2020 Bighorn Fire in the Santa Catalinas led to a FEMA fire management declaration and weeks of smoke over the city. Homes in the Catalina Foothills and Tanque Verde sit next to desert brush.",
+  "Gas and electricity split the heating load, and air conditioners run hard in summer. About 6% of housing is mobile or manufactured homes, which burn fast. Older adobe and brick homes in Barrio Viejo and Sam Hughes hold smoke odor in plaster and wood ceilings."
+ ],
+ "problems": [
+  [
+   "Wildfire smoke and ash",
+   "Catalina Foothills, Tanque Verde and the north side",
+   "<a href=\"/services/smoke-damage-restoration/\">Smoke damage restoration</a>"
+  ],
+  [
+   "AC and electrical fires",
+   "Homes citywide in summer",
+   "<a href=\"/services/fire-damage-cleanup/\">Fire damage cleanup</a>"
+  ],
+  [
+   "Manufactured home fires",
+   "Communities across the city",
+   "<a href=\"/services/contents-cleaning/\">Contents cleaning and pack-out</a>"
+  ],
+  [
+   "Smoke odor in adobe and plaster",
+   "Barrio Viejo and Sam Hughes",
+   "<a href=\"/services/smoke-odor-removal/\">Smoke odor removal</a>"
+  ]
+ ],
+ "tips": [
+  "Clear brush and keep the first five feet around foothill homes bare.",
+  "Have AC units checked before summer.",
+  "Keep smoke alarms in every bedroom of a manufactured home.",
+  "Use a HEPA air cleaner during fire season."
+ ],
+ "insurance": "Arizona's Registrar of Contractors licenses repair contractors, so look up the license before work starts.",
+ "areas": "SootMend works across Tucson, including Downtown, Sam Hughes, the Catalina Foothills, Midtown, Rita Ranch, the Oro Valley area, Barrio Viejo and Tanque Verde.",
+ "faq": {
+  "q": "Can smoke odor be removed from an adobe home in Tucson?",
+  "a": "Usually. Plaster and wood ceilings absorb smoke, so they need dry cleaning, careful washing and sometimes sealing. Cleaning ducts and treating odor completes the job."
+ }
+}

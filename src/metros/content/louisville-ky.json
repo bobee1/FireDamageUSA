@@ -1,0 +1,43 @@
+{
+ "lead": "Louisville has one of the largest Victorian neighborhoods in the country, plus shotgun houses, older suburbs and gas-heated homes. SootMend helps homes and businesses across the city recover from fire, smoke and soot.",
+ "risk": "heating and electrical fires in older homes, space heater fires, and fires spreading between close-set houses",
+ "risk_short": "heating, electrical and old-home fires",
+ "why": [
+  "Kentucky residents were 1.7 times as likely to die in a fire as the U.S. population in 2023, according to the U.S. Fire Administration. About six in ten Louisville homes were built before 1980. Old Louisville's Victorian mansions and the shotgun houses of Germantown and Butchertown have older wiring, plaster walls and narrow side yards where fire spreads between homes.",
+  "Gas heats about six in ten homes, and space heaters fill gaps in drafty older houses. Many large Victorians have been divided into apartments, where smoke moves through shared stairs and walls."
+ ],
+ "problems": [
+  [
+   "Fires in divided Victorian homes",
+   "Old Louisville and the Highlands",
+   "<a href=\"/services/commercial-fire-damage-restoration/\">Commercial fire restoration</a>"
+  ],
+  [
+   "Fire spreading between shotgun houses",
+   "Germantown, Butchertown and Portland",
+   "<a href=\"/services/fire-damage-repair/\">Fire damage repair</a>"
+  ],
+  [
+   "Space heater fires",
+   "Older homes citywide",
+   "<a href=\"/services/fire-damage-cleanup/\">Fire damage cleanup</a>"
+  ],
+  [
+   "Smoke odor in plaster walls",
+   "Pre-war homes",
+   "<a href=\"/services/smoke-odor-removal/\">Smoke odor removal</a>"
+  ]
+ ],
+ "tips": [
+  "Plug space heaters straight into the wall and turn them off at night.",
+  "Have older wiring checked by a licensed electrician.",
+  "Make sure every unit in a divided house has smoke alarms.",
+  "Keep side yards between close houses clear of trash and firewood."
+ ],
+ "insurance": "Historic homes may cost more to restore, so ask your agent about replacement cost and ordinance or law coverage before a loss.",
+ "areas": "SootMend works across Louisville, including Old Louisville, the Highlands, Germantown, Crescent Hill, Clifton, Butchertown, Portland and Beechmont.",
+ "faq": {
+  "q": "Can a fire-damaged Victorian home in Louisville be restored?",
+  "a": "Usually. Plaster, trim and woodwork can often be cleaned and repaired. Burned framing and wiring are replaced, and historic preservation rules may apply to exterior work."
+ }
+}

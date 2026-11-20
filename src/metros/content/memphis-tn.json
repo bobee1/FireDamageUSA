@@ -1,0 +1,43 @@
+{
+ "lead": "Memphis has older housing, a high fire death risk and many vacant homes. SootMend helps homes and businesses across the city recover from fire, smoke and soot.",
+ "risk": "space heater and electrical fires, fires in vacant homes, and kitchen fires",
+ "risk_short": "heater, electrical and vacant-home fires",
+ "why": [
+  "Tennessee residents were 1.9 times as likely to die in a fire as the U.S. population in 2023, according to the U.S. Fire Administration. More than half of Memphis homes heat with electricity, and space heaters and extension cords are common in cold snaps. About two in three homes were built before 1980.",
+  "Midtown and Cooper-Young have early 1900s homes with older wiring, and some neighborhoods have many vacant houses where fires start and spread. More than half of households rent, often in older apartment complexes."
+ ],
+ "problems": [
+  [
+   "Space heater fires",
+   "Homes citywide",
+   "<a href=\"/services/fire-damage-cleanup/\">Fire damage cleanup</a>"
+  ],
+  [
+   "Fire spreading from vacant homes",
+   "North and South Memphis",
+   "<a href=\"/services/board-up-and-roof-tarping/\">Board-up and roof tarping</a>"
+  ],
+  [
+   "Electrical fires in older homes",
+   "Midtown and Cooper-Young",
+   "<a href=\"/services/fire-damage-repair/\">Fire damage repair</a>"
+  ],
+  [
+   "Apartment fires",
+   "Hickory Hill, Whitehaven and Raleigh",
+   "<a href=\"/services/commercial-fire-damage-restoration/\">Commercial fire restoration</a>"
+  ]
+ ],
+ "tips": [
+  "Plug space heaters straight into the wall and turn them off at night.",
+  "Report open vacant houses to the city.",
+  "Install smoke alarms in every bedroom.",
+  "Keep renters insurance for your belongings."
+ ],
+ "insurance": "Tennessee's Board for Licensing Contractors licenses many repair contractors, so check the license before large jobs.",
+ "areas": "SootMend works across Memphis, including Midtown, Cooper-Young, East Memphis, Downtown, Whitehaven, Hickory Hill, Cordova and Raleigh.",
+ "faq": {
+  "q": "Why is fire risk high in Memphis?",
+  "a": "Older homes, space heaters, vacant houses and many renters without insurance all play a part. Working smoke alarms and safe heater use make the biggest difference."
+ }
+}

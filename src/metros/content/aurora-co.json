@@ -1,0 +1,43 @@
+{
+ "lead": "Aurora is Colorado's third-largest city, with newer suburbs, older original neighborhoods and open plains to the east. SootMend helps homes and businesses across the city recover from fire, smoke and soot.",
+ "risk": "furnace and kitchen fires, grass fires on the eastern plains, and wildfire smoke from the Front Range",
+ "risk_short": "furnace, grass fires and wildfire smoke",
+ "why": [
+  "Natural gas heats about six in ten Aurora homes, and furnaces run through long, dry winters. Original Aurora and Hoffman Heights have mid-century homes with older wiring, while newer neighborhoods like Southlands and Tallyn's Reach have open layouts where smoke spreads fast.",
+  "To the east, homes border dry plains grass that burns in wind. Arapahoe County was part of a 2002 FEMA wildfire major disaster declaration. Smoke from foothill fires, like the 2021 Marshall Fire, often drifts over the metro."
+ ],
+ "problems": [
+  [
+   "Grass fires near new subdivisions",
+   "Eastern Aurora and Murphy Creek",
+   "<a href=\"/services/smoke-damage-restoration/\">Smoke damage restoration</a>"
+  ],
+  [
+   "Furnace and kitchen fires",
+   "Homes citywide",
+   "<a href=\"/services/fire-damage-cleanup/\">Fire damage cleanup</a>"
+  ],
+  [
+   "Apartment fires",
+   "North Aurora and the Havana corridor",
+   "<a href=\"/services/commercial-fire-damage-restoration/\">Commercial fire restoration</a>"
+  ],
+  [
+   "Smoke odor in ducts",
+   "Homes with forced-air heat",
+   "<a href=\"/services/smoke-odor-removal/\">Smoke odor removal</a>"
+  ]
+ ],
+ "tips": [
+  "Mow a short-grass buffer between homes and open land.",
+  "Have the furnace serviced each fall.",
+  "Use a MERV 13 filter on smoky days.",
+  "Keep grills away from wood fences."
+ ],
+ "insurance": "Colorado has no statewide general contractor license, so Aurora's building division sets permit and contractor rules for fire repairs.",
+ "areas": "SootMend works across Aurora, including Original Aurora, Saddle Rock, Southlands, Tallyn's Reach, Hoffman Heights, Village East, Murphy Creek and Mission Viejo.",
+ "faq": {
+  "q": "Is wildfire a risk in Aurora?",
+  "a": "Mostly as grass fires on the city's eastern edge and as smoke from foothill fires. Keep a mowed buffer near open land and change furnace filters after smoke events."
+ }
+}

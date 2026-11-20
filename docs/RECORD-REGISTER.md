@@ -61,4 +61,8 @@ A dated log of every step. Newest entries at the bottom. Status: Done / In progr
 | 55 | 2026-11-19 | 6 | City links on state pages, locations hub and home page | Done | — |
 | 56 | 2026-11-19 | 6 | Checks: audit 0 issues, FK ≤ 9, site audit clean, responsive 360/768/1280 | Done | 109 pages |
 | 57 | 2026-11-19 | 6 | STATUS.md and register updated; committed and pushed | Done | Branch `main` |
-| 58 | — | 6b | Wave 1 batch 2: cities 26–50 (Nashville included) | Planned | Next build |
+| 58 | 2026-11-19 | 6b | Hand-written copy for cities 26–50 (Nashville included) | Done | `scripts/metro_content/batch2.py` |
+| 59 | 2026-11-19 | 6b | Home page links nine cities; nearby links span both batches | Done | — |
+| 60 | 2026-11-19 | 6b | Checks: audit 0 issues, FK ≤ 9, site audit clean, responsive 360/768/1280 | Done | 134 pages |
+| 61 | 2026-11-19 | 6b | STATUS.md and register updated; committed and pushed | Done | Branch `main` |
+| 62 | — | 7 | Cities 51–62, then suburbs from a second Semrush pull | Planned | Next build |

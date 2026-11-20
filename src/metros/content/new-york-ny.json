@@ -1,0 +1,43 @@
+{
+ "lead": "New York City's apartment buildings, brownstones and oil-heated buildings make its fire damage unlike anywhere else. SootMend helps homes and businesses in all five boroughs recover from fire, smoke and soot.",
+ "risk": "apartment fires that spread smoke to many units, lithium-ion battery fires, and oil burner puff-backs",
+ "risk_short": "apartment, battery and puff-back fires",
+ "why": [
+  "Two in three New Yorkers rent, and most live in multi-unit buildings. A fire in one apartment sends smoke up stairwells, elevator shafts and halls to units many floors away, and water from fire hoses runs down to the floors below. Lithium-ion batteries in e-bikes and scooters have become a leading cause of serious fires in the city in recent years.",
+  "More than one in ten city homes still heat with fuel oil, often from a building boiler, so puff-backs can coat apartments in oily soot. Nearly four in ten homes were built before 1940. Brownstones, row houses and walk-ups often have old wiring and shared walls."
+ ],
+ "problems": [
+  [
+   "Smoke in apartments far from the fire",
+   "Buildings in all five boroughs",
+   "<a href=\"/services/commercial-fire-damage-restoration/\">Commercial fire restoration</a>"
+  ],
+  [
+   "Lithium-ion battery fires",
+   "Apartments, basements and storefronts",
+   "<a href=\"/services/fire-damage-cleanup/\">Fire damage cleanup</a>"
+  ],
+  [
+   "Oil burner puff-back soot",
+   "Buildings on oil heat",
+   "<a href=\"/services/soot-removal/\">Soot removal</a>"
+  ],
+  [
+   "Water damage on floors below a fire",
+   "Multi-story buildings",
+   "<a href=\"/services/fire-damage-repair/\">Fire damage repair</a>"
+  ]
+ ],
+ "tips": [
+  "Charge e-bikes and scooters only with the maker's charger, away from exits, and never overnight.",
+  "Close the door behind you when you leave a burning apartment.",
+  "Keep hallways and fire escapes clear.",
+  "Ask your building about its boiler service schedule."
+ ],
+ "insurance": "Co-op and condo owners need their own policy for interiors and belongings, because the building's policy rarely covers everything inside a unit.",
+ "areas": "SootMend works in all five boroughs, including the Upper West Side, Harlem, Park Slope, Williamsburg, Astoria, Riverdale, the Rockaways and Staten Island's North Shore.",
+ "faq": {
+  "q": "Who pays for smoke damage in my New York apartment from a fire on another floor?",
+  "a": "The building's policy covers common areas and the structure. Your renters, co-op or condo policy covers your belongings and extra living costs. Report the damage to your landlord or board and your insurer."
+ }
+}
