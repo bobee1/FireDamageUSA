@@ -1,0 +1,43 @@
+{
+ "lead": "Raleigh is the City of Oaks, with fast growth, newer homes and a large student population. SootMend helps homes and businesses across the city recover from fire, smoke and soot.",
+ "risk": "kitchen and electrical fires, apartment and student housing fires, and space heater fires",
+ "risk_short": "kitchen, electrical and apartment fires",
+ "why": [
+  "Most Raleigh homes were built since the 1990s, and many heat with electric heat pumps. Kitchen and electrical fires cause most damage, and space heaters come out during cold snaps. Newer homes with open layouts let smoke spread quickly through the whole house.",
+  "Raleigh has many apartments and student rentals near NC State, plus older neighborhoods such as Oakwood and Five Points with historic homes and older wiring. Humid summers make soot stain faster if cleanup waits."
+ ],
+ "problems": [
+  [
+   "Kitchen fires in apartments",
+   "Downtown, Glenwood South and near NC State",
+   "<a href=\"/services/fire-damage-cleanup/\">Fire damage cleanup</a>"
+  ],
+  [
+   "Electrical fires in older homes",
+   "Oakwood, Five Points and Hayes Barton",
+   "<a href=\"/services/fire-damage-repair/\">Fire damage repair</a>"
+  ],
+  [
+   "Smoke through open floor plans",
+   "Newer suburban homes",
+   "<a href=\"/services/smoke-damage-restoration/\">Smoke damage restoration</a>"
+  ],
+  [
+   "Smoke odor in HVAC systems",
+   "Homes with forced-air heat pumps",
+   "<a href=\"/services/smoke-odor-removal/\">Smoke odor removal</a>"
+  ]
+ ],
+ "tips": [
+  "Never leave cooking unattended.",
+  "Turn off space heaters when you leave the room.",
+  "Check historic district rules before replacing windows after a fire in Oakwood.",
+  "Test smoke alarms monthly."
+ ],
+ "insurance": "Historic homes may cost more to restore; ask your agent whether your policy pays replacement cost for materials that match the original.",
+ "areas": "SootMend works across Raleigh, including Downtown, Oakwood, Five Points, North Hills, Glenwood South, Brier Creek, the NC State area and North Raleigh.",
+ "faq": {
+  "q": "Do historic district rules affect fire repairs in Raleigh?",
+  "a": "They can. In historic districts such as Oakwood, exterior changes like windows, doors and siding may need review. Interior repairs usually do not. Check before ordering materials."
+ }
+}

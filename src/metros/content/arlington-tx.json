@@ -1,0 +1,43 @@
+{
+ "lead": "Arlington sits between Dallas and Fort Worth, with newer homes, many renters and a large university. SootMend helps homes and businesses across the city recover from fire, smoke and soot.",
+ "risk": "apartment and kitchen fires, electrical fires, and space heater fires during winter storms",
+ "risk_short": "apartment, kitchen and electrical fires",
+ "why": [
+  "More than seven in ten Arlington homes heat with electricity. Winter storms push families to space heaters, cords and ovens. Most homes are suburban houses from the 1970s to the 1990s, with attics and open layouts where smoke travels fast.",
+  "Arlington has many apartments, including student housing near UT Arlington. Kitchen fires and overloaded outlets are common causes. A fire in one unit can push smoke through shared attics and breezeways."
+ ],
+ "problems": [
+  [
+   "Apartment and student housing fires",
+   "Near UT Arlington and the entertainment district",
+   "<a href=\"/services/commercial-fire-damage-restoration/\">Commercial fire restoration</a>"
+  ],
+  [
+   "Kitchen fires",
+   "Homes and apartments citywide",
+   "<a href=\"/services/fire-damage-cleanup/\">Fire damage cleanup</a>"
+  ],
+  [
+   "Space heater fires",
+   "Homes during winter storms",
+   "<a href=\"/services/smoke-damage-restoration/\">Smoke damage restoration</a>"
+  ],
+  [
+   "Electrical fires in 1970s homes",
+   "Older neighborhoods",
+   "<a href=\"/services/fire-damage-repair/\">Fire damage repair</a>"
+  ]
+ ],
+ "tips": [
+  "Plug space heaters straight into the wall.",
+  "Never leave cooking unattended.",
+  "Keep renters insurance in student and apartment housing.",
+  "Test smoke alarms monthly."
+ ],
+ "insurance": "Students living away from home may have limited coverage under a parent's homeowners policy; a renters policy usually gives better protection.",
+ "areas": "SootMend works across Arlington, including Downtown, the Entertainment District, the UTA area, Dalworthington Gardens, Viridian, Southwest Arlington and East Arlington.",
+ "faq": {
+  "q": "Does a parent's insurance cover a student's belongings after an Arlington apartment fire?",
+  "a": "Sometimes, with lower limits, if the student is a dependent living away at school. Check the parent's policy. A renters policy in the student's name usually gives fuller coverage."
+ }
+}

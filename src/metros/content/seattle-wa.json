@@ -1,0 +1,43 @@
+{
+ "lead": "Seattle's damp climate hides a real fire risk: older homes, electric heat, dense apartments and summer wildfire smoke. SootMend helps homes and businesses across the city recover from fire, smoke and soot.",
+ "risk": "space heater and electrical fires, apartment and townhome fires, and wildfire smoke from across the region",
+ "risk_short": "heater, apartment fires, wildfire smoke",
+ "why": [
+  "About six in ten Seattle homes heat with electricity, often with baseboard heaters and space heaters, and a small share still use old oil furnaces. Older homes in Ballard, Capitol Hill and the Central District have original wiring. Many new townhomes and apartment buildings pack units close together, so smoke spreads quickly.",
+  "In late summer, wildfire smoke from eastern Washington, Oregon, California and British Columbia can blanket Puget Sound for days. Fine particles get into homes, ducts and fabrics. In damp months, soot mixes with moisture and stains faster."
+ ],
+ "problems": [
+  [
+   "Space heater and baseboard heater fires",
+   "Older homes and apartments",
+   "<a href=\"/services/fire-damage-cleanup/\">Fire damage cleanup</a>"
+  ],
+  [
+   "Apartment and townhome fires",
+   "Capitol Hill, South Lake Union and Ballard",
+   "<a href=\"/services/commercial-fire-damage-restoration/\">Commercial fire restoration</a>"
+  ],
+  [
+   "Wildfire smoke odor indoors",
+   "Neighborhoods citywide on smoke days",
+   "<a href=\"/services/smoke-odor-removal/\">Smoke odor removal</a>"
+  ],
+  [
+   "Oil furnace puff-back soot",
+   "Older homes still on oil heat",
+   "<a href=\"/services/soot-removal/\">Soot removal</a>"
+  ]
+ ],
+ "tips": [
+  "Keep furniture and curtains away from baseboard heaters.",
+  "Use a MERV 13 filter or HEPA air cleaner during smoke season.",
+  "If you still have an oil furnace, service it every year.",
+  "Check smoke alarms in every townhome and apartment unit."
+ ],
+ "insurance": "Condo owners should know where the association's master policy ends and their own unit policy begins, especially for smoke damage to walls and floors.",
+ "areas": "SootMend works across Seattle, including Capitol Hill, Ballard, Fremont, Queen Anne, the Central District, West Seattle, Beacon Hill, Northgate and South Lake Union.",
+ "faq": {
+  "q": "Can old oil furnaces still cause puff-backs in Seattle?",
+  "a": "Yes. A small share of Seattle homes still heat with oil. A misfiring burner can blow oily soot through the ducts. Yearly service prevents most puff-backs, and oily soot needs professional cleaning."
+ }
+}

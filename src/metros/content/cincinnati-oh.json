@@ -1,0 +1,43 @@
+{
+ "lead": "Cincinnati has some of the oldest housing in the Midwest, with brick rowhouses, hillside homes and historic districts. SootMend helps homes and businesses across the city recover from fire, smoke and soot.",
+ "risk": "fires in old brick and frame homes, furnace and electrical fires, and smoke spread in attached buildings",
+ "risk_short": "old-home, furnace and electrical fires",
+ "why": [
+  "About four in ten Cincinnati homes were built before 1940, and eight in ten before 1980. Over-the-Rhine has one of the largest sets of 1800s Italianate buildings in the country. Northside and Price Hill have brick rowhouses and frame homes on steep hills. Fire and smoke move through shared walls and old framing.",
+  "Most homes heat with gas or electric, often with old basement furnaces. Many still have their first wiring and plaster walls. Lead paint and other old materials need care during repairs."
+ ],
+ "problems": [
+  [
+   "Fire spreading between attached buildings",
+   "Over-the-Rhine, Northside and Price Hill",
+   "<a href=\"/services/commercial-fire-damage-restoration/\">Commercial fire restoration</a>"
+  ],
+  [
+   "Basement furnace fires",
+   "Older homes citywide",
+   "<a href=\"/services/soot-removal/\">Soot removal</a>"
+  ],
+  [
+   "Electrical fires in older homes",
+   "Pre-war neighborhoods",
+   "<a href=\"/services/fire-damage-repair/\">Fire damage repair</a>"
+  ],
+  [
+   "Smoke odor in plaster walls",
+   "Historic homes",
+   "<a href=\"/services/smoke-odor-removal/\">Smoke odor removal</a>"
+  ]
+ ],
+ "tips": [
+  "Have older wiring checked by a licensed electrician.",
+  "Keep basement storage clear of the furnace.",
+  "Check historic district rules before replacing windows or doors after a fire.",
+  "Install smoke alarms on every level."
+ ],
+ "insurance": "Historic homes may need ordinance or law coverage to pay for code upgrades during repairs, so ask your agent before a loss.",
+ "areas": "SootMend works across Cincinnati, including Over-the-Rhine, Downtown, Hyde Park, Clifton, Northside, Price Hill, Westwood and Mount Lookout.",
+ "faq": {
+  "q": "Do historic district rules affect fire repairs in Cincinnati?",
+  "a": "They can. In historic districts such as Over-the-Rhine, exterior work like windows, doors and storefronts may need review. Ask your contractor to check before ordering materials."
+ }
+}

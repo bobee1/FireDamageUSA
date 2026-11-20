@@ -1,0 +1,43 @@
+{
+ "lead": "Columbus blends older brick neighborhoods, student rentals and fast-growing suburbs. SootMend helps homes and businesses across the city recover from fire, smoke and soot.",
+ "risk": "furnace and kitchen fires, fires in student rentals and older homes, and smoke spread in doubles and apartments",
+ "risk_short": "furnace, kitchen and rental fires",
+ "why": [
+  "Gas heats most Columbus homes, and furnaces run all winter. German Village, Victorian Village and Clintonville have brick homes and doubles with basements, old wiring and plaster walls. Smoke spreads through their stairwells and shared walls.",
+  "Near Ohio State, many old houses are split into rentals with several tenants. Kitchen fires, overloaded outlets and porch fires are common. Fast growth has also added many apartments and townhomes."
+ ],
+ "problems": [
+  [
+   "Fires in student rentals",
+   "Neighborhoods around Ohio State",
+   "<a href=\"/services/fire-damage-cleanup/\">Fire damage cleanup</a>"
+  ],
+  [
+   "Smoke damage in doubles",
+   "German Village, Victorian Village and the Near East Side",
+   "<a href=\"/services/smoke-damage-restoration/\">Smoke damage restoration</a>"
+  ],
+  [
+   "Basement furnace fires",
+   "Older homes with gas heat",
+   "<a href=\"/services/soot-removal/\">Soot removal</a>"
+  ],
+  [
+   "Fire in balloon-framed walls",
+   "Pre-war homes",
+   "<a href=\"/services/fire-damage-repair/\">Fire damage repair</a>"
+  ]
+ ],
+ "tips": [
+  "Keep basement storage clear of the furnace and water heater.",
+  "Never leave cooking unattended in shared rentals.",
+  "Don't grill or use fire pits on wooden porches.",
+  "Make sure every bedroom in a rental has a smoke alarm."
+ ],
+ "insurance": "Landlords of doubles and student rentals need a landlord policy, and each tenant needs renters insurance for their belongings.",
+ "areas": "SootMend works across Columbus, including German Village, the Short North, Victorian Village, Clintonville, the University District, Olde Towne East, Hilltop and Linden.",
+ "faq": {
+  "q": "Is my student rental covered after a fire in Columbus?",
+  "a": "The landlord's policy covers the building. Your belongings may be covered by your own renters policy or, sometimes, a parent's homeowners policy with limits. Check before you assume."
+ }
+}

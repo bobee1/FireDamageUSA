@@ -1,0 +1,43 @@
+{
+ "lead": "Colorado Springs has lived through two of the most destructive wildfires in state history. SootMend helps homes and businesses across the city recover from wildfire, smoke and house fires.",
+ "risk": "foothill and forest wildfires, wildfire smoke, and furnace and heating fires in cold winters",
+ "risk_short": "wildfires, smoke, heating fires",
+ "why": [
+  "The 2012 Waldo Canyon Fire burned hundreds of homes in the Mountain Shadows neighborhood on the city's west side. A year later, the Black Forest Fire northeast of the city destroyed about 500 homes and led to a FEMA major disaster declaration. Many neighborhoods along the foothills and in the pine-covered northeast sit right against wildland.",
+  "Winters at more than 6,000 feet are long, and most homes heat with natural gas. Furnaces, fireplaces and wood stoves run for months in dry air, which helps fires spread. Smoke from Front Range fires often drifts over the city, leaving fine ash in homes far from the flames."
+ ],
+ "problems": [
+  [
+   "Wildfire smoke and ash",
+   "West-side foothills, Black Forest and the north end",
+   "<a href=\"/services/smoke-damage-restoration/\">Smoke damage restoration</a>"
+  ],
+  [
+   "Burned roofs, decks and siding",
+   "Homes at the wildland edge",
+   "<a href=\"/services/fire-damage-repair/\">Fire damage repair</a>"
+  ],
+  [
+   "Furnace and fireplace fires",
+   "Older homes on the west side and downtown",
+   "<a href=\"/services/fire-damage-cleanup/\">Fire damage cleanup</a>"
+  ],
+  [
+   "Smoke odor in ducts",
+   "Homes with forced-air heat",
+   "<a href=\"/services/smoke-odor-removal/\">Smoke odor removal</a>"
+  ]
+ ],
+ "tips": [
+  "Use Class A roofing and ember-resistant vents near open space.",
+  "Thin trees and clear needles from roofs and gutters.",
+  "Have the chimney swept every year if you burn wood.",
+  "Know at least two ways out of your neighborhood."
+ ],
+ "insurance": "Homes near the foothills may face higher premiums or fewer insurer choices, so keep your policy limits current and your home inventory up to date.",
+ "areas": "SootMend works across Colorado Springs, including Old Colorado City, Downtown, Broadmoor, Mountain Shadows, Briargate, Northgate, Powers and Black Forest.",
+ "faq": {
+  "q": "How do I protect a Colorado Springs home from wildfire embers?",
+  "a": "Most homes in wildfires ignite from embers, not the flame front. Use a Class A roof, cover vents with fine metal mesh, keep gutters clean and keep the first five feet around the house free of anything that burns."
+ }
+}

@@ -1,0 +1,43 @@
+{
+ "lead": "Kansas City has older brick homes, long gas-heated winters and fast-changing weather. SootMend helps homes and businesses across the city recover from fire, smoke and soot.",
+ "risk": "furnace and electrical fires in older homes, fires in vacant houses, and kitchen fires",
+ "risk_short": "furnace, electrical and kitchen fires",
+ "why": [
+  "More than six in ten Kansas City homes were built before 1980, and about one in five before 1940. Brick bungalows, foursquares and shirtwaist houses in Midtown, Waldo and the Northeast often have original wiring, plaster walls and basement furnaces. Natural gas heats about two in three homes.",
+  "Missouri's fire death risk was well above the national average in 2023, according to the U.S. Fire Administration. Vacant and neglected houses in some neighborhoods catch fire and spread it to homes next door. Thunderstorms and lightning also start attic fires in spring and summer."
+ ],
+ "problems": [
+  [
+   "Basement furnace fires",
+   "Older homes in Midtown, Waldo and the Northeast",
+   "<a href=\"/services/soot-removal/\">Soot removal</a>"
+  ],
+  [
+   "Fire spreading from vacant houses",
+   "East-side neighborhoods",
+   "<a href=\"/services/board-up-and-roof-tarping/\">Board-up and roof tarping</a>"
+  ],
+  [
+   "Electrical fires in older homes",
+   "Pre-war neighborhoods",
+   "<a href=\"/services/fire-damage-repair/\">Fire damage repair</a>"
+  ],
+  [
+   "Smoke through plaster walls and ducts",
+   "Older homes citywide",
+   "<a href=\"/services/smoke-odor-removal/\">Smoke odor removal</a>"
+  ]
+ ],
+ "tips": [
+  "Have the furnace serviced each fall.",
+  "Report vacant, open houses to the city.",
+  "Have older wiring checked before adding big appliances.",
+  "Install smoke alarms in every bedroom and on every level."
+ ],
+ "insurance": "Older homes may be insured for actual cash value, so check whether your policy pays to rebuild to current code.",
+ "areas": "SootMend works across Kansas City, Missouri, including Downtown, the Crossroads, Midtown, Westport, Brookside, Waldo, the Northeast and the Northland.",
+ "faq": {
+  "q": "Does SootMend cover Kansas City, Kansas, too?",
+  "a": "Yes. SootMend takes calls on both sides of the state line, including Kansas City, Kansas, and nearby Johnson County suburbs."
+ }
+}

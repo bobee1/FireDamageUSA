@@ -1,0 +1,43 @@
+{
+ "lead": "Mesa's hot summers, many manufactured homes and fast-growing east side shape its fire damage. SootMend helps homes and businesses across the city recover from fire, smoke and soot.",
+ "risk": "electrical and AC fires in extreme heat, manufactured home fires, and desert brush fires",
+ "risk_short": "electrical, manufactured home and brush fires",
+ "why": [
+  "More than three in four Mesa homes heat with electricity, and air conditioners run hard for months in extreme summer heat. Attic air handlers, overloaded circuits and pool equipment can overheat. About one in eight Mesa housing units is a mobile or manufactured home, and these burn fast and fill with smoke quickly.",
+  "On the city's eastern edge, homes border desert brush near the Usery Mountains and the Salt River. Maricopa County has had several FEMA fire management declarations since 2000. Stucco and tile resist flames, but smoke and fine soot still get in through vents."
+ ],
+ "problems": [
+  [
+   "Manufactured home fires",
+   "Communities across Mesa",
+   "<a href=\"/services/contents-cleaning/\">Contents cleaning and pack-out</a>"
+  ],
+  [
+   "AC and electrical fires in summer",
+   "Homes citywide",
+   "<a href=\"/services/fire-damage-cleanup/\">Fire damage cleanup</a>"
+  ],
+  [
+   "Desert brush fire smoke",
+   "East Mesa near Usery and the Salt River",
+   "<a href=\"/services/smoke-damage-restoration/\">Smoke damage restoration</a>"
+  ],
+  [
+   "Soot on light stucco and tile",
+   "Homes citywide",
+   "<a href=\"/services/soot-removal/\">Soot removal</a>"
+  ]
+ ],
+ "tips": [
+  "Have AC units and attic wiring checked before summer.",
+  "Keep smoke alarms in every bedroom of a manufactured home.",
+  "Clear brush near homes on the desert edge.",
+  "Keep grills away from patio covers and block walls with wood gates."
+ ],
+ "insurance": "Manufactured homes often have their own type of policy, so check that yours pays for smoke damage and a place to stay.",
+ "areas": "SootMend works across Mesa, including Downtown, Dobson Ranch, Red Mountain, Las Sendas, Eastmark, Superstition Springs and Falcon Field.",
+ "faq": {
+  "q": "Can a manufactured home in Mesa be repaired after a fire?",
+  "a": "Sometimes. Light smoke damage can be cleaned. Fires that burn through floors, walls or the roof often total a manufactured home because the materials are thin. An adjuster and contractor can help you decide."
+ }
+}

@@ -1,0 +1,181 @@
+{
+ "_source": "OpenFEMA DisasterDeclarationsSummaries v2, incidentType Fire, declared 2000-01-01 to 2026-11-19, counted as distinct disaster number + type per county, pulled 2026-11-19. New York City 2001 'fires and explosions' (9/11) excluded. Counties not listed had none.",
+ "counties": {
+  "NV|Washoe": [
+   42,
+   [
+    "2026-10-02",
+    "FM",
+    "BULL FIRE"
+   ]
+  ],
+  "CA|Los Angeles": [
+   54,
+   [
+    "2025-08-08",
+    "FM",
+    "CANYON FIRE"
+   ]
+  ],
+  "TX|Bexar": [
+   6,
+   [
+    "2025-03-05",
+    "FM",
+    "DUKE FIRE"
+   ]
+  ],
+  "AZ|Maricopa": [
+   11,
+   [
+    "2024-06-28",
+    "FM",
+    "BOULDER VIEW FIRE"
+   ]
+  ],
+  "WA|King": [
+   1,
+   [
+    "2022-09-10",
+    "FM",
+    "BOLT CREEK FIRE"
+   ]
+  ],
+  "UT|Salt Lake": [
+   3,
+   [
+    "2021-08-14",
+    "FM",
+    "PARLEYS CANYON FIRE"
+   ]
+  ],
+  "AZ|Pima": [
+   3,
+   [
+    "2020-06-11",
+    "FM",
+    "BIG HORN FIRE"
+   ]
+  ],
+  "CA|San Diego": [
+   24,
+   [
+    "2020-10-16",
+    "DR",
+    "WILDFIRES"
+   ]
+  ],
+  "OR|Multnomah": [
+   2,
+   [
+    "2020-09-15",
+    "DR",
+    "WILDFIRES AND STRAIGHT-LINE WINDS"
+   ]
+  ],
+  "NV|Clark": [
+   5,
+   [
+    "2013-07-05",
+    "FM",
+    "CARPENTER 1 FIRE"
+   ]
+  ],
+  "CO|El Paso": [
+   5,
+   [
+    "2013-07-26",
+    "DR",
+    "BLACK FOREST WILDFIRE"
+   ]
+  ],
+  "TX|Travis": [
+   9,
+   [
+    "2011-09-09",
+    "DR",
+    "WILDFIRES"
+   ]
+  ],
+  "TX|Dallas": [
+   2,
+   [
+    "2008-03-14",
+    "EM",
+    "WILDFIRES"
+   ]
+  ],
+  "TX|Tarrant": [
+   3,
+   [
+    "2008-03-14",
+    "EM",
+    "WILDFIRES"
+   ]
+  ],
+  "TX|Collin": [
+   2,
+   [
+    "2008-03-14",
+    "EM",
+    "WILDFIRES"
+   ]
+  ],
+  "TX|Harris": [
+   2,
+   [
+    "2011-06-17",
+    "FM",
+    "FOREST BROOK FIRE"
+   ]
+  ],
+  "FL|Orange": [
+   2,
+   [
+    "2001-04-17",
+    "FM",
+    "ORLANDO COMPLEX FIRE"
+   ]
+  ],
+  "FL|Hillsborough": [
+   2,
+   [
+    "2001-03-18",
+    "FM",
+    "LAKELAND COMPLEX FIRE"
+   ]
+  ],
+  "FL|Duval": [
+   1,
+   [
+    "2000-06-02",
+    "FM",
+    "JACKSONVILLE FIRE COMPLEX"
+   ]
+  ],
+  "CO|Arapahoe": [
+   1,
+   [
+    "2002-06-19",
+    "DR",
+    "WILDFIRES"
+   ]
+  ],
+  "CO|Denver": [
+   1,
+   [
+    "2002-06-19",
+    "DR",
+    "WILDFIRES"
+   ]
+  ],
+  "ID|Ada": [
+   1,
+   [
+    "2000-09-01",
+    "DR",
+    "WILDFIRES"
+   ]
+  ]
+ }
+}

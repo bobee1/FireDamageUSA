@@ -1,0 +1,49 @@
+{
+ "lead": "Austin's hills, cedar and fast growth put many homes at the wildland edge, while its apartments and older central neighborhoods bring house fire risks. SootMend helps homes and businesses across the city recover from fire, smoke and soot.",
+ "risk": "wildfires in the western hills, apartment and electrical fires, and space heater fires in freezes",
+ "risk_short": "wildfires, apartment and electrical fires",
+ "why": [
+  "In September 2011, wind-driven wildfires during a severe drought burned homes in Steiner Ranch and other parts of western Travis County, the same week the Bastrop fire destroyed more than 1,600 homes nearby. Homes in the hills west of MoPac sit among juniper and oak that burn hot in dry, windy weather.",
+  "Austin is young and fast-growing, with many renters and new apartment complexes. Most homes heat with electricity, and the February 2021 winter storm showed how outages lead to unsafe heating. Older homes in Hyde Park, Travis Heights and Clarksville have older wiring."
+ ],
+ "problems": [
+  [
+   "Wildfire smoke and ember damage",
+   "Steiner Ranch, West Lake Hills edges and the western hills",
+   "<a href=\"/services/smoke-damage-restoration/\">Smoke damage restoration</a>"
+  ],
+  [
+   "Apartment fires",
+   "Complexes near downtown, UT and East Austin",
+   "<a href=\"/services/commercial-fire-damage-restoration/\">Commercial fire restoration</a>"
+  ],
+  [
+   "Electrical fires in older homes",
+   "Hyde Park, Travis Heights and Clarksville",
+   "<a href=\"/services/fire-damage-repair/\">Fire damage repair</a>"
+  ],
+  [
+   "Space heater fires during freezes",
+   "Homes citywide",
+   "<a href=\"/services/fire-damage-cleanup/\">Fire damage cleanup</a>"
+  ]
+ ],
+ "tips": [
+  "Clear dead cedar and brush near hillside homes.",
+  "Follow Travis County burn bans.",
+  "Never heat a home with an oven or grill during outages.",
+  "Charge e-scooter batteries away from exits."
+ ],
+ "insurance": "The Texas FAIR Plan offers basic coverage when private insurers decline a home, and the Texas Department of Insurance takes claim complaints.",
+ "areas": "SootMend works across Austin, including Downtown, East Austin, Hyde Park, Travis Heights, Mueller, North Loop, Steiner Ranch and South Austin.",
+ "faq": {
+  "q": "Are wildfires a real risk inside Austin city limits?",
+  "a": "Yes, especially in western and southwestern neighborhoods next to greenbelts and preserves. Embers can travel far ahead of a fire. Clear brush, use ember-resistant vents and follow county burn bans."
+ },
+ "sources": [
+  [
+   "Texas FAIR Plan Association",
+   "https://www.texasfairplan.org/"
+  ]
+ ]
+}

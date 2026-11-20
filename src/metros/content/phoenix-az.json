@@ -1,0 +1,43 @@
+{
+ "lead": "Phoenix's extreme heat, desert preserves and huge apartment market shape its fire damage. SootMend helps homes and businesses across the city recover from fire, smoke and soot.",
+ "risk": "electrical and AC fires in extreme heat, desert brush fires near mountain preserves, and apartment fires",
+ "risk_short": "electrical, brush and apartment fires",
+ "why": [
+  "Phoenix summers push air conditioners and wiring to their limits for months. Attic air handlers, overloaded circuits, pool pumps and electronics can overheat. About three in four homes heat with electricity, and space heaters come out on cold desert nights.",
+  "Neighborhoods border desert mountain preserves such as South Mountain, Camelback and the Phoenix Mountains, where brush fires start in dry, windy weather. Maricopa County has had several FEMA fire management declarations since 2000. Many renters live in large complexes where fire spreads through shared attics."
+ ],
+ "problems": [
+  [
+   "AC and electrical fires in summer",
+   "Homes citywide",
+   "<a href=\"/services/fire-damage-cleanup/\">Fire damage cleanup</a>"
+  ],
+  [
+   "Brush fire smoke near preserves",
+   "Ahwatukee, North Phoenix and Arcadia edges",
+   "<a href=\"/services/smoke-damage-restoration/\">Smoke damage restoration</a>"
+  ],
+  [
+   "Apartment fires",
+   "Complexes across the city",
+   "<a href=\"/services/commercial-fire-damage-restoration/\">Commercial fire restoration</a>"
+  ],
+  [
+   "Soot on light stucco and tile",
+   "Homes citywide",
+   "<a href=\"/services/soot-removal/\">Soot removal</a>"
+  ]
+ ],
+ "tips": [
+  "Have AC units and attic wiring checked before summer.",
+  "Clear brush near homes that back onto preserves.",
+  "Keep grills away from patio covers.",
+  "Change AC filters after any smoke event."
+ ],
+ "insurance": "Arizona policies usually cover sudden electrical fires, but damage from long-term wear may be disputed, so keep records of AC and electrical service.",
+ "areas": "SootMend works across Phoenix, including Downtown, Arcadia, Ahwatukee, North Phoenix, Maryvale, Laveen, Deer Valley and the Biltmore area.",
+ "faq": {
+  "q": "Why are electrical fires common in Phoenix summers?",
+  "a": "AC systems, pool equipment and wiring run near full load for months in extreme heat. Worn connections and overloaded circuits overheat. Yearly AC service and an electrician's check on older panels reduce the risk."
+ }
+}

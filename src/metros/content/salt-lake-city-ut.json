@@ -1,0 +1,43 @@
+{
+ "lead": "Salt Lake City has historic neighborhoods, gas-heated homes and canyon wildfires on its doorstep. SootMend helps homes and businesses across the city recover from fire, smoke and soot.",
+ "risk": "furnace and basement fires in older homes, canyon wildfires, and smoke trapped by winter inversions",
+ "risk_short": "basement fires, canyon wildfires, smoke",
+ "why": [
+  "About one in four Salt Lake City homes was built before 1940, and natural gas heats more than seven in ten. Bungalows and Victorians in the Avenues, Sugar House and Liberty Wells often have basement furnaces and water heaters, and a basement fire can push smoke up through every floor.",
+  "Wildfire is close. The August 2021 Parleys Canyon Fire forced evacuations on the city's east side and led to a FEMA fire management declaration. Winter inversions trap smoke and pollution in the valley, so odor and fine soot can linger after a fire."
+ ],
+ "problems": [
+  [
+   "Basement furnace and water heater fires",
+   "The Avenues, Sugar House and Liberty Wells",
+   "<a href=\"/services/fire-damage-cleanup/\">Fire damage cleanup</a>"
+  ],
+  [
+   "Wildfire smoke and ash",
+   "East Bench and foothill neighborhoods",
+   "<a href=\"/services/smoke-damage-restoration/\">Smoke damage restoration</a>"
+  ],
+  [
+   "Smoke through the whole house",
+   "Homes with basements and forced-air heat",
+   "<a href=\"/services/smoke-odor-removal/\">Smoke odor removal</a>"
+  ],
+  [
+   "Fire in older plaster walls",
+   "Historic homes",
+   "<a href=\"/services/fire-damage-repair/\">Fire damage repair</a>"
+  ]
+ ],
+ "tips": [
+  "Keep boxes and paint cans away from basement furnaces and water heaters.",
+  "Have gas appliances serviced every year.",
+  "Clear dry brush below decks on the East Bench.",
+  "Use a MERV 13 filter during smoke events and inversions."
+ ],
+ "insurance": "Basement fires often damage finished living space, so check that your limits cover finished basements and what's stored there.",
+ "areas": "SootMend works across Salt Lake City, including Downtown, the Avenues, Sugar House, Liberty Wells, Rose Park, Glendale, the East Bench and Federal Heights.",
+ "faq": {
+  "q": "Why does smoke from a basement fire spread through a whole Salt Lake City home?",
+  "a": "Hot smoke rises up stairwells and wall cavities, and the furnace can blow it through ducts. Basement fires often need whole-house cleaning and duct cleaning, not just the room that burned."
+ }
+}

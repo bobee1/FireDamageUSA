@@ -319,8 +319,14 @@ def state_page(ab):
         areas_p = c["areas"] + nb_line
     else:
         areas_h = f"Areas served in {sh}"
+        try:
+            import metros as _M
+            mm = _M.metros_in_state(ab)
+        except ImportError:
+            mm = []
+        metro_line = (" City pages: " + join_list([_M.mlink(x) for x in mm]) + ".") if mm else ""
         areas_p = (f"SootMend takes fire damage calls across {name}. The largest communities are {join_list(cities)}. "
-                   + c.get("areas", "") + nb_line)
+                   + c.get("areas", "") + metro_line + nb_line)
     body = f"""<p class="quick"><strong>Quick answer:</strong> {quick_answer(ab, c)}</p>
 
 <h2>{sh} fire risk at a glance</h2>

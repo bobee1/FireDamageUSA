@@ -1,0 +1,43 @@
+{
+ "lead": "Denver mixes century-old brick homes with new townhomes and apartments, all a short drive from the foothills where wildfires start. SootMend helps homes and businesses across the city recover from fire, smoke and soot.",
+ "risk": "furnace and kitchen fires in older homes, wildfire smoke from the Front Range, and fires in dense apartments",
+ "risk_short": "house fires, wildfire smoke, apartments",
+ "why": [
+  "Many Denver homes in Capitol Hill, the Highlands, Baker and Washington Park are brick bungalows, foursquares and Victorians built more than a century ago. They often have original wiring, plaster walls and basements with gas furnaces and water heaters. A basement fire can push smoke up through floor registers into every room.",
+  "Wildfire risk is close by. The December 2021 Marshall Fire burned more than 1,000 homes in nearby Superior and Louisville in a single afternoon. Fires in the foothills regularly send smoke and fine ash over the city. Denver's fast growth has also added thousands of townhomes and apartment units, where one fire can affect many neighbors."
+ ],
+ "problems": [
+  [
+   "Basement furnace and water heater fires",
+   "Older homes in Capitol Hill, Baker and the Highlands",
+   "<a href=\"/services/fire-damage-cleanup/\">Fire damage cleanup</a>"
+  ],
+  [
+   "Smoke through shared walls in townhomes",
+   "Central Park, LoDo and newer infill blocks",
+   "<a href=\"/services/smoke-damage-restoration/\">Smoke damage restoration</a>"
+  ],
+  [
+   "Wildfire smoke and ash indoors",
+   "Neighborhoods across the city on smoky days",
+   "<a href=\"/services/smoke-odor-removal/\">Smoke odor removal</a>"
+  ],
+  [
+   "Fire in plaster-and-lath walls",
+   "Pre-war homes",
+   "<a href=\"/services/fire-damage-repair/\">Fire damage repair</a>"
+  ]
+ ],
+ "tips": [
+  "Keep basement storage at least three feet from the furnace and water heater.",
+  "Have older wiring checked before adding EV chargers or big appliances.",
+  "Set the furnace to recirculate and use a MERV 13 filter on wildfire smoke days.",
+  "Check that every townhome and apartment unit has working smoke alarms."
+ ],
+ "insurance": "After the Marshall Fire, many Colorado owners found their dwelling limits were too low, so compare yours with today's rebuilding costs.",
+ "areas": "SootMend works in LoDo, Capitol Hill, the Highlands, Wash Park, Cherry Creek, Central Park, Baker, Hampden and every other Denver neighborhood, plus the inner suburbs.",
+ "faq": {
+  "q": "Can wildfire smoke damage a Denver home miles from the fire?",
+  "a": "Yes. Fine smoke and ash travel far and settle in attics, ducts and fabrics. Change furnace filters after smoke events, and call for cleaning if you see film on walls or smell smoke when the heat runs."
+ }
+}

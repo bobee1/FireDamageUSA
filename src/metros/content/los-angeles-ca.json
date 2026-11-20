@@ -1,0 +1,53 @@
+{
+ "lead": "Los Angeles lives with wildfire on its hillsides and dense apartments on its flats. SootMend helps homes and businesses across the city recover from wildfire, smoke, ash and house fires.",
+ "risk": "Santa Ana wind wildfires in the hills, smoke and ash across the basin, and apartment and house fires",
+ "risk_short": "wildfires, smoke and ash, apartment fires",
+ "why": [
+  "The January 2025 Palisades Fire burned thousands of homes in Pacific Palisades, and the Eaton Fire tore through nearby Altadena at the same time. Homes in the Santa Monica Mountains, the Hollywood Hills and the edges of the San Fernando Valley sit against brush that burns hard when Santa Ana winds blow. Los Angeles County has had more than 50 FEMA fire declarations since 2000.",
+  "Away from the hills, most fire damage starts indoors. About two-thirds of Angelenos rent, many in older apartment buildings where smoke spreads through halls and shared vents. Lithium-ion batteries, cooking and electrical problems are frequent causes. Ash from burned homes can carry metals and other harmful residue, so cleanup must be done carefully."
+ ],
+ "problems": [
+  [
+   "Wildfire smoke and ash in homes that didn't burn",
+   "Hillside and canyon neighborhoods, and the basin on windy days",
+   "<a href=\"/services/smoke-damage-restoration/\">Smoke damage restoration</a>"
+  ],
+  [
+   "Apartment fires affecting many units",
+   "Hollywood, Koreatown, Westlake and the Valley",
+   "<a href=\"/services/commercial-fire-damage-restoration/\">Commercial fire restoration</a>"
+  ],
+  [
+   "Lingering smoke odor",
+   "Homes downwind of wildfires",
+   "<a href=\"/services/smoke-odor-removal/\">Smoke odor removal</a>"
+  ],
+  [
+   "Burned roofs, decks and eaves",
+   "Homes at the wildland edge",
+   "<a href=\"/services/fire-damage-repair/\">Fire damage repair</a>"
+  ]
+ ],
+ "tips": [
+  "Clear brush and keep the first five feet around hillside homes free of anything that burns.",
+  "Charge e-bike and scooter batteries away from doors and never overnight.",
+  "Wear an N95 respirator and never use a leaf blower on ash.",
+  "Keep a home inventory with photos stored online."
+ ],
+ "insurance": "If private insurers decline you, the California FAIR Plan sells basic fire coverage. After a declared disaster, ask your insurer about extended deadlines and living-expense benefits.",
+ "areas": "SootMend works across Los Angeles, including Pacific Palisades, Brentwood, the Hollywood Hills, Silver Lake, Downtown, Koreatown, South LA, Venice and the San Fernando Valley.",
+ "faq": {
+  "q": "Is wildfire ash in Los Angeles homes dangerous?",
+  "a": "It can be. The EPA says ash from burned buildings generally holds more harmful chemicals than forest ash, including metals. Wear gloves and an N95 respirator, mist ash before sweeping, and keep children away from cleanup."
+ },
+ "sources": [
+  [
+   "California FAIR Plan",
+   "https://www.cfpnet.com/"
+  ],
+  [
+   "EPA: Protect Yourself from Ash",
+   "https://www.epa.gov/wildfires/protect-yourself-ash"
+  ]
+ ]
+}

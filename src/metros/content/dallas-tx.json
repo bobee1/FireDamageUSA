@@ -1,0 +1,43 @@
+{
+ "lead": "Dallas has fast-growing suburbs, older neighborhoods and huge apartment complexes, plus winter storms that send families to space heaters. SootMend helps homes and businesses across the city recover from fire, smoke and soot.",
+ "risk": "space heater and electrical fires, apartment complex fires, and grass fires in dry, windy weather",
+ "risk_short": "heater, electrical and apartment fires",
+ "why": [
+  "Most Dallas homes heat with electricity, and rare hard freezes push families to space heaters, ovens and extension cords. During the February 2021 winter storm, power outages and makeshift heating led to many house fires across North Texas. Older homes in Oak Cliff, East Dallas and Lakewood may have wiring that was never updated.",
+  "Dallas has a very large share of renters, many in big apartment complexes where fire and smoke can spread through shared attics and breezeways. In dry, windy winters, grass fires along creeks, vacant lots and the Trinity River corridor can also threaten nearby homes."
+ ],
+ "problems": [
+  [
+   "Apartment fires spreading through shared attics",
+   "Complexes across the city",
+   "<a href=\"/services/commercial-fire-damage-restoration/\">Commercial fire restoration</a>"
+  ],
+  [
+   "Space heater and cord fires",
+   "Older homes during cold snaps",
+   "<a href=\"/services/fire-damage-cleanup/\">Fire damage cleanup</a>"
+  ],
+  [
+   "Electrical fires in older homes",
+   "Oak Cliff, East Dallas and Lakewood",
+   "<a href=\"/services/fire-damage-repair/\">Fire damage repair</a>"
+  ],
+  [
+   "Smoke and soot through the whole house",
+   "Homes with forced-air heat",
+   "<a href=\"/services/smoke-damage-restoration/\">Smoke damage restoration</a>"
+  ]
+ ],
+ "tips": [
+  "Give space heaters three feet of clear space and switch them off before bed.",
+  "Never heat a home with an oven or a grill.",
+  "Know where your apartment's fire exits and alarms are.",
+  "Mow dry grass near fences and outbuildings in drought."
+ ],
+ "insurance": "Many Dallas renters have no renters insurance; the landlord's policy covers the building, not your belongings or hotel costs.",
+ "areas": "SootMend works across Dallas, including Downtown, Uptown, Deep Ellum, Oak Cliff, Lakewood, Lake Highlands, Preston Hollow and Pleasant Grove.",
+ "faq": {
+  "q": "Who pays for smoke damage in a Dallas apartment fire?",
+  "a": "The owner's policy covers the building and common areas. Each tenant's renters policy covers their belongings and extra living costs. Report the damage to both your landlord and your insurer."
+ }
+}

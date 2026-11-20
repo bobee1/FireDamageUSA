@@ -1,0 +1,49 @@
+{
+ "lead": "San Diego's canyons, Santa Ana winds and dry brush make it one of the most fire-prone big cities in the country. SootMend helps homes and businesses across the city recover from wildfire, smoke and house fires.",
+ "risk": "wind-driven canyon and brush fires, wildfire smoke and ash, and house and apartment fires",
+ "risk_short": "canyon wildfires, smoke and ash, house fires",
+ "why": [
+  "Dozens of brush-filled canyons run through San Diego neighborhoods, putting thousands of homes right at the wildland edge. When hot, dry Santa Ana winds blow in fall, fires can race through them. The 2003 Cedar Fire destroyed hundreds of homes in Scripps Ranch and other neighborhoods, and the 2007 wildfires forced huge evacuations across the county.",
+  "San Diego County has had more than 20 FEMA fire declarations since 2000. Even when fire stays in the backcountry, smoke and ash settle over the city. Many homes rely on mild weather and use little or no heat, so most indoor fires start in kitchens, dryers and electrical systems."
+ ],
+ "problems": [
+  [
+   "Ember damage to roofs, vents and eaves",
+   "Homes along canyons in Scripps Ranch, Tierrasanta and Rancho Bernardo",
+   "<a href=\"/services/fire-damage-repair/\">Fire damage repair</a>"
+  ],
+  [
+   "Wildfire smoke and ash indoors",
+   "Neighborhoods across the city in fall",
+   "<a href=\"/services/smoke-damage-restoration/\">Smoke damage restoration</a>"
+  ],
+  [
+   "Kitchen and dryer fires",
+   "Homes and apartments citywide",
+   "<a href=\"/services/fire-damage-cleanup/\">Fire damage cleanup</a>"
+  ],
+  [
+   "Smoke odor in stucco and HVAC",
+   "Homes downwind of brush fires",
+   "<a href=\"/services/smoke-odor-removal/\">Smoke odor removal</a>"
+  ]
+ ],
+ "tips": [
+  "Keep canyon-edge yards clear of dry brush and the first five feet around the house free of anything that burns.",
+  "Fit attic and foundation vents with fine metal mesh to stop embers.",
+  "Sign up for county emergency alerts before Santa Ana season.",
+  "Clean dryer vents often; lint fires are common in any climate."
+ ],
+ "insurance": "If private insurers decline your home, the California FAIR Plan offers basic fire coverage; many owners pair it with a separate policy for other risks.",
+ "areas": "SootMend works across San Diego, from La Jolla, Pacific Beach and Point Loma to Mission Valley, North Park, Clairemont, Tierrasanta, Scripps Ranch and Rancho Bernardo.",
+ "faq": {
+  "q": "Does a San Diego home need cleaning if the fire never reached it?",
+  "a": "Often. Wind-driven smoke and ash get into attics, vents and fabrics even miles from a fire. Photograph ash before cleaning, change HVAC filters, and have the house cleaned if you see film or smell smoke."
+ },
+ "sources": [
+  [
+   "California FAIR Plan",
+   "https://www.cfpnet.com/"
+  ]
+ ]
+}

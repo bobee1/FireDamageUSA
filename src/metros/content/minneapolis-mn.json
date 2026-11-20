@@ -1,0 +1,43 @@
+{
+ "lead": "Minneapolis has old housing, long winters and some of the worst wildfire smoke days in recent years. SootMend helps homes and businesses across the city recover from fire, smoke and soot.",
+ "risk": "furnace and space heater fires in long winters, fires in duplexes and older homes, and Canadian wildfire smoke",
+ "risk_short": "heating fires, old homes, wildfire smoke",
+ "why": [
+  "More than four in ten Minneapolis homes were built before 1940, and natural gas heats about seven in ten. Basement furnaces and boilers run for six months or more, and older wiring in duplexes and bungalows adds risk when space heaters come out. A fire that knocks out heat in January can freeze pipes within hours.",
+  "In recent summers, smoke from large Canadian wildfires gave Minneapolis some of the worst air quality in the country. Fine smoke particles get into homes, ducts and fabrics, leaving film and odor even with no fire nearby."
+ ],
+ "problems": [
+  [
+   "Basement furnace and boiler fires",
+   "Older homes citywide",
+   "<a href=\"/services/soot-removal/\">Soot removal</a>"
+  ],
+  [
+   "Fires in duplexes and fourplexes",
+   "Uptown, Longfellow and Powderhorn",
+   "<a href=\"/services/commercial-fire-damage-restoration/\">Commercial fire restoration</a>"
+  ],
+  [
+   "Frozen pipes after a winter fire",
+   "Homes left without heat",
+   "<a href=\"/services/fire-damage-repair/\">Fire damage repair</a>"
+  ],
+  [
+   "Wildfire smoke odor indoors",
+   "Neighborhoods citywide on smoke days",
+   "<a href=\"/services/smoke-odor-removal/\">Smoke odor removal</a>"
+  ]
+ ],
+ "tips": [
+  "Service furnaces and boilers every fall.",
+  "Keep space heaters away from bedding and curtains.",
+  "If a fire cuts the heat, protect pipes right away.",
+  "Run a HEPA air cleaner when Canadian smoke rolls in."
+ ],
+ "insurance": "Minnesota duplex owners need to know where the landlord policy ends and tenants' renters policies begin, especially for smoke damage to shared areas.",
+ "areas": "SootMend works across Minneapolis, including Downtown, Uptown, Northeast, North Loop, Longfellow, Powderhorn, Nokomis, Linden Hills and North Minneapolis.",
+ "faq": {
+  "q": "What should I do if a fire knocks out my heat in a Minneapolis winter?",
+  "a": "Call 911 first. Once it's safe, keep pipes from freezing with temporary heat or by draining the water lines. Board up openings to hold heat in and start cleanup quickly."
+ }
+}

@@ -54,4 +54,11 @@ A dated log of every step. Newest entries at the bottom. Status: Done / In progr
 | 48 | 2026-11-19 | 5 | Inbound links: helpful guides on service and state pages, sidebar, home page | Done | — |
 | 49 | 2026-11-19 | 5 | Checks: audit 0 issues, FK ≤ 9, site audit clean, responsive 360/768/1280 | Done | 84 pages |
 | 50 | 2026-11-19 | 5 | STATUS.md and register updated; committed and pushed | Done | Branch `main` |
-| 51 | — | 6 | Wave 1 city pages (top 50 incl. Nashville), batch 1 of 2 | Planned | Next build |
+| 51 | 2026-11-19 | 6 | Wave 1 list fixed (top 50 by Semrush demand; KC = Missouri, Portland = Oregon); metadata for all 50 | Done | `src/metros/meta.json` |
+| 52 | 2026-11-19 | 6 | Data: ACS heating fuel for 50 cities; OpenFEMA fire declarations by county | Done | `research/10`–`12` |
+| 53 | 2026-11-19 | 6 | `metros.py` city page generator | Done | `metros.py` |
+| 54 | 2026-11-19 | 6 | Hand-written copy for cities 1–25 | Done | `scripts/metro_content/batch1.py` |
+| 55 | 2026-11-19 | 6 | City links on state pages, locations hub and home page | Done | — |
+| 56 | 2026-11-19 | 6 | Checks: audit 0 issues, FK ≤ 9, site audit clean, responsive 360/768/1280 | Done | 109 pages |
+| 57 | 2026-11-19 | 6 | STATUS.md and register updated; committed and pushed | Done | Branch `main` |
+| 58 | — | 6b | Wave 1 batch 2: cities 26–50 (Nashville included) | Planned | Next build |

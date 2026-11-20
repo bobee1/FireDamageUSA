@@ -1,0 +1,43 @@
+{
+ "lead": "Charlotte is one of the fastest-growing cities in the country, with new apartments and townhomes rising beside older neighborhoods. SootMend helps homes and businesses across the city recover from fire, smoke and soot.",
+ "risk": "kitchen and electrical fires, apartment and townhome fires, and space heater fires in cold snaps",
+ "risk_short": "kitchen, electrical and apartment fires",
+ "why": [
+  "Most of Charlotte's housing is newer, built since the 1990s, but it's built tightly: apartments, townhomes and homes on small lots, often with shared attics and walls. Kitchen fires are the most common cause, and smoke can travel through attic spaces and breezeways to neighboring units quickly.",
+  "More than half of Charlotte homes heat with electricity, so space heaters come out during cold snaps. Older neighborhoods such as Plaza Midwood, Dilworth and NoDa have bungalows and mill houses with older wiring. Humid summers make soot stain faster if cleanup is delayed."
+ ],
+ "problems": [
+  [
+   "Kitchen fires in apartments",
+   "South End, Uptown and University City",
+   "<a href=\"/services/fire-damage-cleanup/\">Fire damage cleanup</a>"
+  ],
+  [
+   "Smoke through shared attics in townhomes",
+   "Newer communities citywide",
+   "<a href=\"/services/smoke-damage-restoration/\">Smoke damage restoration</a>"
+  ],
+  [
+   "Electrical fires in older homes",
+   "Plaza Midwood, Dilworth and NoDa",
+   "<a href=\"/services/fire-damage-repair/\">Fire damage repair</a>"
+  ],
+  [
+   "Smoke odor in HVAC systems",
+   "Homes with forced-air heat",
+   "<a href=\"/services/smoke-odor-removal/\">Smoke odor removal</a>"
+  ]
+ ],
+ "tips": [
+  "Never leave cooking unattended; keep a lid nearby for pan fires.",
+  "Turn off space heaters when you leave the room.",
+  "Learn whether your townhome's attic is shared with neighbors.",
+  "Test smoke alarms monthly."
+ ],
+ "insurance": "In townhome communities, check whether the HOA's master policy covers roofs and exterior walls or whether your own policy must.",
+ "areas": "SootMend works across Charlotte, including Uptown, South End, Dilworth, Myers Park, Plaza Midwood, NoDa, Ballantyne and University City.",
+ "faq": {
+  "q": "Who pays when a townhome fire next door damages mine in Charlotte?",
+  "a": "Your own homeowners policy usually pays for damage to your unit, and the HOA's master policy may cover shared structure. Your insurer may later seek repayment from the neighbor's insurer if they were at fault."
+ }
+}

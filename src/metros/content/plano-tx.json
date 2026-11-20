@@ -1,0 +1,43 @@
+{
+ "lead": "Plano's newer suburban homes, attached garages and big apartment communities shape its fire damage. SootMend helps homes and businesses across the city recover from fire, smoke and soot.",
+ "risk": "garage and electrical fires, kitchen fires, and space heater fires during winter storms",
+ "risk_short": "garage, electrical and kitchen fires",
+ "why": [
+  "Most Plano homes were built in the 1980s and 1990s, with attached garages, open floor plans and vaulted ceilings. Garage fires from vehicles, batteries, chargers and stored fuel can spread into the house, and open layouts let smoke reach every room fast.",
+  "About half of Plano homes heat with electricity and half with gas. During winter storms like February 2021, outages pushed families toward unsafe heating. Many renters live in large apartment communities along the Dallas North Tollway and US 75."
+ ],
+ "problems": [
+  [
+   "Garage fires spreading into the house",
+   "Single-family homes citywide",
+   "<a href=\"/services/fire-damage-repair/\">Fire damage repair</a>"
+  ],
+  [
+   "Smoke through open floor plans",
+   "1980s and 1990s homes",
+   "<a href=\"/services/smoke-damage-restoration/\">Smoke damage restoration</a>"
+  ],
+  [
+   "Apartment fires",
+   "Communities near the tollway and Legacy",
+   "<a href=\"/services/commercial-fire-damage-restoration/\">Commercial fire restoration</a>"
+  ],
+  [
+   "Space heater fires during freezes",
+   "Homes citywide",
+   "<a href=\"/services/fire-damage-cleanup/\">Fire damage cleanup</a>"
+  ]
+ ],
+ "tips": [
+  "Store gasoline and propane outside the attached garage.",
+  "Charge e-bikes and tools away from the door to the house.",
+  "Keep the door between the garage and house closed.",
+  "Never heat a home with an oven during an outage."
+ ],
+ "insurance": "Texas has no statewide general contractor license, so ask Plano repair contractors for references, proof of insurance and the city permits they will pull.",
+ "areas": "SootMend works across Plano, including Legacy West, Downtown Plano, Willow Bend, Deerfield, Old Shepard Place, Los Rios and the east and west sides.",
+ "faq": {
+  "q": "Can a garage fire damage the rest of my Plano home?",
+  "a": "Yes. Heat, smoke and soot travel through the door, attic and shared walls. Even if flames stay in the garage, the house often needs cleaning, odor removal and sometimes drywall and insulation replacement."
+ }
+}

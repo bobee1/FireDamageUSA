@@ -1,0 +1,43 @@
+{
+ "lead": "Tampa's lightning, hurricanes and humid air shape its fire damage. SootMend helps homes and businesses across the city recover from fire, smoke and soot.",
+ "risk": "lightning and electrical fires, generator fires after hurricanes, and kitchen and dryer fires",
+ "risk_short": "lightning, electrical and kitchen fires",
+ "why": [
+  "The Tampa Bay area is known for some of the most frequent lightning in the country. Strikes can start attic fires and damage wiring and electronics. More than nine in ten Tampa homes heat with electricity, so cooking, dryers and electrical problems cause most indoor fires.",
+  "After hurricanes like those that hit the region in 2024, long power outages bring portable generators, and generators run too close to homes and garages cause fires. Humid air makes soot absorb moisture and stain paint, grout and fabrics quickly, so fast cleanup matters."
+ ],
+ "problems": [
+  [
+   "Lightning strike attic fires",
+   "Homes citywide in summer storms",
+   "<a href=\"/services/fire-damage-repair/\">Fire damage repair</a>"
+  ],
+  [
+   "Generator fires after hurricanes",
+   "Homes during outages",
+   "<a href=\"/services/fire-damage-cleanup/\">Fire damage cleanup</a>"
+  ],
+  [
+   "Soot staining in humid air",
+   "Homes and condos citywide",
+   "<a href=\"/services/soot-removal/\">Soot removal</a>"
+  ],
+  [
+   "Smoke damage in condos and apartments",
+   "Downtown, Channelside and Westshore",
+   "<a href=\"/services/commercial-fire-damage-restoration/\">Commercial fire restoration</a>"
+  ]
+ ],
+ "tips": [
+  "Run portable generators outside, far from doors, windows and vents.",
+  "Consider a whole-house surge protector for lightning season.",
+  "Clean dryer vents often.",
+  "Run AC or dehumidifiers after a fire to slow soot damage."
+ ],
+ "insurance": "Tampa homeowners often have a separate hurricane deductible, but fire and smoke claims usually use the regular deductible.",
+ "areas": "SootMend works across Tampa, including South Tampa, Hyde Park, Ybor City, Seminole Heights, Westshore, Carrollwood, New Tampa and Channelside.",
+ "faq": {
+  "q": "Is a lightning fire covered by insurance in Tampa?",
+  "a": "Usually. Lightning and the fire it causes are covered perils on standard home policies. Power surge damage to electronics may also be covered; check your policy and report the loss quickly."
+ }
+}

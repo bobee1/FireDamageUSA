@@ -1,0 +1,49 @@
+{
+ "lead": "Sacramento sits between the Sierra foothills and two rivers, with hot summers, grass fires and heavy wildfire smoke. SootMend helps homes and businesses across the city recover from fire, smoke and soot.",
+ "risk": "wildfire smoke from the Sierra, grass fires along the rivers, and house and apartment fires",
+ "risk_short": "wildfire smoke, grass fires, house fires",
+ "why": [
+  "When big wildfires burn in Northern California, Sacramento often gets some of the worst smoke. In the 2018 Camp Fire, smoke filled the valley for days. Fine ash settles in attics, ducts and fabrics. It leaves odor and film in homes far from the flames.",
+  "Closer to home, dry grass along the American River Parkway, levees and empty lots often burns in summer and fall. These fires can reach fences and homes. Midtown, East Sacramento and Land Park have early 1900s homes with old wiring and wood siding."
+ ],
+ "problems": [
+  [
+   "Wildfire smoke and ash indoors",
+   "Neighborhoods citywide during big fires",
+   "<a href=\"/services/smoke-damage-restoration/\">Smoke damage restoration</a>"
+  ],
+  [
+   "Grass fires reaching fences and homes",
+   "Homes near the American River Parkway and levees",
+   "<a href=\"/services/fire-damage-repair/\">Fire damage repair</a>"
+  ],
+  [
+   "Smoke odor in HVAC systems",
+   "Homes with forced-air heat and cooling",
+   "<a href=\"/services/smoke-odor-removal/\">Smoke odor removal</a>"
+  ],
+  [
+   "Electrical fires in older homes",
+   "Midtown, East Sacramento and Land Park",
+   "<a href=\"/services/fire-damage-cleanup/\">Fire damage cleanup</a>"
+  ]
+ ],
+ "tips": [
+  "Use MERV 13 filters and set the HVAC to recirculate on smoky days.",
+  "Keep grass short and fences clear near the river parkways.",
+  "Have older wiring checked before adding big appliances.",
+  "Keep a HEPA air cleaner ready for fire season."
+ ],
+ "insurance": "If private insurers decline you, the California FAIR Plan offers basic fire coverage; smoke damage from distant wildfires is usually covered under a standard policy.",
+ "areas": "SootMend works across Sacramento, including Midtown, Downtown, East Sacramento, Land Park, Natomas, Oak Park, Pocket and Arden-Arcade.",
+ "faq": {
+  "q": "Can I file a claim for wildfire smoke damage in Sacramento?",
+  "a": "Often, yes. Many policies cover smoke and ash damage from wildfires even when the fire was far away. Document film on surfaces, keep dirty HVAC filters and note odor by room."
+ },
+ "sources": [
+  [
+   "California FAIR Plan",
+   "https://www.cfpnet.com/"
+  ]
+ ]
+}

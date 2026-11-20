@@ -1,0 +1,43 @@
+{
+ "lead": "Chicago's two-flats, three-flats and courtyard buildings mean one fire often affects several households. SootMend helps homes and businesses across the city recover from fire, smoke and soot.",
+ "risk": "fires in two-flats and older multi-unit buildings, basement furnace fires, and porch and kitchen fires",
+ "risk_short": "multi-unit, furnace and porch fires",
+ "why": [
+  "Nearly four in ten Chicago homes were built before 1940. Two-flats, three-flats and courtyard buildings share walls, stairs and back porches, and many have balloon framing that lets fire climb inside walls from the basement to the attic. Wooden back porches are a known fire path between units.",
+  "Natural gas heats about three in four Chicago homes, often with basement boilers or furnaces surrounded by storage. Long winters keep heating systems running for months, and space heaters fill gaps in drafty units. Firefighters often break windows and cut roofs to vent smoke, so board-up is a common first step."
+ ],
+ "problems": [
+  [
+   "Fires in two-flats and three-flats",
+   "Bungalow Belt and neighborhoods citywide",
+   "<a href=\"/services/commercial-fire-damage-restoration/\">Commercial fire restoration</a>"
+  ],
+  [
+   "Basement boiler and furnace fires",
+   "Older homes with gas heat",
+   "<a href=\"/services/soot-removal/\">Soot removal</a>"
+  ],
+  [
+   "Back porch fires spreading between units",
+   "Rear porches on older buildings",
+   "<a href=\"/services/fire-damage-repair/\">Fire damage repair</a>"
+  ],
+  [
+   "Broken windows and roof vents after firefighting",
+   "Multi-unit buildings",
+   "<a href=\"/services/board-up-and-roof-tarping/\">Board-up and roof tarping</a>"
+  ]
+ ],
+ "tips": [
+  "Keep back porches clear and never grill on wooden porches.",
+  "Keep basement storage away from boilers and furnaces.",
+  "Make sure every unit has working smoke and carbon monoxide alarms.",
+  "Close doors behind you when leaving a burning unit."
+ ],
+ "insurance": "In two-flats and condo buildings, the owner's or association's policy covers the building, and each tenant or unit owner needs their own policy for belongings and living costs.",
+ "areas": "SootMend works across Chicago, including Lincoln Park, Lakeview, Logan Square, Pilsen, Bridgeport, Hyde Park, Austin, Rogers Park and the Bungalow Belt.",
+ "faq": {
+  "q": "What is balloon framing and why does it matter in Chicago fires?",
+  "a": "Many older Chicago buildings have wall studs that run from foundation to roof with no fire blocks, so fire and smoke can travel up inside walls. Repairs often add fire blocking and need careful inspection."
+ }
+}

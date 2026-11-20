@@ -1,0 +1,49 @@
+{
+ "lead": "Jacksonville is the largest city by area in the lower 48, with pine forests, suburbs and an all-electric heating mix. SootMend helps homes and businesses across the city recover from fire, smoke and soot.",
+ "risk": "kitchen, dryer and electrical fires, wildfire smoke from pine forests, and soot damage in humid air",
+ "risk_short": "kitchen, electrical and wildfire smoke",
+ "why": [
+  "More than nine in ten Jacksonville homes heat with electricity, and many need heat only a few days a year. Most fire damage starts with cooking, dryers, electrical problems and lithium-ion batteries. Apartments and condos let smoke spread through halls and shared ventilation.",
+  "The city's huge land area includes pine flatwoods and wetlands that burn in dry springs; a FEMA fire assistance declaration covered the Jacksonville Fire Complex in 2000. Wildfire smoke can settle over neighborhoods like Mandarin, the Westside and the Northside. In the humid climate, soot and smoke stain fast if not cleaned."
+ ],
+ "problems": [
+  [
+   "Kitchen and dryer fires",
+   "Homes and apartments citywide",
+   "<a href=\"/services/fire-damage-cleanup/\">Fire damage cleanup</a>"
+  ],
+  [
+   "Wildfire smoke from pine forests",
+   "Westside, Northside and Mandarin",
+   "<a href=\"/services/smoke-damage-restoration/\">Smoke damage restoration</a>"
+  ],
+  [
+   "Soot staining in humid air",
+   "Homes citywide",
+   "<a href=\"/services/soot-removal/\">Soot removal</a>"
+  ],
+  [
+   "Smoke damage in condos",
+   "Beaches and Southside",
+   "<a href=\"/services/commercial-fire-damage-restoration/\">Commercial fire restoration</a>"
+  ]
+ ],
+ "tips": [
+  "Clean dryer lint traps every load and vents yearly.",
+  "Clear pine needles from roofs and gutters in spring.",
+  "Charge e-bike batteries away from exits and never overnight.",
+  "Run AC or dehumidifiers after a fire to slow soot damage."
+ ],
+ "insurance": "Many Floridians are insured through Citizens Property Insurance, so check whether your policy is with Citizens or a private carrier before you file.",
+ "areas": "SootMend works across Jacksonville, including Riverside, Avondale, San Marco, Mandarin, Arlington, the Southside, the Westside, the Northside and the Beaches.",
+ "faq": {
+  "q": "Is wildfire a risk in Jacksonville?",
+  "a": "Yes, mostly in drier springs. Pine forests and wetlands on the city's edges can burn, and smoke can drift over neighborhoods. Clear pine needles and debris from around homes and follow burn bans."
+ },
+ "sources": [
+  [
+   "Citizens Property Insurance Corporation",
+   "https://www.citizensfla.com/"
+  ]
+ ]
+}

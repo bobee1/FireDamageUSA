@@ -1,0 +1,43 @@
+{
+ "lead": "San Antonio blends historic homes near downtown, fast-growing suburbs and Hill Country edges. SootMend helps homes and businesses across the city recover from fire, smoke and soot.",
+ "risk": "electrical and kitchen fires, grass and brush fires on the city's edges, and space heater fires in freezes",
+ "risk_short": "electrical, kitchen and grass fires",
+ "why": [
+  "Seven in ten San Antonio homes heat with electricity, and freezes like February 2021 push families to unsafe heating. Older homes in the King William district, Tobin Hill and the West Side have older wiring, wood siding and pier-and-beam floors that let smoke travel underneath.",
+  "On the north and west edges, homes border Hill Country brush and grassland. Bexar County has had several FEMA fire management declarations since 2000, most recently the Duke Fire in March 2025. Dry, windy spells can push grass fires toward fences and homes."
+ ],
+ "problems": [
+  [
+   "Electrical fires in older homes",
+   "King William, Tobin Hill and the West Side",
+   "<a href=\"/services/fire-damage-repair/\">Fire damage repair</a>"
+  ],
+  [
+   "Grass and brush fires near homes",
+   "North and west edges of the city",
+   "<a href=\"/services/smoke-damage-restoration/\">Smoke damage restoration</a>"
+  ],
+  [
+   "Kitchen fires",
+   "Homes and apartments citywide",
+   "<a href=\"/services/fire-damage-cleanup/\">Fire damage cleanup</a>"
+  ],
+  [
+   "Smoke under pier-and-beam floors",
+   "Older homes",
+   "<a href=\"/services/smoke-odor-removal/\">Smoke odor removal</a>"
+  ]
+ ],
+ "tips": [
+  "Follow Bexar County burn bans in dry weather.",
+  "Clear brush and grass near fences on the city's edge.",
+  "Have older wiring checked by a licensed electrician.",
+  "Never heat a home with an oven during outages."
+ ],
+ "insurance": "Texas has no statewide general contractor license, so check references and city permits, and know that the Texas Department of Insurance takes claim complaints.",
+ "areas": "SootMend works across San Antonio, including Downtown, King William, Alamo Heights, Tobin Hill, Stone Oak, the Medical Center, the West Side and Southtown.",
+ "faq": {
+  "q": "Why does smoke smell linger in older San Antonio homes?",
+  "a": "Many older homes have pier-and-beam floors and wood siding. Smoke settles in the crawl space and wall cavities, and heat and humidity release it again. Cleaning under the floor and sealing may be needed."
+ }
+}

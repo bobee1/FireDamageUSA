@@ -1,0 +1,43 @@
+{
+ "lead": "Houston's heat, humidity, hurricanes and huge apartment market shape its fire damage. SootMend helps homes and businesses across the city recover from fire, smoke and soot.",
+ "risk": "electrical and kitchen fires, apartment complex fires, and fires from generators and space heaters during outages",
+ "risk_short": "electrical, apartment and outage fires",
+ "why": [
+  "Houston's long, hot summers keep air conditioners and wiring under heavy load. After hurricanes and storms knock out power, portable generators placed too close to homes and garages cause fires, as do space heaters during rare freezes like the February 2021 winter storm. Most homes heat with electricity.",
+  "More than half of Houston households rent, many in large garden-style complexes with shared attics where fire spreads quickly. Humid Gulf air also makes soot worse: smoke residue absorbs moisture, sets into paint and grout, and corrodes metal faster than in dry climates. Quick cleaning matters here."
+ ],
+ "problems": [
+  [
+   "Apartment fires through shared attics",
+   "Garden-style complexes citywide",
+   "<a href=\"/services/commercial-fire-damage-restoration/\">Commercial fire restoration</a>"
+  ],
+  [
+   "Generator and space heater fires during outages",
+   "Homes after hurricanes and freezes",
+   "<a href=\"/services/fire-damage-cleanup/\">Fire damage cleanup</a>"
+  ],
+  [
+   "Soot staining and corrosion in humid air",
+   "Homes citywide",
+   "<a href=\"/services/soot-removal/\">Soot removal</a>"
+  ],
+  [
+   "Water damage from firefighting",
+   "Homes and units below a fire",
+   "<a href=\"/services/fire-damage-repair/\">Fire damage repair</a>"
+  ]
+ ],
+ "tips": [
+  "Run portable generators outside, at least 20 feet from doors, windows and vents.",
+  "Have AC units and attic wiring checked before summer.",
+  "Run AC or dehumidifiers after a fire to slow soot staining.",
+  "Keep renters insurance; the landlord's policy won't cover your things."
+ ],
+ "insurance": "Houston homeowners often have separate wind or flood policies, but fire and smoke claims go through the main homeowners policy.",
+ "areas": "SootMend works across Houston, including the Heights, Montrose, Midtown, River Oaks, Meyerland, Alief, Westchase, Third Ward and Kingwood.",
+ "faq": {
+  "q": "Why does soot damage get worse faster in Houston?",
+  "a": "Humid air lets soot absorb moisture, which helps its acids and oils set into paint, grout and fabric and corrode metal. Running AC or dehumidifiers and starting cleanup within days limits permanent damage."
+ }
+}
