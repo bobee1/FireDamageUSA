@@ -11,22 +11,29 @@ Last updated: 2026-11-19
 - Owner decisions (2026-11-19): brand SootMend; domain sootmend.us; own-business call routing; 24/7; 10+ years in business; legal owner Anjam Javed; toll-free 1-800-555-0199 (kept until after deployment); ANSI/IICRC S700 confirmed; repo github.com/bobee1/FireDamageUSA.
 - Build 1 — Foundation, trust and legal pages (done): generator `build.py` (forked from the DryFlare engine), "Soot + Ember" design system, logo set and icons, 9 Pexels photos as WebP (2 used, 7 held), About (with "how a call works" illustration), Contact (form → Pages Function → Resend), Privacy, Terms, Disclaimer, Editorial Policy, Accessibility, 404; `_headers`, `_redirects`, manifest; audit 0 issues; FK 6.0–6.4; responsive clean at 360/768/1280/1440.
 
-## Current — Build 2: Keyword research and site plan (done, waiting for approval)
+## Build 2: Keyword research and site plan (done, approved 2026-11-19)
 - **Plan doc:** "SootMend Site Plan — Build 2 Keyword Research" (Claude doc): https://claude.ai/artifact/5DcSVz4eh8dK1rEX8g8TCo
 - **Semrush (US, 19 Nov 2026, ~5,400 units; 33,760 left):** 60 service terms, 100 city terms, 20 state terms, 30 guide terms, question keywords for 4 seeds, top-10 SERPs for 4 keywords. Raw data in `research/01`–`05`.
 - **Keyword map:** home = "fire damage restoration" (110,000/mo, KD 33) + near me, fire restoration, fire restoration company. 8 service pages: fire damage repair (9,900), fire damage cleanup (8,100), smoke damage restoration (9,900), smoke odor removal (6,600), soot removal (1,000), board-up and roof tarping (fire board up 1,900), contents cleaning and pack-out (590), commercial fire damage restoration (4,400).
 - **Locations:** state names are barely searched (top: Arizona 480/mo), so state pages are hubs. 62 of 100 cities get ≥110 searches/mo; Wave 1 = top 50 (14,830 searches/mo combined; Denver 720 leads).
 - **Blog map:** 12 guides (~29,800 searches/mo across primary + secondary terms), e.g. how to get smoke smell out of a house (4,400), does renters insurance cover fire damage (2,900), smoke smell out of clothes (2,400), what is soot (4,400).
 - **Competitors:** national SERP held by BELFOR, SERVPRO, ServiceMaster, ATI, a Home Depot guide and Yelp; "smoke odor removal" is a shopping/DIY SERP. Gaps: soot types, standards, lead/asbestos testing, state insurance and licensing, wildfire and heating-season local detail.
-- **Waiting on owner:** approve the plan; decide whether SootMend covers Nashville (default: skip, since Nashville Fire Removal Pros targets it; Washington, DC takes slot 50).
+- **Owner approved the plan (2026-11-19)** and chose to include Nashville, so Wave 1 = cities 1–50 as listed.
+
+## Current — Build 2b: Logo set and design system (done)
+- **Design system artifact:** "SootMend" (Design System type): https://claude.ai/artifact/Y1stA843hy3x3heukjyA8n
+- **Tokens** (`tokens.json` there, same names as the site CSS): 26 colours, 8 type styles in 2 groups, 8 spacing steps, 4 radii (radius-btn added), 1 shadow, 2 layout tokens. New site variables: `--hero-glow`, `--hero-ink`, `--focus-on-dark`, `--radius-btn`; the site CSS now reads them instead of literal values.
+- **Logo set:** horizontal, reversed, stacked (new), mono single-ink (new), mark, small mark, mono mark (new), app icon, small app icon. All from `scripts/make_logo.py`; copies uploaded to the design system's Logos group.
+- **Brand book:** voice and content rules, colour/type/shape/depth/layout foundations, logo clear space and minimum sizes, photo and icon rules.
+- **14 components** with guidelines and live previews: CallButton, Header, Hero, QuickAnswer, Steps, Checklist, CtaBox, ServiceCard, Pills, LeadForm, Breadcrumbs, SideCallCard, CallBand, Footer; plus a cover. `components/bundle.css` = the production stylesheet minus `:root`.
 
 ## Coming
 | Build | Scope | Needs from owner |
 | --- | --- | --- |
-| 3 | Home page (1,200–1,800 words), services hub, 8 service pages per the approved keyword map (repair, cleanup, smoke damage, smoke odor, soot, board-up and tarping, contents, commercial), with competitor term coverage, FAQ, Service and business schema, sources, illustrations and photos. | Plan approval (Build 2) |
+| 3 | Home page (1,200–1,800 words), services hub, 8 service pages per the approved keyword map (repair, cleanup, smoke damage, smoke odor, soot, board-up and tarping, contents, commercial), built with the design system components, with competitor term coverage, FAQ, Service and business schema, sources, illustrations and photos. | — |
 | 4 | Locations hub + state pages (Census housing data, USFA fire data, state insurance and contractor licensing notes). | — |
 | 5 | Guides hub + 12 guides from the blog map + glossary (50+ terms) with auto-links + branded featured images. | — |
-| 6 | Wave 1: top 50 city pages from the approved list, in batches of 25. | Nashville decision |
+| 6 | Wave 1: top 50 city pages from the approved list (Nashville included), in batches of 25. | — |
 | 7+ | Cities 51–62, then suburbs scored from a second Semrush pull, 25 at a time, once 70%+ of Wave 1 is indexed. | Search Console access |
 | Launch | Buy sootmend.us, Cloudflare Pages project, real toll-free number, email, Resend keys, Search Console + analytics. | Domain, number, email, Resend key |
 

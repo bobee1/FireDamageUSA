@@ -72,6 +72,32 @@ def lockup(soot_c, mend_c, house, flame, inner, spark):
 files["sootmend-logo.svg"], W = lockup(SOOT, EMBER, SOOT, EMBER, "#ffd0c4", EMBER)
 files["sootmend-logo-reversed.svg"], _ = lockup(WHITE, EMBER_SOFT, WHITE, EMBER, "#ffd0c4", EMBER_SOFT)
 
+# single-ink versions (one colour: set CSS color, or use as a stamp)
+files["sootmend-mark-mono.svg"] = svg(64, 64,
+    '<defs><mask id="m"><rect width="64" height="64" fill="#fff"/>'
+    f'<path d="{FLAME}" fill="#000"/></mask></defs>'
+    f'<path d="{HOUSE}" fill="currentColor" mask="url(#m)"/><path d="{SPARK}" fill="currentColor"/>', "SootMend")
+mono, _ = lockup("currentColor", "currentColor", "currentColor", "#fff", "#fff", "currentColor")
+start = mono.index('<path d="M32 4.5'); end = mono.index('<g fill=')
+mono_mark = files["sootmend-mark-mono.svg"].split("<title>SootMend</title>")[1].replace("</svg>\n", "")
+files["sootmend-logo-mono.svg"] = mono[:start] + mono_mark + mono[end:]
+
+
+# stacked lockup: mark above the wordmark, for square spaces (social avatars, signage)
+def stacked(soot_c, mend_c, house, flame, inner, spark):
+    size, base = 40, 132
+    a, x = text_paths("Soot", size, 0, base)
+    b, x2 = text_paths("Mend", size, x + 0.5, base)
+    w = int(x2 + 2)
+    off = (w - 80) / 2
+    body = (f'<g transform="translate({off:.1f} 0) scale(1.25)">{mark(house, flame, inner, spark)}</g>'
+            + f'<g fill="{soot_c}">' + "".join(f'<path d="{d}"/>' for d in a)
+            + f'</g><g fill="{mend_c}">' + "".join(f'<path d="{d}"/>' for d in b) + "</g>")
+    return svg(w, 142, body, "SootMend")
+
+
+files["sootmend-logo-stacked.svg"] = stacked(SOOT, EMBER, SOOT, EMBER, "#ffd0c4", EMBER)
+
 for name, data in files.items():
     with open(os.path.join(OUT, name), "w") as fh:
         fh.write(data)

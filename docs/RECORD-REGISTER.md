@@ -30,4 +30,9 @@ A dated log of every step. Newest entries at the bottom. Status: Done / In progr
 | 24 | 2026-11-19 | 2 | Competitor pages read: SERVPRO (~4,500–5,000 words), PuroClean (~3,500 unique), BELFOR | Done | Term list for service pages (soot types, S700, HEPA, fogging, hydroxyl, ozone, lead/asbestos, ALE) |
 | 25 | 2026-11-19 | 2 | Site plan doc written for owner approval | Done | https://claude.ai/artifact/5DcSVz4eh8dK1rEX8g8TCo |
 | 26 | 2026-11-19 | 2 | STATUS.md and register updated; committed and pushed | Done | Branch `main` |
-| 27 | — | 3 | Home, services hub, 8 service pages | Planned | Starts after plan approval |
+| 27 | 2026-11-19 | 2 | Owner approved the site plan; Nashville included in Wave 1 | Done | Plan doc decision updated |
+| 28 | 2026-11-19 | 2b | Logo set extended: stacked, mono and mono-mark versions | Done | `scripts/make_logo.py` |
+| 29 | 2026-11-19 | 2b | Design system artifact created: tokens, brand book, logos, 14 components, cover | Done | https://claude.ai/artifact/Y1stA843hy3x3heukjyA8n |
+| 30 | 2026-11-19 | 2b | Site CSS reads the new tokens (hero-glow, hero-ink, focus-on-dark, radius-btn) | Done | Audit 0 issues after rebuild |
+| 31 | 2026-11-19 | 2b | STATUS.md and register updated; committed and pushed | Done | Branch `main` |
+| 32 | — | 3 | Home, services hub, 8 service pages | Planned | Next build |
