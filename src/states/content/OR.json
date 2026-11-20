@@ -1,0 +1,43 @@
+{
+ "lead": "Oregon's wildfire seasons have grown longer, and wet winters keep heating systems busy. SootMend helps homes and businesses from Portland to Medford recover from fire, smoke and soot.",
+ "risk": "wildfires driven by east winds, wildfire smoke, and heating and wood stove fires",
+ "risk_short": "wildfires, smoke, wood stove fires",
+ "why": [
+  "The 2020 Labor Day fires burned thousands of homes in the Santiam Canyon, the McKenzie River area and the Rogue Valley towns of Talent and Phoenix. Dry east winds pushed fires out of the Cascades and into towns. Southern and Central Oregon, including Bend, Grants Pass and Medford, face fire risk every summer.",
+  "Smoke from Oregon and California fires can cover the Willamette Valley for days. More than half of Oregon homes heat with electricity, and about 4.5% burn wood, often in older homes with older chimneys. Damp winters mean soot and smoke residue can mix with moisture and stain fast."
+ ],
+ "problems": [
+  [
+   "Wildfire smoke and ash",
+   "Medford, Grants Pass, Bend and the Willamette Valley",
+   "<a href=\"/services/smoke-damage-restoration/\">Smoke damage restoration</a>"
+  ],
+  [
+   "Wood stove and chimney fires",
+   "Older homes and rural properties",
+   "<a href=\"/services/fire-damage-cleanup/\">Fire damage cleanup</a>"
+  ],
+  [
+   "Smoke odor in ducts and insulation",
+   "Homes near burned areas",
+   "<a href=\"/services/smoke-odor-removal/\">Smoke odor removal</a>"
+  ],
+  [
+   "Burned homes in canyon towns",
+   "Homes along river canyons",
+   "<a href=\"/services/fire-damage-repair/\">Fire damage repair</a>"
+  ]
+ ],
+ "tips": [
+  "Keep gutters and roofs free of needles and leaves in summer.",
+  "Use a newer, cleaner-burning wood stove and have it inspected yearly.",
+  "Set up a clean-air room with a HEPA filter for smoke days.",
+  "Know your evacuation level system and sign up for local alerts."
+ ],
+ "insurance": "After a declared wildfire, ask your insurer and the state regulator which claim deadlines apply to you, and keep a written log of every call with your adjuster.",
+ "areas": "Portland, Salem, Eugene, Bend, Medford, the coast and Eastern Oregon are all covered.",
+ "faq": {
+  "q": "How long does wildfire smoke smell last in a house?",
+  "a": "Without cleaning, it can linger for months and come back on warm days. Cleaning surfaces, replacing filters, cleaning ducts and treating odor usually removes it in days to weeks."
+ }
+}

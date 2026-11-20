@@ -1,0 +1,43 @@
+{
+ "lead": "South Carolina's fire risk is above the national average, from kitchen fires in growing cities to wildfires in the Upstate. SootMend helps homes and businesses from Columbia to Charleston and Greenville recover from fire, smoke and soot.",
+ "risk": "kitchen and electrical fires, Upstate and coastal wildfires, and space heater fires",
+ "risk_short": "house fires, wildfires, heater fires",
+ "why": [
+  "USFA found South Carolina residents were 1.2 times as likely to die in a fire as the U.S. population in 2023. Nearly 70% of homes heat with electricity, and space heaters are common in cold snaps. Cooking is the leading cause of house fires.",
+  "In March 2025, the Table Rock fires in the Upstate mountains led to FEMA fire assistance declarations. The coastal plain's pine forests and pocosins can burn in dry springs, and smoke can reach Myrtle Beach and Charleston."
+ ],
+ "problems": [
+  [
+   "Kitchen fires",
+   "Homes and apartments statewide",
+   "<a href=\"/services/fire-damage-cleanup/\">Fire damage cleanup</a>"
+  ],
+  [
+   "Wildfire smoke and ash",
+   "Upstate mountains and the coast",
+   "<a href=\"/services/smoke-damage-restoration/\">Smoke damage restoration</a>"
+  ],
+  [
+   "Space heater fires",
+   "Older homes",
+   "<a href=\"/services/fire-damage-repair/\">Fire damage repair</a>"
+  ],
+  [
+   "Soot staining in humid air",
+   "Coastal homes",
+   "<a href=\"/services/soot-removal/\">Soot removal</a>"
+  ]
+ ],
+ "tips": [
+  "Never leave cooking unattended.",
+  "Clear pine straw and needles from roofs and gutters.",
+  "Keep space heaters three feet from anything that burns.",
+  "Follow S.C. Forestry Commission burning notices."
+ ],
+ "insurance": "Coastal homes may have wind coverage through the South Carolina Wind and Hail Underwriting Association, but fire and smoke claims go through the main homeowners policy.",
+ "areas": "Columbia, Charleston, North Charleston, Greenville, Rock Hill, Myrtle Beach, Spartanburg and rural South Carolina are all covered.",
+ "faq": {
+  "q": "Who do I call first after a house fire?",
+  "a": "Call 911 first. After the fire department leaves, call your insurer to open a claim, then a restoration company to board up and start cleanup. The Red Cross can help with a place to stay."
+ }
+}

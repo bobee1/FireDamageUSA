@@ -1,0 +1,43 @@
+{
+ "lead": "Idaho mixes fast-growing cities with forest, rangeland and wood-heated homes. SootMend helps homes and businesses from Boise to Coeur d'Alene recover from fire, smoke and soot.",
+ "risk": "rangeland and forest wildfires, wildfire smoke, and wood stove and chimney fires",
+ "risk_short": "wildfires, smoke, wood stove fires",
+ "why": [
+  "Idaho's rangeland grass, much of it cheatgrass, dries out early and burns fast. Fires near Boise, Mountain Home and the Magic Valley can race toward homes on windy days. In the north, forest fires around Coeur d'Alene, Sandpoint and the Clearwater bring weeks of smoke in late summer.",
+  "More than 5% of Idaho homes heat mainly with wood, one of the higher rates in the country. Wood stoves and fireplaces leave creosote in chimneys, and a chimney fire can spread into the attic. Fast growth around Boise also means many new homes built close to open land."
+ ],
+ "problems": [
+  [
+   "Wildfire smoke and ash",
+   "Boise foothills, Coeur d'Alene and Sandpoint",
+   "<a href=\"/services/smoke-damage-restoration/\">Smoke damage restoration</a>"
+  ],
+  [
+   "Chimney and wood stove fires",
+   "Rural homes and cabins",
+   "<a href=\"/services/fire-damage-cleanup/\">Fire damage cleanup</a>"
+  ],
+  [
+   "Soot on walls from stoves and candles",
+   "Homes heated with wood",
+   "<a href=\"/services/soot-removal/\">Soot removal</a>"
+  ],
+  [
+   "Burned outbuildings and decks",
+   "Homes next to rangeland",
+   "<a href=\"/services/fire-damage-repair/\">Fire damage repair</a>"
+  ]
+ ],
+ "tips": [
+  "Mow dry grass and cheatgrass around the house and outbuildings by early summer.",
+  "Have the chimney swept every year if you heat with wood.",
+  "Install smoke alarms in every bedroom and near the stove.",
+  "Close windows and set HVAC to recirculate when smoke rolls in."
+ ],
+ "insurance": "Rural homes far from a fire station may pay more, so check your fire protection class and update your dwelling limit if you have remodeled.",
+ "areas": "The Treasure Valley, Magic Valley, eastern Idaho and the Panhandle are all covered.",
+ "faq": {
+  "q": "How do I know if my chimney caused the fire?",
+  "a": "The fire department's report usually names the cause. Signs include soot and burn marks around the chimney chase, attic framing near the flue and cracked flue tiles. Have the chimney inspected before using it again."
+ }
+}

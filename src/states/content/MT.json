@@ -1,0 +1,43 @@
+{
+ "lead": "Montana's long winters and big wildfire seasons both bring fire and smoke damage. SootMend helps homes and businesses from Billings to Missoula recover from fire, smoke and soot.",
+ "risk": "forest and grassland wildfires, wildfire smoke, and wood stove and heating fires",
+ "risk_short": "wildfires, smoke, heating fires",
+ "why": [
+  "Western Montana's valleys fill with smoke in many late summers as forest fires burn across the Rockies. Missoula, Helena and the Flathead often see days of poor air. On the eastern plains, wind-driven grass fires can threaten ranches and small towns with little warning.",
+  "Nearly 6% of Montana homes heat mainly with wood, and many more use a stove for backup. Propane heats about one home in seven, often in rural areas. Long, cold winters mean heating systems and chimneys work hard, and rural homes can be a long way from a fire station."
+ ],
+ "problems": [
+  [
+   "Wildfire smoke in homes and businesses",
+   "Missoula, Helena, Kalispell and Bozeman",
+   "<a href=\"/services/smoke-damage-restoration/\">Smoke damage restoration</a>"
+  ],
+  [
+   "Wood stove and chimney fires",
+   "Rural homes and cabins statewide",
+   "<a href=\"/services/fire-damage-cleanup/\">Fire damage cleanup</a>"
+  ],
+  [
+   "Smoke odor in log homes",
+   "Log and timber homes",
+   "<a href=\"/services/smoke-odor-removal/\">Smoke odor removal</a>"
+  ],
+  [
+   "Grass fire damage to outbuildings",
+   "Ranches on the eastern plains",
+   "<a href=\"/services/fire-damage-repair/\">Fire damage repair</a>"
+  ]
+ ],
+ "tips": [
+  "Sweep the chimney yearly and burn only dry, seasoned wood.",
+  "Keep propane tanks clear of brush and dry grass.",
+  "Use a HEPA air cleaner in one closed room during smoke season.",
+  "Make sure fire trucks can reach your home: clear, signed driveways help."
+ ],
+ "insurance": "Log homes and remote properties can be costly to rebuild, so ask your agent whether your policy pays full replacement cost or actual cash value.",
+ "areas": "Billings, Missoula, Great Falls, Bozeman, the Flathead and rural counties are all covered.",
+ "faq": {
+  "q": "Can smoke odor be removed from a log home?",
+  "a": "Usually, but it takes more work. Raw or lightly finished logs soak up smoke. Cleaning, deodorizing and sometimes sealing or refinishing the logs are needed to get rid of the smell."
+ }
+}

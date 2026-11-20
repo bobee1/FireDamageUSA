@@ -1,0 +1,43 @@
+{
+ "lead": "Missouri's fire risk ranks above the national average, driven by older homes, heating fires and rural distances. SootMend helps homes and businesses from Kansas City to St. Louis recover from fire, smoke and soot.",
+ "risk": "heating and electrical fires in older homes, kitchen fires, and wood stove fires in the Ozarks",
+ "risk_short": "heating, electrical and kitchen fires",
+ "why": [
+  "USFA found Missouri residents were 1.5 times as likely to die in a fire as the U.S. population in 2023. St. Louis and Kansas City have many brick homes built before 1940, often with old wiring and gas or boiler heat. Vacant homes in some neighborhoods add to the risk.",
+  "In the Ozarks and rural Missouri, more than 2% of homes heat mainly with wood and many more use propane. Mobile homes are common in rural counties. Fire crews may have long drives, so a small fire has more time to spread."
+ ],
+ "problems": [
+  [
+   "Electrical fires in older brick homes",
+   "St. Louis and Kansas City",
+   "<a href=\"/services/fire-damage-repair/\">Fire damage repair</a>"
+  ],
+  [
+   "Wood stove and chimney fires",
+   "Ozarks and rural Missouri",
+   "<a href=\"/services/fire-damage-cleanup/\">Fire damage cleanup</a>"
+  ],
+  [
+   "Smoke damage in apartments",
+   "Springfield, Columbia and the big metros",
+   "<a href=\"/services/smoke-damage-restoration/\">Smoke damage restoration</a>"
+  ],
+  [
+   "Burned mobile homes",
+   "Rural counties",
+   "<a href=\"/services/contents-cleaning/\">Contents cleaning and pack-out</a>"
+  ]
+ ],
+ "tips": [
+  "Have an electrician check older homes before adding big appliances.",
+  "Sweep chimneys yearly and keep ashes in a covered metal can outside.",
+  "Install smoke alarms in every bedroom and on every level.",
+  "Keep a fire extinguisher in the kitchen and know how to use it."
+ ],
+ "insurance": "Older homes may be insured for actual cash value rather than replacement cost, so check how your policy pays before a loss.",
+ "areas": "Kansas City, St. Louis, Springfield, Columbia, Independence, the Ozarks and the Bootheel are all covered.",
+ "faq": {
+  "q": "Is it safe to stay in a house with minor smoke damage?",
+  "a": "Sometimes, if the fire department says the house is safe and power is on. But soot can irritate lungs, and food exposed to smoke should be thrown away. Clean or ventilate first, and keep children and pets away from soot."
+ }
+}

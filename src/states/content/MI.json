@@ -1,0 +1,43 @@
+{
+ "lead": "Michigan's cold winters, older housing and gas heat drive most fire damage calls. SootMend helps homes and businesses from Detroit to Grand Rapids recover from fire, smoke and soot.",
+ "risk": "heating and kitchen fires, fires in older and vacant homes, and wildfire in the northern woods",
+ "risk_short": "heating, kitchen and old-home fires",
+ "why": [
+  "Three in four Michigan homes heat with natural gas, and furnaces run for most of the year. Detroit, Flint, Saginaw and other older cities have many homes built before 1960 with original wiring. Vacant homes nearby add fire risk, and fire can jump to houses next door on narrow lots.",
+  "Up north, nearly 9% of homes statewide use propane and many cabins burn wood. Spring is wildfire season in the northern Lower Peninsula's jack pine country, before the woods green up. Michigan's 2023 fire death risk was above the national average, according to USFA."
+ ],
+ "problems": [
+  [
+   "Furnace and space heater fires",
+   "Older homes in Detroit, Flint and Lansing",
+   "<a href=\"/services/fire-damage-cleanup/\">Fire damage cleanup</a>"
+  ],
+  [
+   "Fire spreading from a neighboring house",
+   "Cities with close-set older homes",
+   "<a href=\"/services/fire-damage-repair/\">Fire damage repair</a>"
+  ],
+  [
+   "Chimney and wood stove fires",
+   "Cabins and homes up north",
+   "<a href=\"/services/soot-removal/\">Soot removal</a>"
+  ],
+  [
+   "Smoke odor in plaster and lath walls",
+   "Older homes statewide",
+   "<a href=\"/services/smoke-odor-removal/\">Smoke odor removal</a>"
+  ]
+ ],
+ "tips": [
+  "Have the furnace serviced every fall before heating season.",
+  "Keep space heaters away from bedding and curtains, and turn them off when you leave.",
+  "Avoid outdoor burning in spring when the DNR posts burn restrictions.",
+  "Board up a damaged house quickly; vacant fire-damaged homes attract trespassers."
+ ],
+ "insurance": "Michigan insurers may ask for proof that a fire-damaged home is secured, so keep board-up invoices and photos with your claim.",
+ "areas": "Detroit, Grand Rapids, Warren, Sterling Heights, Ann Arbor, Lansing, the Upper Peninsula and northern Michigan are all covered.",
+ "faq": {
+  "q": "Can a fire-damaged home with plaster walls be saved?",
+  "a": "Often. Plaster resists fire better than drywall, but it holds smoke odor and soot stains. Cleaning, sealing and repainting usually work; badly burned sections are removed and patched."
+ }
+}

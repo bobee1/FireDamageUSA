@@ -1,0 +1,43 @@
+{
+ "lead": "Hawaii learned in 2023 how fast a wind-driven fire can destroy a town. SootMend helps homes and businesses across the islands recover from wildfire, smoke and house fires.",
+ "risk": "wind-driven brush and grass fires, house fires in dense neighborhoods and salt air corrosion after soot",
+ "risk_short": "brush fires, house fires, smoke",
+ "why": [
+  "The August 2023 Maui wildfires destroyed much of Lahaina. Strong winds pushed fire through dry, nonnative grasses that now cover old plantation land. Similar brush fires happen on the leeward sides of all the main islands, especially in dry months. USFA says Maui's losses are why Hawaii's 2023 fire death risk was so high.",
+  "Honolulu's high-rise condos and older walk-up apartments let smoke spread between units through halls and shafts. Salt air makes soot more corrosive on metal fixtures and electronics, so quick cleaning matters more here than in many states."
+ ],
+ "problems": [
+  [
+   "Brush fire smoke and ash",
+   "Leeward Oahu, West Maui, the Big Island and Kauai west side",
+   "<a href=\"/services/smoke-damage-restoration/\">Smoke damage restoration</a>"
+  ],
+  [
+   "Corroded metal and electronics after a fire",
+   "Homes near the ocean",
+   "<a href=\"/services/contents-cleaning/\">Contents cleaning and pack-out</a>"
+  ],
+  [
+   "Kitchen and electrical fires",
+   "Honolulu apartments and condos",
+   "<a href=\"/services/fire-damage-cleanup/\">Fire damage cleanup</a>"
+  ],
+  [
+   "Burned single-wall homes",
+   "Older plantation-style homes",
+   "<a href=\"/services/fire-damage-repair/\">Fire damage repair</a>"
+  ]
+ ],
+ "tips": [
+  "Cut dry grass back from the house and fences in dry season.",
+  "Keep a go-bag and know two ways out of your neighborhood.",
+  "Have older wiring checked; salt air wears out connections.",
+  "Clean soot from metal and electronics quickly to limit corrosion."
+ ],
+ "insurance": "Policies can be harder to find in high-risk areas; the Hawaii Property Insurance Association covers some lava zone homes, so check which plan you are on and what it covers.",
+ "areas": "Oahu, Maui, the Big Island, Kauai, Molokai and Lanai are all covered, with jobs planned around inter-island travel.",
+ "faq": {
+  "q": "Why does soot corrode things faster in Hawaii?",
+  "a": "Soot is acidic, and salt air adds moisture and chlorides. Together they pit metal, damage electronics and stain stone faster. Getting soot off within days limits the damage."
+ }
+}

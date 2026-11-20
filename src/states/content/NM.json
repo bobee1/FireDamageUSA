@@ -1,0 +1,43 @@
+{
+ "lead": "New Mexico has had some of the largest wildfires in the West, and many homes still heat with wood. SootMend helps homes and businesses from Albuquerque to Las Cruces recover from fire, smoke and soot.",
+ "risk": "large forest wildfires, wildfire smoke, and wood stove and fireplace fires",
+ "risk_short": "wildfires, smoke, wood stove fires",
+ "why": [
+  "The 2022 Hermits Peak/Calf Canyon Fire became the largest wildfire in New Mexico's recorded history, and the 2024 South Fork Fire burned hundreds of homes around Ruidoso. Spring winds, dry forests and mountain towns surrounded by pine make wildfire a serious risk from April through June.",
+  "Wood heat is common, with more than 5% of homes using it as the main fuel and many more using kiva fireplaces or stoves. Adobe and stucco walls hold up to flames, but flat roofs, vigas and wood trim can burn. Smoke and soot soak into plaster, adobe and wood beams."
+ ],
+ "problems": [
+  [
+   "Wildfire smoke and ash",
+   "Santa Fe, Ruidoso, Los Alamos and Taos",
+   "<a href=\"/services/smoke-damage-restoration/\">Smoke damage restoration</a>"
+  ],
+  [
+   "Fireplace and chimney fires",
+   "Homes with kiva fireplaces and wood stoves",
+   "<a href=\"/services/fire-damage-cleanup/\">Fire damage cleanup</a>"
+  ],
+  [
+   "Soot on plaster and exposed beams",
+   "Adobe and pueblo-style homes",
+   "<a href=\"/services/soot-removal/\">Soot removal</a>"
+  ],
+  [
+   "Burned flat roofs and vigas",
+   "Older adobe homes",
+   "<a href=\"/services/fire-damage-repair/\">Fire damage repair</a>"
+  ]
+ ],
+ "tips": [
+  "Clear pine needles from flat roofs and canales in spring.",
+  "Have kiva fireplaces and flues checked yearly.",
+  "Keep firewood stacked at least 30 feet from the house.",
+  "Sign up for county alerts during spring wind season."
+ ],
+ "insurance": "Owners hit by the Hermits Peak/Calf Canyon Fire could also file with a special federal claims office, so ask whether any federal program applies after a government-caused fire.",
+ "areas": "Albuquerque, Las Cruces, Rio Rancho, Santa Fe, Roswell and rural and tribal areas are all covered.",
+ "faq": {
+  "q": "Can soot be cleaned from adobe and plaster walls?",
+  "a": "Often, yes. Dry cleaning with HEPA vacuums and chemical sponges comes first, because water can stain plaster. Deep stains may need sealing and new plaster or paint."
+ }
+}

@@ -1,0 +1,43 @@
+{
+ "lead": "North Dakota's cold winters and wide-open prairie shape its fire risk. SootMend helps homes and businesses from Fargo to Bismarck recover from fire, smoke and soot.",
+ "risk": "heating fires in long winters, wind-driven prairie fires, and kitchen fires",
+ "risk_short": "heating fires, prairie fires, house fires",
+ "why": [
+  "North Dakota winters are among the coldest in the lower 48. Furnaces, propane heaters and space heaters run for months, and about 14% of homes use propane. A fire that knocks out heat can freeze pipes within hours, adding water damage.",
+  "Prairie fires can move fast in wind. In 2024, FEMA approved a major disaster declaration for North Dakota wildfires and straight-line winds. Rural homes and farms often rely on volunteer fire departments with long response distances."
+ ],
+ "problems": [
+  [
+   "Furnace and heater fires",
+   "Homes in Fargo, Bismarck, Grand Forks and Minot",
+   "<a href=\"/services/fire-damage-cleanup/\">Fire damage cleanup</a>"
+  ],
+  [
+   "Prairie fire damage to farms",
+   "Western and central North Dakota",
+   "<a href=\"/services/fire-damage-repair/\">Fire damage repair</a>"
+  ],
+  [
+   "Frozen pipes after a winter fire",
+   "Homes left without heat",
+   "<a href=\"/services/board-up-and-roof-tarping/\">Board-up and roof tarping</a>"
+  ],
+  [
+   "Smoke odor in homes and shops",
+   "Farm shops and attached garages",
+   "<a href=\"/services/smoke-odor-removal/\">Smoke odor removal</a>"
+  ]
+ ],
+ "tips": [
+  "Service furnaces and propane heaters every fall.",
+  "Keep a fire extinguisher in the shop and the kitchen.",
+  "Mow firebreaks around farm buildings before fall.",
+  "If a fire cuts the heat in winter, protect the plumbing right away."
+ ],
+ "insurance": "Farm and ranch policies cover the house, shops and equipment under separate limits, so check each one after big purchases.",
+ "areas": "Fargo, Bismarck, Grand Forks, Minot, West Fargo, Williston and rural counties are all covered.",
+ "faq": {
+  "q": "How fast do pipes freeze after a winter fire?",
+  "a": "In North Dakota cold, pipes in an unheated house can freeze within hours. After a fire, have the water shut off or the lines drained, or set up temporary heat as soon as it is safe."
+ }
+}

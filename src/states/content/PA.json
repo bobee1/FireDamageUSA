@@ -1,0 +1,43 @@
+{
+ "lead": "Pennsylvania's older rowhomes and towns, plus oil and wood heat in rural areas, keep fire damage calls steady. SootMend helps homes and businesses from Philadelphia to Pittsburgh recover from fire, smoke and soot.",
+ "risk": "rowhome and older-home fires, heating and puff-back fires, and wood stove fires",
+ "risk_short": "rowhome, heating and puff-back fires",
+ "why": [
+  "Pennsylvania has some of the oldest housing in the country. Philadelphia rowhomes share walls and roofs, so a fire in one can damage the homes on both sides. Pittsburgh, Allentown, Reading and Scranton have many pre-1940 homes with old wiring and balloon framing.",
+  "About 13% of homes heat with fuel oil and 2% with wood, more in rural counties. Pennsylvania also has the highest share of coal-heated homes in the country, though it is under 1%. Puff-backs, chimney fires and stove fires are common in winter."
+ ],
+ "problems": [
+  [
+   "Rowhome fires affecting neighbors",
+   "Philadelphia, Reading and Allentown",
+   "<a href=\"/services/fire-damage-repair/\">Fire damage repair</a>"
+  ],
+  [
+   "Oil burner puff-back soot",
+   "Suburbs and rural homes",
+   "<a href=\"/services/soot-removal/\">Soot removal</a>"
+  ],
+  [
+   "Wood and coal stove fires",
+   "Rural counties and older homes",
+   "<a href=\"/services/fire-damage-cleanup/\">Fire damage cleanup</a>"
+  ],
+  [
+   "Smoke through shared walls",
+   "Rowhomes and twins",
+   "<a href=\"/services/smoke-damage-restoration/\">Smoke damage restoration</a>"
+  ]
+ ],
+ "tips": [
+  "Have oil burners and chimneys serviced each fall.",
+  "Never store flammable items in the shared basement or roof space of a rowhome.",
+  "Keep stove ashes in a metal can outside.",
+  "Install smoke alarms on every level, including basements."
+ ],
+ "insurance": "If a fire next door damaged your rowhome, file with your own insurer; it may later seek repayment from the neighbor's insurer.",
+ "areas": "Philadelphia, Pittsburgh, Allentown, Erie, Reading, Scranton, Harrisburg and rural Pennsylvania are all covered.",
+ "faq": {
+  "q": "Who pays when a fire in a rowhome next door damages mine?",
+  "a": "Your own homeowners policy usually pays for your damage first. Your insurer may then go after the neighbor's insurer if the neighbor was at fault. Do not wait on that process to start cleanup."
+ }
+}

@@ -1,0 +1,43 @@
+{
+ "lead": "Massachusetts fire damage often involves old triple-deckers, oil heat and dense neighborhoods. SootMend helps homes and businesses from Boston to Worcester and Springfield recover from fire, smoke and soot.",
+ "risk": "fires in triple-deckers and older homes, oil furnace puff-backs, and kitchen fires",
+ "risk_short": "triple-decker fires, puff-backs, house fires",
+ "why": [
+  "Massachusetts had one of the lowest fire death risks in the country in 2023, according to USFA. Fire damage is still common because the housing is old and close together. Triple-deckers in Boston, Worcester, Lowell and Fall River share walls, porches and stairs, so one fire can displace three families.",
+  "About one in five homes still heats with fuel oil, so puff-backs are a familiar winter problem. Many older homes have plaster walls, balloon framing and fireplaces. Smoke and soot from a fire can travel up inside walls and across floors."
+ ],
+ "problems": [
+  [
+   "Fires in triple-deckers and two-families",
+   "Boston, Worcester, Lowell and Fall River",
+   "<a href=\"/services/commercial-fire-damage-restoration/\">Commercial fire restoration</a>"
+  ],
+  [
+   "Oil burner puff-back soot",
+   "Homes on oil heat",
+   "<a href=\"/services/soot-removal/\">Soot removal</a>"
+  ],
+  [
+   "Smoke damage in condos and apartments",
+   "Greater Boston",
+   "<a href=\"/services/smoke-damage-restoration/\">Smoke damage restoration</a>"
+  ],
+  [
+   "Fire inside balloon-framed walls",
+   "Pre-1940 homes",
+   "<a href=\"/services/fire-damage-repair/\">Fire damage repair</a>"
+  ]
+ ],
+ "tips": [
+  "Keep back porches and stairs clear; they are escape routes in triple-deckers.",
+  "Have oil burners serviced every year.",
+  "Never use porches for grilling under wooden decks above.",
+  "Install smoke and carbon monoxide alarms on every level."
+ ],
+ "insurance": "In condo buildings and triple-deckers, the master or building policy and each unit's policy split the loss, so read both before a fire.",
+ "areas": "Boston, Worcester, Springfield, Cambridge, Lowell, Brockton, Cape Cod and Western Massachusetts are all covered.",
+ "faq": {
+  "q": "Who handles repairs after a fire in a triple-decker?",
+  "a": "The building owner's insurer pays for the structure, and each unit's renters or condo policy pays for belongings and living costs. One restoration company can work for the owner while documenting each unit separately."
+ }
+}

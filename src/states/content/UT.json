@@ -1,0 +1,43 @@
+{
+ "lead": "Utah's growth along the Wasatch Front has pushed homes into fire-prone foothills. SootMend helps homes and businesses from Salt Lake City to St. George recover from fire, smoke and soot.",
+ "risk": "foothill and canyon wildfires, wildfire smoke, and furnace and kitchen fires",
+ "risk_short": "wildfires, smoke, house fires",
+ "why": [
+  "Many new Utah neighborhoods sit at the edge of foothills covered in oak brush, cheatgrass and juniper. Fires near Herriman, Draper and canyon towns can threaten homes quickly on windy days. Southern Utah's red rock country around St. George and Cedar City sees summer fires in dry grass and pinyon-juniper.",
+  "Natural gas heats nearly four in five Utah homes, one of the highest rates in the country. Furnaces and gas water heaters are common in basements, where a fire can spread smoke up through the house. Winter inversions trap smoke and soot in valleys, making odor slower to clear."
+ ],
+ "problems": [
+  [
+   "Wildfire smoke and ash",
+   "Wasatch Front foothills and canyon towns",
+   "<a href=\"/services/smoke-damage-restoration/\">Smoke damage restoration</a>"
+  ],
+  [
+   "Basement furnace and water heater fires",
+   "Homes with finished basements",
+   "<a href=\"/services/fire-damage-cleanup/\">Fire damage cleanup</a>"
+  ],
+  [
+   "Smoke odor through the whole house",
+   "Two-story and basement homes",
+   "<a href=\"/services/smoke-odor-removal/\">Smoke odor removal</a>"
+  ],
+  [
+   "Burned decks and siding",
+   "Homes backing onto open space",
+   "<a href=\"/services/fire-damage-repair/\">Fire damage repair</a>"
+  ]
+ ],
+ "tips": [
+  "Keep storage boxes and paint cans away from basement furnaces and water heaters.",
+  "Have gas appliances serviced every year.",
+  "Clear dry brush below decks in foothill neighborhoods.",
+  "Plan two ways out of canyon communities."
+ ],
+ "insurance": "Basement fires often damage finished living space, so check that your policy limits cover finished basements and the belongings stored there.",
+ "areas": "Salt Lake City, Provo, Ogden, St. George, Logan and rural Utah are all covered.",
+ "faq": {
+  "q": "Why does smoke from a basement fire reach every floor?",
+  "a": "Hot smoke rises up stairwells, ducts and wall cavities. The furnace can also blow it through the house. That is why basement fires often need whole-house cleaning and duct cleaning."
+ }
+}

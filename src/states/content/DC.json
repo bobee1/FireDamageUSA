@@ -1,0 +1,43 @@
+{
+ "lead": "Washington, DC has old rowhouses, large apartment buildings and one of the highest fire death risks in the country. SootMend helps homes and businesses in every ward recover from fire, smoke and soot.",
+ "risk": "rowhouse and apartment fires, kitchen and electrical fires, and smoke spread in older buildings",
+ "risk_short": "rowhouse, apartment and kitchen fires",
+ "why": [
+  "USFA found District residents were 2.8 times as likely to die in a fire as the U.S. population in 2023. Many homes are rowhouses built before 1940 with shared walls and roofs, so one fire can damage neighbors on both sides. Old wiring and space heaters add risk in winter.",
+  "Large apartment buildings and converted rowhouse units mean smoke often spreads through halls, shafts and ceilings. Water from firefighting runs down to lower floors. Historic district rules may affect how windows, doors and facades are replaced."
+ ],
+ "problems": [
+  [
+   "Rowhouse fires affecting neighbors",
+   "Capitol Hill, Petworth, Columbia Heights and Anacostia",
+   "<a href=\"/services/fire-damage-repair/\">Fire damage repair</a>"
+  ],
+  [
+   "Apartment fires and smoke in nearby units",
+   "Buildings across all wards",
+   "<a href=\"/services/commercial-fire-damage-restoration/\">Commercial fire restoration</a>"
+  ],
+  [
+   "Kitchen and electrical fires",
+   "Older homes and condos",
+   "<a href=\"/services/fire-damage-cleanup/\">Fire damage cleanup</a>"
+  ],
+  [
+   "Water damage below a fire",
+   "Multi-unit buildings",
+   "<a href=\"/services/smoke-damage-restoration/\">Smoke damage restoration</a>"
+  ]
+ ],
+ "tips": [
+  "Close the door behind you when you leave a burning unit.",
+  "Do not overload outlets in older rowhouses.",
+  "Keep smoke alarms in every bedroom and hallway.",
+  "Check historic district rules before replacing windows or doors after a fire."
+ ],
+ "insurance": "Condo and co-op owners need their own policy for interiors and belongings, and renters need renters insurance for theirs.",
+ "areas": "SootMend takes fire damage calls from all eight wards, from Georgetown and Capitol Hill to Brookland, Anacostia and Congress Heights.",
+ "faq": {
+  "q": "Do historic district rules affect fire repairs in DC?",
+  "a": "They can. In historic districts, replacing windows, doors, roofs and facades may need review. Interior repairs usually do not. Ask the contractor to check before ordering materials."
+ }
+}

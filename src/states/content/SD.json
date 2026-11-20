@@ -1,0 +1,43 @@
+{
+ "lead": "South Dakota's fire picture includes Black Hills wildfires, prairie fires and long heating seasons. SootMend helps homes and businesses from Sioux Falls to Rapid City recover from fire, smoke and soot.",
+ "risk": "Black Hills and prairie wildfires, heating and propane fires, and kitchen fires",
+ "risk_short": "wildfires, heating fires, house fires",
+ "why": [
+  "Homes around Rapid City, Hill City and Custer sit among ponderosa pine in the Black Hills, where fires can spread quickly in dry, windy weather. East river, grass and crop fires can threaten farms and small towns. FEMA has approved more than a dozen fire assistance declarations here since 2000.",
+  "Propane heats about one in six South Dakota homes, among the highest rates in the country. Long winters keep furnaces and heaters running, and rural homes may be far from a fire station."
+ ],
+ "problems": [
+  [
+   "Wildfire smoke and ash",
+   "Rapid City and the Black Hills",
+   "<a href=\"/services/smoke-damage-restoration/\">Smoke damage restoration</a>"
+  ],
+  [
+   "Propane and furnace fires",
+   "Rural homes and small towns",
+   "<a href=\"/services/fire-damage-cleanup/\">Fire damage cleanup</a>"
+  ],
+  [
+   "Prairie fire damage to outbuildings",
+   "Farms and ranches",
+   "<a href=\"/services/fire-damage-repair/\">Fire damage repair</a>"
+  ],
+  [
+   "Kitchen fires",
+   "Sioux Falls apartments and homes",
+   "<a href=\"/services/soot-removal/\">Soot removal</a>"
+  ]
+ ],
+ "tips": [
+  "Thin trees and clear needles around homes in the Black Hills.",
+  "Have propane systems and furnaces checked every fall.",
+  "Follow burn bans and red flag warnings.",
+  "Keep a fire extinguisher in the kitchen and garage."
+ ],
+ "insurance": "Homes in the Black Hills may face wildfire surcharges, so check your dwelling limit against today's building costs.",
+ "areas": "Sioux Falls, Rapid City, Aberdeen, Brookings, Watertown, the Black Hills and tribal and rural areas are all covered.",
+ "faq": {
+  "q": "Can pine forest smoke damage be cleaned from a cabin?",
+  "a": "Yes. Soot and ash are cleaned from surfaces, filters are replaced and odor is treated. Raw wood interiors may need extra cleaning or sealing to stop the smell from coming back."
+ }
+}

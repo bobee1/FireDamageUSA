@@ -1,0 +1,43 @@
+{
+ "lead": "Arkansas has a high fire death risk, with rural homes, wood heat and long drives for fire crews. SootMend helps homes and businesses from Little Rock to Fayetteville recover from fire, smoke and soot.",
+ "risk": "heating and wood stove fires, rural and mobile home fires, and kitchen fires",
+ "risk_short": "heating, wood stove and rural fires",
+ "why": [
+  "USFA found Arkansas residents were twice as likely to die in a fire as the U.S. population in 2023. More than 2% of homes heat mainly with wood and about 6% with propane, mostly in the Ozarks and Delta. Rural homes and mobile homes may be a long way from a fire station.",
+  "Arkansas forests and grasslands can burn in dry spells, and FEMA approved fire assistance here in 2026. In cities like Little Rock and Fort Smith, kitchen and electrical fires in older homes make up most calls."
+ ],
+ "problems": [
+  [
+   "Wood stove and chimney fires",
+   "Ozarks and rural homes",
+   "<a href=\"/services/fire-damage-cleanup/\">Fire damage cleanup</a>"
+  ],
+  [
+   "Mobile home fires",
+   "Rural counties and the Delta",
+   "<a href=\"/services/contents-cleaning/\">Contents cleaning and pack-out</a>"
+  ],
+  [
+   "Electrical fires in older homes",
+   "Little Rock, Pine Bluff and Fort Smith",
+   "<a href=\"/services/fire-damage-repair/\">Fire damage repair</a>"
+  ],
+  [
+   "Smoke odor through the house",
+   "Homes with forced-air heat",
+   "<a href=\"/services/smoke-odor-removal/\">Smoke odor removal</a>"
+  ]
+ ],
+ "tips": [
+  "Sweep chimneys before winter and burn only dry wood.",
+  "Store ashes outside in a covered metal can.",
+  "Keep space heaters away from bedding and turn them off when you leave.",
+  "Make sure your house number is visible from the road."
+ ],
+ "insurance": "Rural homes may be rated by distance to a fire station and hydrant, so ask whether a nearer station or hydrant could lower your premium.",
+ "areas": "Little Rock, Fayetteville, Fort Smith, Springdale, Jonesboro, Rogers and rural Arkansas are all covered.",
+ "faq": {
+  "q": "Why is fire risk higher in rural Arkansas?",
+  "a": "Rural homes often use wood or propane heat, may have older wiring and can be far from a fire station. Fires have more time to grow before help arrives. Working smoke alarms make the biggest difference."
+ }
+}

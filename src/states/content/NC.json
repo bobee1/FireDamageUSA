@@ -1,0 +1,43 @@
+{
+ "lead": "North Carolina mixes fast-growing cities with mountain forests and coastal pine. SootMend helps homes and businesses from Charlotte to Raleigh and Asheville recover from fire, smoke and soot.",
+ "risk": "kitchen and electrical fires, mountain and coastal wildfires, and heating fires",
+ "risk_short": "house fires, wildfires, heating fires",
+ "why": [
+  "Two in three North Carolina homes heat with electricity. Kitchen fires and electrical fires are the most common causes of fire damage in Charlotte, Raleigh, Greensboro and other fast-growing cities. Many apartments and townhomes share walls and attics.",
+  "In 2025, several wildfires led to FEMA fire assistance declarations, and storm debris left by Hurricane Helene in the mountains added dry fuel. Eastern pocosin and pine forests also burn, sending smoke across the coastal plain."
+ ],
+ "problems": [
+  [
+   "Kitchen and electrical fires",
+   "Charlotte, Raleigh, Durham and Greensboro",
+   "<a href=\"/services/fire-damage-cleanup/\">Fire damage cleanup</a>"
+  ],
+  [
+   "Smoke in townhomes and apartments",
+   "Growing metro areas",
+   "<a href=\"/services/commercial-fire-damage-restoration/\">Commercial fire restoration</a>"
+  ],
+  [
+   "Wildfire smoke and ash",
+   "Western mountains and the coastal plain",
+   "<a href=\"/services/smoke-damage-restoration/\">Smoke damage restoration</a>"
+  ],
+  [
+   "Chimney fires",
+   "Mountain homes and cabins",
+   "<a href=\"/services/soot-removal/\">Soot removal</a>"
+  ]
+ ],
+ "tips": [
+  "Clear storm debris and dead brush away from mountain homes.",
+  "Never leave cooking unattended.",
+  "Sweep chimneys yearly if you burn wood.",
+  "Follow burn bans from the N.C. Forest Service."
+ ],
+ "insurance": "Mountain homes still repairing storm damage should tell their insurer about any open claims, since fire repairs may overlap.",
+ "areas": "Charlotte, Raleigh, Greensboro, Durham, Winston-Salem, Fayetteville, Asheville and the coast are all covered.",
+ "faq": {
+  "q": "Can storm debris make wildfires worse?",
+  "a": "Yes. Downed trees and dead brush add dry fuel. That is why clearing debris near homes in the mountains is one of the best ways to protect against wildfire."
+ }
+}

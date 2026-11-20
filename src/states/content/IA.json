@@ -1,0 +1,43 @@
+{
+ "lead": "Iowa fire damage often starts with heating equipment, farm buildings or older homes in small towns. SootMend helps homes and businesses from Des Moines to Cedar Rapids recover from fire, smoke and soot.",
+ "risk": "heating and propane fires, farm and outbuilding fires, and kitchen fires",
+ "risk_short": "heating, farm and kitchen fires",
+ "why": [
+  "Propane heats about one in eight Iowa homes, one of the higher rates in the Midwest, mostly on farms and in small towns. Cold winters keep furnaces and space heaters running for months. Many rural homes are served by volunteer fire departments that must travel a long way.",
+  "Farm fires bring their own problems. Machine sheds, grain dryers and livestock barns hold fuel, dust and equipment. Smoke from a barn or shop fire can drift into the house, and burned plastics leave oily, smelly soot that needs special cleaning."
+ ],
+ "problems": [
+  [
+   "Furnace and propane heater fires",
+   "Farmhouses and small-town homes",
+   "<a href=\"/services/fire-damage-cleanup/\">Fire damage cleanup</a>"
+  ],
+  [
+   "Machine shed and barn fires",
+   "Farms statewide",
+   "<a href=\"/services/commercial-fire-damage-restoration/\">Commercial fire restoration</a>"
+  ],
+  [
+   "Oily soot from burned plastics",
+   "Garages and shops",
+   "<a href=\"/services/soot-removal/\">Soot removal</a>"
+  ],
+  [
+   "Smoke odor in older homes",
+   "Homes with plaster walls",
+   "<a href=\"/services/smoke-odor-removal/\">Smoke odor removal</a>"
+  ]
+ ],
+ "tips": [
+  "Have propane furnaces and heaters checked before winter.",
+  "Keep grain dryers and shop heaters clean of dust and chaff.",
+  "Store gasoline and oily rags in approved cans away from the house.",
+  "Post your 911 address clearly at the end of farm lanes."
+ ],
+ "insurance": "Farm policies often cover the house and outbuildings under different sections, so check limits for each building and for stored equipment.",
+ "areas": "Des Moines, Cedar Rapids, Davenport, Sioux City, Iowa City, Waterloo and farm country are all covered.",
+ "faq": {
+  "q": "Does farm insurance cover smoke damage to the house from a barn fire?",
+  "a": "Usually. The house is covered under the dwelling part of a farm policy, and smoke from a nearby fire is a common covered loss. Report it quickly and photograph soot inside before cleaning."
+ }
+}

@@ -1,0 +1,43 @@
+{
+ "lead": "Wyoming's wide-open rangeland, wind and long winters all play a part in fire damage. SootMend helps homes and businesses from Cheyenne to Jackson recover from fire, smoke and soot.",
+ "risk": "wind-driven rangeland and forest wildfires, wildfire smoke, and heating fires in long winters",
+ "risk_short": "wildfires, smoke, heating fires",
+ "why": [
+  "Strong winds are part of daily life in Wyoming, and they turn small grass fires into big ones fast. Forest fires in the Bighorns, the Wind Rivers and the Black Hills region bring smoke to Sheridan, Casper and Gillette. In late 2024, FEMA approved a major disaster declaration for Wyoming wildfires.",
+  "About one in ten homes heats with propane and nearly 5% with wood, often in rural places far from a fire station. Long, cold winters keep furnaces, stoves and space heaters running. A heating fire that knocks out heat can also freeze pipes and add water damage."
+ ],
+ "problems": [
+  [
+   "Wildfire smoke and ash",
+   "Sheridan, Buffalo, Jackson and Casper",
+   "<a href=\"/services/smoke-damage-restoration/\">Smoke damage restoration</a>"
+  ],
+  [
+   "Wood stove and propane heater fires",
+   "Ranches and rural homes",
+   "<a href=\"/services/fire-damage-cleanup/\">Fire damage cleanup</a>"
+  ],
+  [
+   "Frozen pipes after a fire",
+   "Homes left without heat in winter",
+   "<a href=\"/services/fire-damage-repair/\">Fire damage repair</a>"
+  ],
+  [
+   "Soot from furnace problems",
+   "Older homes with aging furnaces",
+   "<a href=\"/services/soot-removal/\">Soot removal</a>"
+  ]
+ ],
+ "tips": [
+  "Keep propane tanks and woodpiles clear of grass and brush.",
+  "Have furnaces and stoves inspected before winter.",
+  "Avoid outdoor burning on windy, dry days.",
+  "If a fire cuts the heat in winter, drain or heat the pipes right away."
+ ],
+ "insurance": "Rural homes may have high deductibles for wind and hail, so check whether the same deductible applies to fire and smoke claims.",
+ "areas": "Cheyenne, Casper, Laramie, Gillette, Rock Springs, Sheridan, Jackson and ranch country are all covered.",
+ "faq": {
+  "q": "What should I do if a winter fire knocks out my heat?",
+  "a": "Call the fire department first. Once it is safe, keep pipes from freezing with temporary heat or by draining the water lines. Board up openings to hold heat in, and call a restoration company to start cleanup."
+ }
+}

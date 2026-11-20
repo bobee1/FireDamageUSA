@@ -1,0 +1,43 @@
+{
+ "lead": "Fire risk in Alabama is high. Space heaters, old wiring and mobile homes all play a part. SootMend helps homes and businesses from Birmingham to Mobile recover from fire, smoke and soot.",
+ "risk": "space heater and electrical fires, mobile home fires, and kitchen fires",
+ "risk_short": "space heater, electrical and kitchen fires",
+ "why": [
+  "USFA found Alabama residents were 1.8 times as likely to die in a fire as the U.S. population in 2023. Two in three homes heat with electricity, and short cold snaps send families to space heaters and extension cords. Some older rural homes still have their first wiring.",
+  "Many rural families live in mobile homes. They burn fast, and smoke fills them quickly. Near the Gulf, damp air makes soot stain walls faster, so clean it soon."
+ ],
+ "problems": [
+  [
+   "Space heater and cord fires",
+   "Homes statewide during cold snaps",
+   "<a href=\"/services/fire-damage-cleanup/\">Fire damage cleanup</a>"
+  ],
+  [
+   "Mobile home fires",
+   "Rural counties",
+   "<a href=\"/services/contents-cleaning/\">Contents cleaning and pack-out</a>"
+  ],
+  [
+   "Smoke stains in humid weather",
+   "Homes in Mobile and the Gulf Coast",
+   "<a href=\"/services/smoke-damage-restoration/\">Smoke damage restoration</a>"
+  ],
+  [
+   "Wiring fires in older homes",
+   "Birmingham, Montgomery and small towns",
+   "<a href=\"/services/fire-damage-repair/\">Fire damage repair</a>"
+  ]
+ ],
+ "tips": [
+  "Keep space heaters three feet from beds and curtains and turn them off at night.",
+  "Never run space heaters on extension cords or power strips.",
+  "Install smoke alarms in every bedroom of a mobile home.",
+  "Have older wiring checked by a licensed electrician."
+ ],
+ "insurance": "Mobile homes often have their own type of policy, so check that yours pays for smoke damage and a place to stay.",
+ "areas": "Birmingham, Huntsville, Montgomery, Mobile, Tuscaloosa, Hoover and rural Alabama are all covered.",
+ "faq": {
+  "q": "Can a mobile home be repaired after a fire?",
+  "a": "Sometimes. Light smoke damage can be cleaned. Fires that burn through floors, walls or the roof often total a mobile home because the materials are thin. An adjuster and contractor can help you decide."
+ }
+}

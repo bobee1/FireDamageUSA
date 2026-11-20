@@ -1,0 +1,43 @@
+{
+ "lead": "New Hampshire homes lean on oil, propane and wood for heat, which shapes how fires start and what they leave behind. SootMend helps homes and businesses from Manchester to Nashua and Concord recover from fire, smoke and soot.",
+ "risk": "oil furnace puff-backs, wood stove and chimney fires, and propane heater fires",
+ "risk_short": "puff-backs, wood stove, chimney fires",
+ "why": [
+  "New Hampshire has one of the most varied heating mixes in the country: about 37% of homes burn fuel oil, 20% use propane and 5% heat mainly with wood. That means puff-backs, chimney fires and stove fires are frequent winter calls, even though the state's fire death risk is among the lowest.",
+  "Many homes are old New England farmhouses and capes with fireplaces and attached barns. Lake homes and seasonal camps add wood stoves and older wiring. Smoke and soot spread quickly in tight older homes with open stairways."
+ ],
+ "problems": [
+  [
+   "Oil burner puff-back soot",
+   "Homes on oil heat statewide",
+   "<a href=\"/services/soot-removal/\">Soot removal</a>"
+  ],
+  [
+   "Wood stove and chimney fires",
+   "Rural homes and lake camps",
+   "<a href=\"/services/fire-damage-cleanup/\">Fire damage cleanup</a>"
+  ],
+  [
+   "Propane heater fires",
+   "Homes and camps without gas lines",
+   "<a href=\"/services/smoke-damage-restoration/\">Smoke damage restoration</a>"
+  ],
+  [
+   "Burned attached barns and ells",
+   "Older farmhouses",
+   "<a href=\"/services/fire-damage-repair/\">Fire damage repair</a>"
+  ]
+ ],
+ "tips": [
+  "Have oil and propane systems serviced every year.",
+  "Sweep chimneys before heating season and burn only dry wood.",
+  "Store ashes outside in a metal can with a lid.",
+  "Keep smoke alarms in camps and check them when you open up."
+ ],
+ "insurance": "Some insurers ask about wood stoves and how they were installed, so tell your agent about any stove to avoid claim problems later.",
+ "areas": "Manchester, Nashua, Concord, Dover, Rochester, the Lakes Region and the North Country are all covered.",
+ "faq": {
+  "q": "Does insurance cover a wood stove fire?",
+  "a": "Usually, if the stove was installed properly and disclosed to your insurer. Some insurers ask for an inspection. Keep the installation paperwork and chimney cleaning receipts."
+ }
+}

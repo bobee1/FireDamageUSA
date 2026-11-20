@@ -1,0 +1,43 @@
+{
+ "lead": "Arizona fires run from desert wildfires and monsoon lightning to kitchen and electrical fires in fast-growing suburbs. SootMend helps homes and businesses from Phoenix to Flagstaff recover from fire, smoke and soot.",
+ "risk": "wildfires in forests and desert brush, electrical fires in summer heat and wildfire smoke",
+ "risk_short": "wildfires, electrical fires, smoke",
+ "why": [
+  "Arizona has two fire seasons in one. Before the summer monsoon, hot, dry and windy days dry out grass and pine forest, and dry lightning can start fires across the Mogollon Rim and northern mountains. Towns like Flagstaff, Prescott and Payson sit right next to forest land, so homes there face embers and heavy smoke.",
+  "In the Valley, extreme summer heat keeps air conditioners and wiring under heavy load for months. Attic air handlers, overloaded circuits and pool equipment can overheat. Many homes have tile roofs and stucco, which resist flames, but smoke still gets in through vents and spreads fine soot over light-colored walls and carpets."
+ ],
+ "problems": [
+  [
+   "Wildfire smoke and ash in homes",
+   "Flagstaff, Prescott, Payson and the White Mountains",
+   "<a href=\"/services/smoke-damage-restoration/\">Smoke damage restoration</a>"
+  ],
+  [
+   "Electrical and AC equipment fires",
+   "Phoenix, Mesa, Chandler and Tucson in summer",
+   "<a href=\"/services/fire-damage-cleanup/\">Fire damage cleanup</a>"
+  ],
+  [
+   "Smoke odor in stucco homes and HVAC",
+   "Homes downwind of wildfires",
+   "<a href=\"/services/smoke-odor-removal/\">Smoke odor removal</a>"
+  ],
+  [
+   "Burned roofs and attics",
+   "Homes with wood-shake or older roofs",
+   "<a href=\"/services/fire-damage-repair/\">Fire damage repair</a>"
+  ]
+ ],
+ "tips": [
+  "Clear brush and pine needles at least five feet from the house in forest towns.",
+  "Have an electrician check the panel if breakers trip often in summer.",
+  "Swap HVAC filters right after a smoke event; ash clogs them quickly.",
+  "Keep grills and smokers away from patio covers and wood fences."
+ ],
+ "insurance": "Insurers in parts of northern Arizona are more careful about writing policies near forest land, so check that your coverage limits still match the cost to rebuild today.",
+ "areas": "Phoenix-area suburbs, Tucson, the high country and small towns along the rim are all covered.",
+ "faq": {
+  "q": "Does wildfire smoke damage count if the fire never reached my house?",
+  "a": "It can. Smoke and ash can enter through vents and leave soot and odor even when the fire stays miles away. Many policies cover that damage. Document it with photos and keep dirty HVAC filters as evidence."
+ }
+}

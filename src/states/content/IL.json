@@ -1,0 +1,43 @@
+{
+ "lead": "Illinois fire damage calls come mostly from homes, apartments and two-flats, with long gas-heated winters. SootMend helps homes and businesses from Chicago to Springfield recover from fire, smoke and soot.",
+ "risk": "kitchen and heating fires, apartment and two-flat fires, and smoke spread in older multi-unit buildings",
+ "risk_short": "house, apartment and heating fires",
+ "why": [
+  "Three in four Illinois homes heat with natural gas, one of the highest rates in the country. Furnaces, boilers and water heaters run through long winters, often in basements full of stored boxes. Chicago's older two-flats, three-flats and courtyard buildings share walls, stairs and attics, so one fire can damage several units.",
+  "Older housing is common in Chicago and many downstate towns. Knob-and-tube or overloaded wiring, old outlets and space heaters add risk in cold snaps. Fire crews often break windows and cut roofs to vent smoke in multi-unit buildings, so board-up and water removal are frequent first steps."
+ ],
+ "problems": [
+  [
+   "Fires in two-flats and three-flats",
+   "Chicago neighborhoods and inner suburbs",
+   "<a href=\"/services/commercial-fire-damage-restoration/\">Commercial fire restoration</a>"
+  ],
+  [
+   "Basement furnace and boiler fires",
+   "Older homes statewide",
+   "<a href=\"/services/fire-damage-cleanup/\">Fire damage cleanup</a>"
+  ],
+  [
+   "Smoke damage in neighboring units",
+   "Apartments and condo buildings",
+   "<a href=\"/services/smoke-damage-restoration/\">Smoke damage restoration</a>"
+  ],
+  [
+   "Broken windows and roof vents after firefighting",
+   "Multi-unit buildings",
+   "<a href=\"/services/board-up-and-roof-tarping/\">Board-up and roof tarping</a>"
+  ]
+ ],
+ "tips": [
+  "Keep three feet clear around basement furnaces, boilers and water heaters.",
+  "Never use an oven or a grill to heat your home.",
+  "Make sure every unit in a multi-unit building has working smoke alarms.",
+  "Have older wiring checked before adding space heaters or window AC units."
+ ],
+ "insurance": "In two-flats and condo buildings, the owner's or association's policy covers the building and each tenant or unit owner needs their own policy for belongings and living costs.",
+ "areas": "Chicago, the collar counties, Rockford, Peoria, Springfield, Champaign and southern Illinois are all covered.",
+ "faq": {
+  "q": "Who pays for smoke damage in my unit if the fire started next door?",
+  "a": "The building's policy covers the structure. Your renters or condo policy covers your belongings and extra living costs. If the fire was caused by someone's negligence, the insurers may sort out payment between them later."
+ }
+}

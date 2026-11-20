@@ -1,0 +1,43 @@
+{
+ "lead": "New Jersey is the most densely populated state, so one fire often affects attached homes, apartments and neighbors. SootMend helps homes and businesses from Newark to Jersey City and the Shore recover from fire, smoke and soot.",
+ "risk": "fires in attached and multi-family homes, kitchen and heating fires, and Pine Barrens wildfires",
+ "risk_short": "multi-family, kitchen and brush fires",
+ "why": [
+  "New Jersey's cities are packed with rowhomes, two-families and apartment buildings. Newark, Jersey City, Paterson and Elizabeth have many older wood-frame homes built close together, where fire can jump between buildings. Natural gas heats about three in four homes.",
+  "In the south, the Pine Barrens are one of the most fire-prone forests in the East. The 2025 Jones Road Fire in Ocean County burned thousands of acres and forced evacuations. Smoke from pine forest fires can reach Shore towns and Philadelphia suburbs."
+ ],
+ "problems": [
+  [
+   "Fires in two-families and rowhomes",
+   "Newark, Jersey City, Paterson and Trenton",
+   "<a href=\"/services/commercial-fire-damage-restoration/\">Commercial fire restoration</a>"
+  ],
+  [
+   "Smoke damage in apartments",
+   "Hudson, Essex and Bergen counties",
+   "<a href=\"/services/smoke-damage-restoration/\">Smoke damage restoration</a>"
+  ],
+  [
+   "Pine Barrens wildfire smoke",
+   "Ocean, Burlington and Atlantic counties",
+   "<a href=\"/services/smoke-odor-removal/\">Smoke odor removal</a>"
+  ],
+  [
+   "Kitchen fires",
+   "Homes statewide",
+   "<a href=\"/services/fire-damage-cleanup/\">Fire damage cleanup</a>"
+  ]
+ ],
+ "tips": [
+  "Keep hallways and stairs in multi-family buildings clear.",
+  "Clear pine needles from roofs and gutters near the Pine Barrens.",
+  "Never leave cooking unattended.",
+  "Know your building's fire exits and meeting place."
+ ],
+ "insurance": "Shore homes may carry several policies, including flood and wind; fire and smoke damage is usually under the main homeowners policy, so file there first.",
+ "areas": "Newark, Jersey City, Paterson, Elizabeth, Edison, Trenton, Camden and the Shore are all covered.",
+ "faq": {
+  "q": "Can a fire next door damage my attached home?",
+  "a": "Yes. Shared walls carry heat, smoke and water from firefighting. Your own homeowners policy usually covers damage to your side. Report it quickly and document smoke stains and water damage."
+ }
+}

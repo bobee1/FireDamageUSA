@@ -1,0 +1,49 @@
+{
+ "lead": "Florida rarely needs heat, but kitchen, electrical and wildfire risks are real. SootMend helps homes and businesses from Miami to Jacksonville and Tampa recover from fire, smoke and soot.",
+ "risk": "kitchen and electrical fires, wildfires in pine and palmetto, and soot damage in humid air",
+ "risk_short": "kitchen, electrical and wildfires",
+ "why": [
+  "Nearly nine in ten Florida homes heat with electricity, and many need heat only a few days a year. Most fire damage starts with cooking, dryers, electrical problems and, more recently, lithium-ion batteries in e-bikes and scooters. Condo towers and apartments let smoke spread through halls and floors.",
+  "Florida also has a real wildfire season, usually peaking in late winter and spring. Pine flatwoods and palmetto burn hot, and FEMA approved fire assistance in 2026 during a dry spring. In the humid climate, soot and smoke residue absorb moisture and stain fast."
+ ],
+ "problems": [
+  [
+   "Kitchen and dryer fires",
+   "Homes and condos statewide",
+   "<a href=\"/services/fire-damage-cleanup/\">Fire damage cleanup</a>"
+  ],
+  [
+   "Smoke damage in condo towers",
+   "Miami, Fort Lauderdale, Tampa and Orlando",
+   "<a href=\"/services/commercial-fire-damage-restoration/\">Commercial fire restoration</a>"
+  ],
+  [
+   "Wildfire smoke and ash",
+   "North and Central Florida pinelands",
+   "<a href=\"/services/smoke-damage-restoration/\">Smoke damage restoration</a>"
+  ],
+  [
+   "Soot staining in humid air",
+   "Homes statewide",
+   "<a href=\"/services/soot-removal/\">Soot removal</a>"
+  ]
+ ],
+ "tips": [
+  "Clean dryer lint traps and vents often.",
+  "Charge e-bike and scooter batteries away from exits and never overnight.",
+  "Clear pine needles and palmetto near the house in spring.",
+  "Run AC or dehumidifiers after a fire to slow soot staining."
+ ],
+ "insurance": "Many Floridians are insured through Citizens Property Insurance, the state-created insurer of last resort, so check whether your policy is with Citizens or a private carrier.",
+ "areas": "Jacksonville, Miami, Tampa, Orlando, St. Petersburg, Tallahassee, Fort Myers and the Panhandle are all covered.",
+ "faq": {
+  "q": "Why does soot stain faster in Florida?",
+  "a": "High humidity lets soot absorb moisture, which helps acids and oils set into paint, grout and fabric. Running AC or dehumidifiers and starting cleanup within days limits permanent staining."
+ },
+ "sources": [
+  [
+   "Citizens Property Insurance Corporation",
+   "https://www.citizensfla.com/"
+  ]
+ ]
+}

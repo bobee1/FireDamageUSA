@@ -1,0 +1,271 @@
+{
+"_source": "OpenFEMA FemaWebDisasterDeclarations v1, incidentType Fire, declared 2000-01-01 to 2026-11-19, pulled 2026-11-19. fmag = Fire Management Assistance declarations (called Fire Suppression before 2003).",
+"fields": [
+"major_disaster",
+"emergency",
+"fmag",
+"latest_date",
+"latest_name"
+],
+"rows": {
+"CA": [
+15,
+6,
+259,
+"2026-10-16",
+"Norte Fire"
+],
+"NV": [
+1,
+1,
+75,
+"2026-10-02",
+"Bull Fire"
+],
+"TX": [
+3,
+1,
+165,
+"2026-09-15",
+"Hydra Fire"
+],
+"AR": [
+0,
+0,
+2,
+"2026-09-15",
+"Bunker Fire"
+],
+"CO": [
+7,
+0,
+71,
+"2026-09-01",
+"wildfires, flooding and mudslides"
+],
+"AK": [
+1,
+0,
+19,
+"2026-08-18",
+"Mukluk Fire"
+],
+"MT": [
+3,
+0,
+53,
+"2026-08-14",
+"Sand Creek Fire"
+],
+"OR": [
+2,
+1,
+100,
+"2026-08-14",
+"Fielder Mountain Fire"
+],
+"OK": [
+5,
+0,
+121,
+"2026-08-13",
+"Train Trestle Fire"
+],
+"UT": [
+0,
+0,
+40,
+"2026-08-09",
+"Rocky Canyon Fire"
+],
+"WA": [
+7,
+3,
+127,
+"2026-08-03",
+"wildfires"
+],
+"ID": [
+1,
+0,
+21,
+"2026-08-02",
+"Tartar Fire"
+],
+"HI": [
+1,
+0,
+24,
+"2026-07-26",
+"Kawaihae Road Fire"
+],
+"NE": [
+1,
+0,
+9,
+"2026-06-30",
+"wildfires"
+],
+"FL": [
+0,
+0,
+39,
+"2026-04-23",
+"Cow Creek Fire"
+],
+"GA": [
+0,
+0,
+14,
+"2026-04-22",
+"Highway 82 Fire"
+],
+"SD": [
+0,
+0,
+19,
+"2026-03-13",
+"Qury Fire"
+],
+"WY": [
+1,
+0,
+27,
+"2025-08-15",
+"Red Canyon Fire"
+],
+"NM": [
+3,
+1,
+66,
+"2025-06-22",
+"Cotton 2 Fire"
+],
+"AZ": [
+3,
+0,
+63,
+"2025-05-22",
+"Cody Fire"
+],
+"MN": [
+0,
+0,
+3,
+"2025-05-14",
+"Munger Shaw Fire"
+],
+"NC": [
+0,
+0,
+9,
+"2025-05-03",
+"Sunset Drive Fire"
+],
+"NJ": [
+0,
+1,
+3,
+"2025-04-24",
+"Jones Road Fire"
+],
+"SC": [
+0,
+0,
+7,
+"2025-03-23",
+"Table Rock Fire"
+],
+"KS": [
+0,
+0,
+14,
+"2025-03-14",
+"Yates Center Fire"
+],
+"ND": [
+1,
+0,
+3,
+"2024-12-24",
+"wildfires and straight-line winds"
+],
+"NY": [
+1,
+0,
+1,
+"2024-11-15",
+"Jennings Creek Fire"
+],
+"CT": [
+0,
+0,
+1,
+"2024-10-24",
+"Hawthorne Fire"
+],
+"LA": [
+0,
+0,
+5,
+"2023-08-30",
+"Highway 113 Fire"
+],
+"RI": [
+0,
+0,
+1,
+"2023-04-14",
+"Queens River Fire"
+],
+"TN": [
+1,
+0,
+9,
+"2016-12-15",
+"wildfires"
+],
+"KY": [
+0,
+0,
+7,
+"2016-11-20",
+"Southeastern Kentucky Fire Complex"
+],
+"NH": [
+0,
+0,
+1,
+"2016-04-21",
+"Stoddard Fire"
+],
+"VA": [
+0,
+1,
+7,
+"2011-02-20",
+"Smith Fire"
+],
+"AL": [
+0,
+0,
+2,
+"2001-11-20",
+"North East Alabama Fire Complex"
+],
+"WV": [
+0,
+0,
+2,
+"2001-11-16",
+"Trough and Smoke Hole Fire Complex"
+],
+"MO": [
+0,
+0,
+1,
+"2000-03-09",
+"Camden Fire Complex"
+]
+}
+}

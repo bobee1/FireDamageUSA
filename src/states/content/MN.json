@@ -1,0 +1,43 @@
+{
+ "lead": "Minnesota winters are long and cold, so heating systems and space heaters cause many fires. SootMend helps homes and businesses from Minneapolis to Duluth recover from fire, smoke and soot.",
+ "risk": "heating and kitchen fires, wood stove and cabin fires, and wildfire smoke from Canada",
+ "risk_short": "heating fires, cabin fires, smoke",
+ "why": [
+  "Minnesota furnaces run for six months or more, and about one home in ten heats with propane. Cabins in the north woods often rely on wood stoves and older wiring. A fire in winter can also freeze pipes once the heat fails, adding water damage to fire damage.",
+  "In recent summers, smoke from large Canadian wildfires has covered the Twin Cities and Duluth with some of the worst air in the country. Fine smoke particles get into homes and HVAC systems. In the Arrowhead, Minnesota's own forest fires can threaten cabins and resorts."
+ ],
+ "problems": [
+  [
+   "Furnace and space heater fires",
+   "Twin Cities suburbs and older homes",
+   "<a href=\"/services/fire-damage-cleanup/\">Fire damage cleanup</a>"
+  ],
+  [
+   "Cabin and wood stove fires",
+   "North woods and lake country",
+   "<a href=\"/services/soot-removal/\">Soot removal</a>"
+  ],
+  [
+   "Frozen pipes after a fire",
+   "Homes left without heat in winter",
+   "<a href=\"/services/fire-damage-repair/\">Fire damage repair</a>"
+  ],
+  [
+   "Wildfire smoke odor indoors",
+   "Duluth, the Iron Range and the Twin Cities",
+   "<a href=\"/services/smoke-odor-removal/\">Smoke odor removal</a>"
+  ]
+ ],
+ "tips": [
+  "Service furnaces every fall and change filters often in winter.",
+  "Keep cabin chimneys clean and use a spark arrester.",
+  "If a fire cuts your heat, protect pipes right away.",
+  "Run a HEPA air cleaner when Canadian smoke rolls in."
+ ],
+ "insurance": "Seasonal cabins may be insured on a separate policy with different terms for vacancy, so check yours before you close up for winter.",
+ "areas": "Minneapolis, St. Paul, Rochester, Duluth, Bloomington, St. Cloud and cabin country are all covered.",
+ "faq": {
+  "q": "Is a cabin fire covered if no one was living there?",
+  "a": "It depends on the policy. Many seasonal policies cover fire, but some limit coverage if the cabin was vacant for a long time. Read the vacancy clause and report the loss right away."
+ }
+}

@@ -1,0 +1,43 @@
+{
+ "lead": "New York's fire damage ranges from apartment and brownstone fires in the city to oil heat and wood stoves upstate. SootMend helps homes and businesses from New York City to Buffalo recover from fire, smoke and soot.",
+ "risk": "apartment and multi-family fires, oil furnace puff-backs upstate, and lithium-ion battery fires",
+ "risk_short": "apartment fires, puff-backs, battery fires",
+ "why": [
+  "In New York City, most fire damage happens in apartment buildings, where smoke travels through stairwells, shafts and halls to units far from the fire. Lithium-ion batteries in e-bikes and scooters have become a major cause of city fires in recent years. Water from fire hoses often damages floors below.",
+  "Upstate, about 15% of homes statewide still heat with fuel oil, and many rural homes add wood stoves. Puff-backs and chimney fires are common in winter. Older housing in Buffalo, Rochester, Syracuse and Albany has original wiring and balloon framing."
+ ],
+ "problems": [
+  [
+   "Apartment fires and smoke in nearby units",
+   "New York City and Yonkers",
+   "<a href=\"/services/commercial-fire-damage-restoration/\">Commercial fire restoration</a>"
+  ],
+  [
+   "Lithium-ion battery fires",
+   "Apartments and garages",
+   "<a href=\"/services/fire-damage-cleanup/\">Fire damage cleanup</a>"
+  ],
+  [
+   "Oil burner puff-back soot",
+   "Long Island, the Hudson Valley and upstate",
+   "<a href=\"/services/soot-removal/\">Soot removal</a>"
+  ],
+  [
+   "Water damage below a fire",
+   "Multi-story buildings",
+   "<a href=\"/services/fire-damage-repair/\">Fire damage repair</a>"
+  ]
+ ],
+ "tips": [
+  "Charge e-bike and scooter batteries away from exits, and only with the right charger.",
+  "Close the door behind you when you leave a burning apartment.",
+  "Have oil burners serviced every year.",
+  "Keep smoke and carbon monoxide alarms on every level."
+ ],
+ "insurance": "Co-op and condo owners need their own policy for interiors and belongings; the building's policy rarely covers everything inside your unit.",
+ "areas": "New York City, Long Island, the Hudson Valley, Buffalo, Rochester, Syracuse, Albany and the North Country are all covered.",
+ "faq": {
+  "q": "What should I do if an e-bike battery fire damaged my apartment?",
+  "a": "Get out and call 911. After the fire department clears the unit, tell your landlord and insurer. Battery fires leave heavy, toxic soot, so let a crew handle cleanup and do not reuse the charger or other batteries."
+ }
+}

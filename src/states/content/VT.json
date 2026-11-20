@@ -1,0 +1,43 @@
+{
+ "lead": "Vermont leads the country in wood heat, and oil and propane heat most other homes. SootMend helps homes and businesses from Burlington to Rutland recover from fire, smoke and soot.",
+ "risk": "wood stove and chimney fires, oil furnace puff-backs, and propane heater fires",
+ "risk_short": "wood stove, chimney fires, puff-backs",
+ "why": [
+  "More than 10% of Vermont homes heat mainly with wood, the highest share of any state. About 35% use fuel oil and 20% propane. Few homes have natural gas, so stoves, boilers and space heaters do the work through long, cold winters. Chimney fires, stove fires and puff-backs are the common calls.",
+  "Vermont's housing is old, with farmhouses, attached barns and village homes built close together. Rural homes may be far from volunteer fire departments. A winter fire that cuts heat can freeze pipes and add water damage."
+ ],
+ "problems": [
+  [
+   "Wood stove and chimney fires",
+   "Homes statewide",
+   "<a href=\"/services/fire-damage-cleanup/\">Fire damage cleanup</a>"
+  ],
+  [
+   "Oil burner puff-back soot",
+   "Homes on oil heat",
+   "<a href=\"/services/soot-removal/\">Soot removal</a>"
+  ],
+  [
+   "Fire spreading to attached barns",
+   "Farmhouses",
+   "<a href=\"/services/fire-damage-repair/\">Fire damage repair</a>"
+  ],
+  [
+   "Smoke odor in wood interiors",
+   "Older homes and camps",
+   "<a href=\"/services/smoke-odor-removal/\">Smoke odor removal</a>"
+  ]
+ ],
+ "tips": [
+  "Sweep chimneys often during heavy burning months.",
+  "Burn only dry, seasoned wood to limit creosote.",
+  "Have oil and propane systems serviced yearly.",
+  "Protect pipes right away if a fire knocks out heat."
+ ],
+ "insurance": "Insurers often ask about wood stoves, so make sure yours is disclosed and installed to code to avoid a claim dispute.",
+ "areas": "Burlington, South Burlington, Rutland, Essex, Barre, Montpelier and rural Vermont are all covered.",
+ "faq": {
+  "q": "Can smoke from a chimney fire damage the rest of the house?",
+  "a": "Yes. Smoke and soot can leak through cracked flue tiles into the attic and walls, and heat can char nearby framing. Have the chimney inspected and the house checked for hidden smoke damage."
+ }
+}

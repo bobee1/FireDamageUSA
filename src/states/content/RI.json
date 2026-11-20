@@ -1,0 +1,43 @@
+{
+ "lead": "Rhode Island's dense cities, triple-deckers and oil heat shape its fire damage. SootMend helps homes and businesses from Providence to Warwick and Newport recover from fire, smoke and soot.",
+ "risk": "fires in triple-deckers and older homes, oil furnace puff-backs, and kitchen fires",
+ "risk_short": "triple-decker fires, puff-backs, house fires",
+ "why": [
+  "Providence, Pawtucket, Central Falls and Woonsocket have many triple-deckers and two-families built before 1940. They share stairs, walls and porches, so one fire can displace several families. Old wiring and balloon framing let fire and smoke move inside walls.",
+  "About a quarter of Rhode Island homes still heat with fuel oil, so puff-backs are a common winter call. Coastal homes in Newport and South County face salt air, which makes soot more corrosive on metal fixtures and electronics."
+ ],
+ "problems": [
+  [
+   "Fires in triple-deckers",
+   "Providence, Pawtucket and Woonsocket",
+   "<a href=\"/services/commercial-fire-damage-restoration/\">Commercial fire restoration</a>"
+  ],
+  [
+   "Oil burner puff-back soot",
+   "Homes on oil heat",
+   "<a href=\"/services/soot-removal/\">Soot removal</a>"
+  ],
+  [
+   "Smoke damage in older homes",
+   "Pre-war neighborhoods",
+   "<a href=\"/services/smoke-damage-restoration/\">Smoke damage restoration</a>"
+  ],
+  [
+   "Corroded fixtures after a fire",
+   "Coastal homes",
+   "<a href=\"/services/contents-cleaning/\">Contents cleaning and pack-out</a>"
+  ]
+ ],
+ "tips": [
+  "Keep porches and back stairs clear in multi-family homes.",
+  "Have oil burners serviced every year.",
+  "Test smoke alarms in every unit monthly.",
+  "Clean soot from metal and electronics quickly near the coast."
+ ],
+ "insurance": "Coastal homes may have separate hurricane deductibles, but fire and smoke claims fall under the regular deductible, so check which one applies.",
+ "areas": "Providence, Warwick, Cranston, Pawtucket, East Providence, Newport and South County are all covered.",
+ "faq": {
+  "q": "How long does it take to fix a triple-decker after a fire?",
+  "a": "It depends on the damage, permits and insurance approval. A unit with smoke damage only may take a few weeks. Fire in the walls or roof can take several months, with all three units affected."
+ }
+}

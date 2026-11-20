@@ -1,0 +1,43 @@
+{
+ "lead": "Half of Maine's homes heat with oil, and many add a wood stove, which makes heating fires and puff-backs a big part of fire damage here. SootMend helps homes and businesses from Portland to Bangor recover from fire, smoke and soot.",
+ "risk": "oil furnace puff-backs, wood stove and chimney fires, and fires in older rural homes",
+ "risk_short": "puff-backs, wood stove and chimney fires",
+ "why": [
+  "Maine relies on fuel oil more than any other state: about half of all homes use it as their main heat. Almost 10% heat mainly with wood and 16% with propane. That mix means long winters of burners, stoves and chimneys at work, and puff-backs and chimney fires are common calls.",
+  "Many Maine homes are old farmhouses with connected barns and sheds, a layout that lets fire travel from building to building. Rural homes can be far from the nearest fire station, and winter fires may also freeze pipes once the heat goes out."
+ ],
+ "problems": [
+  [
+   "Oil burner puff-back soot",
+   "Homes on oil heat statewide",
+   "<a href=\"/services/soot-removal/\">Soot removal</a>"
+  ],
+  [
+   "Wood stove and chimney fires",
+   "Rural homes and camps",
+   "<a href=\"/services/fire-damage-cleanup/\">Fire damage cleanup</a>"
+  ],
+  [
+   "Fire spreading through connected barns",
+   "Older farmhouses",
+   "<a href=\"/services/fire-damage-repair/\">Fire damage repair</a>"
+  ],
+  [
+   "Smoke odor in wood-paneled homes",
+   "Camps and older homes",
+   "<a href=\"/services/smoke-odor-removal/\">Smoke odor removal</a>"
+  ]
+ ],
+ "tips": [
+  "Have oil burners serviced every year and change the filter and nozzle.",
+  "Clean wood stove chimneys often during heavy burning months.",
+  "Keep at least one smoke alarm in the connecting area between house and barn.",
+  "Protect pipes right away if a fire knocks out heat in winter."
+ ],
+ "insurance": "Seasonal camps may be insured on different terms than year-round homes, so check vacancy and heating requirements in your policy.",
+ "areas": "Portland, Lewiston, Bangor, South Portland, Auburn, Augusta and rural Maine are all covered.",
+ "faq": {
+  "q": "Why are puff-backs so common in Maine?",
+  "a": "Because about half of Maine homes heat with oil. A dirty or worn burner can delay ignition, and the built-up oil vapor ignites with a bang. Yearly service is the best way to prevent one."
+ }
+}

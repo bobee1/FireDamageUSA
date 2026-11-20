@@ -1,0 +1,43 @@
+{
+ "lead": "Louisiana's fire risk is above the national average, and its heat and humidity make soot damage worse. SootMend helps homes and businesses from New Orleans to Baton Rouge and Shreveport recover from fire, smoke and soot.",
+ "risk": "kitchen and electrical fires, space heater fires, and fast soot staining in humid air",
+ "risk_short": "kitchen, electrical and heater fires",
+ "why": [
+  "USFA found Louisiana residents were 1.5 times as likely to die in a fire as the U.S. population in 2023. Nearly two in three homes heat with electricity. Cooking fires, including deep-frying, and electrical fires in older homes are common causes.",
+  "New Orleans has many raised shotgun houses and doubles with shared walls and old wiring. Humid air makes soot stain and corrode faster. In dry summers, marsh and forest fires can blanket parishes in smoke, as in 2023 when FEMA approved several fire assistance grants."
+ ],
+ "problems": [
+  [
+   "Kitchen and deep-fryer fires",
+   "Homes statewide",
+   "<a href=\"/services/fire-damage-cleanup/\">Fire damage cleanup</a>"
+  ],
+  [
+   "Fires in shotgun doubles",
+   "New Orleans neighborhoods",
+   "<a href=\"/services/fire-damage-repair/\">Fire damage repair</a>"
+  ],
+  [
+   "Soot staining in humid air",
+   "Homes statewide",
+   "<a href=\"/services/soot-removal/\">Soot removal</a>"
+  ],
+  [
+   "Wildfire and marsh fire smoke",
+   "Southwest Louisiana in dry spells",
+   "<a href=\"/services/smoke-damage-restoration/\">Smoke damage restoration</a>"
+  ]
+ ],
+ "tips": [
+  "Fry turkeys outdoors, away from the house, with the bird fully thawed.",
+  "Have older wiring checked, especially in raised and shotgun homes.",
+  "Run AC or dehumidifiers after a fire to slow soot damage.",
+  "Keep space heaters away from curtains and bedding."
+ ],
+ "insurance": "Many homeowners are insured through Louisiana Citizens, the state's insurer of last resort, so check which company holds your policy before you file.",
+ "areas": "New Orleans, Baton Rouge, Shreveport, Lafayette, Lake Charles, Monroe and rural parishes are all covered.",
+ "faq": {
+  "q": "Is a fire from deep-frying a turkey covered?",
+  "a": "Usually, as an accidental fire. Damage to the house and belongings is covered under a homeowners policy, subject to your deductible. Never fry indoors, in a garage or on a wooden deck."
+ }
+}

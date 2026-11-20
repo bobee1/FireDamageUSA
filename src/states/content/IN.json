@@ -1,0 +1,43 @@
+{
+ "lead": "Indiana's mix of older city housing, rural homes and long heating seasons keeps fire crews busy in winter. SootMend helps homes and businesses from Indianapolis to Fort Wayne recover from fire, smoke and soot.",
+ "risk": "heating and kitchen fires, electrical fires in older homes, and rural fires far from a station",
+ "risk_short": "heating, kitchen and electrical fires",
+ "why": [
+  "Indiana's fire death risk was above the national average in 2023, according to USFA. Many homes in Indianapolis, Gary, South Bend and smaller towns were built long before modern wiring codes. Space heaters, extension cords and overloaded outlets are common in cold weather, and kitchen fires remain the most frequent cause.",
+  "Almost 7% of Indiana homes heat with propane, mostly in rural areas where volunteer fire departments cover large districts. Farm buildings, garages and pole barns often hold fuel, equipment and stored goods. A fire there can spread smoke and soot to the house next door."
+ ],
+ "problems": [
+  [
+   "Kitchen and cooking fires",
+   "Homes and apartments statewide",
+   "<a href=\"/services/fire-damage-cleanup/\">Fire damage cleanup</a>"
+  ],
+  [
+   "Electrical fires in older homes",
+   "Indianapolis, Gary, South Bend and Evansville",
+   "<a href=\"/services/fire-damage-repair/\">Fire damage repair</a>"
+  ],
+  [
+   "Smoke and soot through the whole house",
+   "Homes with forced-air heat",
+   "<a href=\"/services/smoke-damage-restoration/\">Smoke damage restoration</a>"
+  ],
+  [
+   "Garage and pole barn fires",
+   "Rural properties",
+   "<a href=\"/services/contents-cleaning/\">Contents cleaning and pack-out</a>"
+  ]
+ ],
+ "tips": [
+  "Stay in the kitchen while frying, broiling or grilling.",
+  "Plug space heaters straight into the wall, never into a power strip.",
+  "Keep propane tanks serviced and their area clear of brush.",
+  "Test smoke alarms monthly and replace them every ten years."
+ ],
+ "insurance": "Rural homes far from a fire hydrant may have a higher fire protection class and premium, so check your class and limits with your agent.",
+ "areas": "Indianapolis, Fort Wayne, Evansville, South Bend, Carmel, Bloomington and rural counties are all covered.",
+ "faq": {
+  "q": "Can a house be saved after an electrical fire in the walls?",
+  "a": "Often, yes. Burned wiring and framing are opened up and replaced, and smoke damage is cleaned. An electrician must check the whole circuit, and permits are usually needed for the rewiring."
+ }
+}

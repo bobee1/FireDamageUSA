@@ -1,0 +1,43 @@
+{
+ "lead": "Delaware's small size hides a varied fire picture, from Wilmington rowhomes to propane-heated homes in Sussex County. SootMend helps homes and businesses statewide recover from fire, smoke and soot.",
+ "risk": "kitchen and heating fires, rowhome fires, and propane and oil heat fires",
+ "risk_short": "kitchen, heating and rowhome fires",
+ "why": [
+  "About one in ten Delaware homes heats with propane and nearly 7% with fuel oil, more in rural Kent and Sussex counties. Puff-backs from oil burners and propane heater fires are common winter calls. Beach towns have many seasonal homes that sit empty for months.",
+  "Wilmington's rowhomes share walls and roofs, so a fire in one can damage the next. Delaware's fire death risk was about the national average in 2023, but USFA cautions that rates based on so few deaths vary."
+ ],
+ "problems": [
+  [
+   "Rowhome fires",
+   "Wilmington and New Castle County",
+   "<a href=\"/services/fire-damage-repair/\">Fire damage repair</a>"
+  ],
+  [
+   "Oil burner puff-back soot",
+   "Homes on oil heat",
+   "<a href=\"/services/soot-removal/\">Soot removal</a>"
+  ],
+  [
+   "Propane heater fires",
+   "Kent and Sussex counties",
+   "<a href=\"/services/fire-damage-cleanup/\">Fire damage cleanup</a>"
+  ],
+  [
+   "Smoke damage in empty beach homes",
+   "Rehoboth, Lewes and the beaches",
+   "<a href=\"/services/smoke-damage-restoration/\">Smoke damage restoration</a>"
+  ]
+ ],
+ "tips": [
+  "Have oil and propane systems serviced every fall.",
+  "Ask a neighbor to check on seasonal homes during winter.",
+  "Never leave cooking unattended.",
+  "Install smoke alarms in every bedroom."
+ ],
+ "insurance": "Seasonal beach homes may have vacancy limits, so read your policy and tell your insurer if a home is empty for long stretches.",
+ "areas": "Wilmington, Dover, Newark, Middletown, Smyrna, Georgetown and the beach towns are all covered.",
+ "faq": {
+  "q": "Is smoke damage in a seasonal home covered if no one was there?",
+  "a": "Often, but some policies limit coverage when a home is vacant for a long time. Check the vacancy terms and report the loss as soon as you find it."
+ }
+}

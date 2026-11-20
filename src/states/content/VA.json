@@ -1,0 +1,43 @@
+{
+ "lead": "Virginia's fire damage spans suburban homes in Northern Virginia, older homes in Richmond and Hampton Roads, and wood heat in the mountains. SootMend helps homes and businesses statewide recover from fire, smoke and soot.",
+ "risk": "kitchen and electrical fires, heating fires, and mountain wildfires",
+ "risk_short": "kitchen, electrical and heating fires",
+ "why": [
+  "Virginia had a lower fire death risk than most states in 2023, according to USFA. Most homes heat with electricity or gas, but oil still heats nearly 3% and wood more than 1%. Puff-backs and chimney fires are common in older homes and rural areas.",
+  "Northern Virginia's townhomes and apartments share walls and attics, so smoke spreads between units. In the Blue Ridge and Shenandoah Valley, spring and fall fires can threaten homes near forest land."
+ ],
+ "problems": [
+  [
+   "Kitchen and electrical fires",
+   "Northern Virginia, Richmond and Hampton Roads",
+   "<a href=\"/services/fire-damage-cleanup/\">Fire damage cleanup</a>"
+  ],
+  [
+   "Townhome fires affecting neighbors",
+   "Fairfax, Loudoun and Prince William",
+   "<a href=\"/services/fire-damage-repair/\">Fire damage repair</a>"
+  ],
+  [
+   "Oil burner puff-back soot",
+   "Older homes",
+   "<a href=\"/services/soot-removal/\">Soot removal</a>"
+  ],
+  [
+   "Wildfire smoke",
+   "Blue Ridge and Shenandoah Valley",
+   "<a href=\"/services/smoke-damage-restoration/\">Smoke damage restoration</a>"
+  ]
+ ],
+ "tips": [
+  "Follow Virginia's spring burning law, which limits daytime outdoor burning in early spring.",
+  "Have oil burners and chimneys serviced each fall.",
+  "Never leave cooking unattended.",
+  "Install smoke alarms in every bedroom."
+ ],
+ "insurance": "In townhome communities, check whether the HOA's master policy covers exterior walls and roofs or whether your own policy must.",
+ "areas": "Virginia Beach, Chesapeake, Norfolk, Richmond, Arlington, Alexandria, Roanoke and the Shenandoah Valley are all covered.",
+ "faq": {
+  "q": "What is Virginia's 4 p.m. burning law?",
+  "a": "From February 15 to April 30, Virginia bans outdoor burning before 4 p.m. if the fire is within 300 feet of woods or dry grass. It helps prevent spring wildfires."
+ }
+}

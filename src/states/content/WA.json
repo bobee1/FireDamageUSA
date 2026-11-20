@@ -1,0 +1,43 @@
+{
+ "lead": "Washington's fire risk is split by the Cascades: wet, crowded cities to the west and dry, wildfire country to the east. SootMend helps homes and businesses from Seattle to Spokane recover from fire, smoke and soot.",
+ "risk": "eastern Washington wildfires, wildfire smoke across the state, and house and apartment fires",
+ "risk_short": "wildfires, smoke, house fires",
+ "why": [
+  "East of the Cascades, grass and forest fires burn every summer around Spokane, Wenatchee, Yakima and the Okanogan. Wind-driven fires in 2020 destroyed most of the town of Malden. Smoke from these fires, and from Oregon, California and British Columbia, can blanket Seattle and Puget Sound for days.",
+  "West of the mountains, most fire damage starts indoors. Electricity heats most homes, so space heaters and cords are common winter causes. Seattle, Tacoma and Everett have many apartments and condos where smoke spreads through shared halls and ventilation."
+ ],
+ "problems": [
+  [
+   "Wildfire smoke and ash",
+   "Spokane, Yakima, Wenatchee and Puget Sound during smoke events",
+   "<a href=\"/services/smoke-damage-restoration/\">Smoke damage restoration</a>"
+  ],
+  [
+   "Apartment and condo fires",
+   "Seattle, Tacoma, Bellevue and Everett",
+   "<a href=\"/services/commercial-fire-damage-restoration/\">Commercial fire restoration</a>"
+  ],
+  [
+   "Space heater and electrical fires",
+   "Older homes in western Washington",
+   "<a href=\"/services/fire-damage-cleanup/\">Fire damage cleanup</a>"
+  ],
+  [
+   "Burned homes in grass fires",
+   "Eastern Washington towns and farms",
+   "<a href=\"/services/fire-damage-repair/\">Fire damage repair</a>"
+  ]
+ ],
+ "tips": [
+  "Keep space heaters three feet from anything that can burn.",
+  "Clear dry grass and needles around homes in eastern Washington by July.",
+  "Use a HEPA filter or a MERV 13 furnace filter during smoke season.",
+  "Check smoke alarms in every condo unit and common area."
+ ],
+ "insurance": "Condo owners should know where the association's master policy ends and their own unit policy begins, especially for smoke damage to walls and floors.",
+ "areas": "Seattle, Spokane, Tacoma, Vancouver, Bellevue, Yakima and rural counties are all covered.",
+ "faq": {
+  "q": "Does condo insurance cover smoke damage from a neighbor's fire?",
+  "a": "Usually. The association's master policy covers the building and common areas, and your unit policy covers your belongings and often interior finishes. Check both policies and report the damage to the association and your insurer."
+ }
+}

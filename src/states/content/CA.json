@@ -1,0 +1,53 @@
+{
+ "lead": "California has the nation's biggest wildfire problem and some of its densest cities. SootMend helps homes and businesses from Los Angeles to Sacramento recover from fire, smoke, ash and soot.",
+ "risk": "wildfires driven by Santa Ana and Diablo winds, wildfire smoke and ash, and urban house fires",
+ "risk_short": "wildfires, smoke and ash, house fires",
+ "why": [
+  "California leads the country in FEMA fire declarations. Dry summers, steep hills and strong fall winds, like the Santa Ana winds in Southern California and the Diablo winds in the Bay Area, can push fires into neighborhoods in hours. The 2018 Camp Fire destroyed most of Paradise, and the January 2025 Palisades and Eaton fires burned thousands of homes in Los Angeles County.",
+  "Most fire damage calls, though, come from homes that did not burn. Smoke and ash travel for miles and settle in attics, ducts, carpets and closets. Ash from burned homes can contain metals and other harmful residue, so cleanup needs care. In the cities, kitchen, electrical and apartment fires spread smoke into neighboring units."
+ ],
+ "problems": [
+  [
+   "Wildfire smoke and ash inside homes",
+   "Los Angeles, the Bay Area, Sacramento foothills and Sierra towns",
+   "<a href=\"/services/smoke-damage-restoration/\">Smoke damage restoration</a>"
+  ],
+  [
+   "Lingering smoke odor",
+   "Homes downwind of large fires",
+   "<a href=\"/services/smoke-odor-removal/\">Smoke odor removal</a>"
+  ],
+  [
+   "Apartment fires that spread smoke to other units",
+   "Los Angeles, San Francisco, San Diego and San Jose",
+   "<a href=\"/services/commercial-fire-damage-restoration/\">Commercial fire restoration</a>"
+  ],
+  [
+   "Burned roofs, eaves and decks",
+   "Homes at the wildland edge",
+   "<a href=\"/services/fire-damage-repair/\">Fire damage repair</a>"
+  ]
+ ],
+ "tips": [
+  "Create defensible space and keep the first five feet around the house free of anything that burns.",
+  "Cover attic and foundation vents with fine metal mesh to keep embers out.",
+  "Close windows and run a HEPA air cleaner during smoke events.",
+  "Keep a home inventory with photos stored in the cloud before fire season."
+ ],
+ "insurance": "If private insurers decline you, the California FAIR Plan sells basic fire coverage; many owners pair it with a separate policy for other risks.",
+ "areas": "Southern California, the Bay Area, the Central Valley, the Sierra foothills and the North Coast are all covered.",
+ "faq": {
+  "q": "Is wildfire ash dangerous to clean up myself?",
+  "a": "It can be. Ash from burned homes and cars may contain metals and other harmful residue. The EPA advises gloves, long sleeves and a well-fitted N95 respirator, and warns against using leaf blowers. Large or heavy ash cleanup is best left to a crew."
+ },
+ "sources": [
+  [
+   "California FAIR Plan",
+   "https://www.cfpnet.com/"
+  ],
+  [
+   "EPA: Protect Yourself from Ash",
+   "https://www.epa.gov/wildfires/protect-yourself-ash"
+  ]
+ ]
+}

@@ -1,0 +1,43 @@
+{
+ "lead": "Alaska's long heating season puts oil furnaces, wood stoves and space heaters to work for most of the year. SootMend helps homes and businesses from Anchorage to Fairbanks recover from fire, smoke and soot.",
+ "risk": "heating fires in long winters, oil furnace puff-backs and summer wildfire smoke",
+ "risk_short": "heating fires, puff-backs, wildfire smoke",
+ "why": [
+  "Winter in Alaska is long, dark and cold, and heating systems run hard for months. More than a quarter of homes burn fuel oil, and many add a wood stove or space heater. When a burner misfires or a flue clogs, oily soot can spread through every room. Frozen pipes from a fire that knocks out the heat can add water damage on top.",
+  "Summer brings a different problem. Lightning starts wildfires across the Interior, and smoke can sit over Fairbanks and the Mat-Su for days. Fine ash works its way into attics, ducts and fabrics. Many communities are far from a fire station or a road, so a small fire can grow before help arrives."
+ ],
+ "problems": [
+  [
+   "Oil furnace puff-back",
+   "Homes on fuel oil in Anchorage, Fairbanks and Juneau",
+   "<a href=\"/services/soot-removal/\">Soot removal</a>"
+  ],
+  [
+   "Wood stove and chimney fires",
+   "Cabins and homes in the Mat-Su and Interior",
+   "<a href=\"/services/fire-damage-cleanup/\">Fire damage cleanup</a>"
+  ],
+  [
+   "Wildfire smoke and ash indoors",
+   "Fairbanks, North Pole and the Kenai",
+   "<a href=\"/services/smoke-damage-restoration/\">Smoke damage restoration</a>"
+  ],
+  [
+   "Frozen pipes after a fire cuts the heat",
+   "Any home left without heat in winter",
+   "<a href=\"/services/fire-damage-repair/\">Fire damage repair</a>"
+  ]
+ ],
+ "tips": [
+  "Have oil burners serviced every year before the cold sets in.",
+  "Clean the chimney often when you burn wood all winter; creosote builds up fast.",
+  "Store ashes in a metal can with a lid, outside and away from the house.",
+  "Keep a HEPA air cleaner ready for wildfire smoke season."
+ ],
+ "insurance": "Remote homes can take longer to inspect after a fire, so take clear photos and keep damaged items until the adjuster has seen them or approved disposal.",
+ "areas": "Rural and road-system communities are covered, and remote jobs are planned around access and weather.",
+ "faq": {
+  "q": "Can soot from an oil furnace puff-back be cleaned?",
+  "a": "Yes, in most cases. Oily puff-back soot needs solvent-based cleaning, duct cleaning and contents cleaning. Do not wipe it with water, which smears it. Have the burner serviced before turning the heat back on."
+ }
+}

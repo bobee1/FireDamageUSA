@@ -41,4 +41,10 @@ A dated log of every step. Newest entries at the bottom. Status: Done / In progr
 | 35 | 2026-11-19 | 3 | Build: tables wrapped in scroll box for phones; future-module blocks dropped until built | Done | `build.py` |
 | 36 | 2026-11-19 | 3 | Checks: audit 0 issues, FK 5.9–8.9, site audit clean, responsive 360/768/1280 | Done | — |
 | 37 | 2026-11-19 | 3 | STATUS.md and register updated; committed and pushed | Done | Branch `main` |
-| 38 | — | 4 | Locations hub + 50 state pages + DC | Planned | Next build |
+| 38 | 2026-11-19 | 4 | Data pulled: ACS heating fuel, OpenFEMA fire declarations, USFA 2023 fire deaths | Done | `research/07`–`09` |
+| 39 | 2026-11-19 | 4 | `states.py` state page generator (facts table, heating bar chart, risk text, insurance and licensing) | Done | `states.py` |
+| 40 | 2026-11-19 | 4 | Hand-written copy for 50 states + DC (risks, why, problems, tips, insurance note, FAQ) | Done | `scripts/state_content/` → `src/states/content/` |
+| 41 | 2026-11-19 | 4 | Locations hub with region grid and national patterns table; Pexels photo 942560 | Done | `src/pages/locations/index.html` |
+| 42 | 2026-11-19 | 4 | Checks: audit 0 issues, FK ≤ 9, no duplicate paragraphs, site audit clean, responsive 360/768/1280 | Done | 70 pages |
+| 43 | 2026-11-19 | 4 | STATUS.md and register updated; committed and pushed | Done | Branch `main` |
+| 44 | — | 5 | Guides hub + 12 guides + glossary | Planned | Next build |

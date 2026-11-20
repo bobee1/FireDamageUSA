@@ -1,0 +1,43 @@
+{
+ "lead": "West Virginia has one of the highest fire death risks in the country, with older homes, wood and coal heat, and long rural roads. SootMend helps homes and businesses from Charleston to Morgantown recover from fire, smoke and soot.",
+ "risk": "heating and wood stove fires, electrical fires in older homes, and mobile home fires",
+ "risk_short": "heating, wood stove and rural fires",
+ "why": [
+  "USFA found West Virginia residents were 2.2 times as likely to die in a fire as the U.S. population in 2023. More than 4% of homes heat mainly with wood, and a few still burn coal. Older homes in coal towns and hollows often have original wiring.",
+  "Mobile homes make up a large share of rural housing. Many communities rely on volunteer fire departments, and winding mountain roads slow response. Fall dry spells can also bring brush and forest fires."
+ ],
+ "problems": [
+  [
+   "Wood and coal stove fires",
+   "Rural homes and hollows",
+   "<a href=\"/services/fire-damage-cleanup/\">Fire damage cleanup</a>"
+  ],
+  [
+   "Electrical fires in older homes",
+   "Charleston, Huntington and coal towns",
+   "<a href=\"/services/fire-damage-repair/\">Fire damage repair</a>"
+  ],
+  [
+   "Mobile home fires",
+   "Rural counties",
+   "<a href=\"/services/contents-cleaning/\">Contents cleaning and pack-out</a>"
+  ],
+  [
+   "Soot from stoves and chimneys",
+   "Homes with wood or coal heat",
+   "<a href=\"/services/soot-removal/\">Soot removal</a>"
+  ]
+ ],
+ "tips": [
+  "Sweep chimneys every year and burn only dry wood.",
+  "Store ashes outside in a covered metal can.",
+  "Install smoke alarms in every bedroom.",
+  "Keep driveways passable for fire trucks."
+ ],
+ "insurance": "Older homes may be insured for actual cash value, so check whether your policy will pay to rebuild to current code.",
+ "areas": "Charleston, Huntington, Morgantown, Parkersburg, Wheeling, the Eastern Panhandle and rural West Virginia are all covered.",
+ "faq": {
+  "q": "Is coal stove soot harder to clean?",
+  "a": "It can be. Coal soot is oily and acidic and often smells of sulfur. It needs degreasing cleaners, careful cleaning of metal and electronics, and odor treatment."
+ }
+}

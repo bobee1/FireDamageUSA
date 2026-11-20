@@ -1,0 +1,43 @@
+{
+ "lead": "Nevada fires range from rangeland wildfires near Reno to apartment and electrical fires in Las Vegas. SootMend helps homes and businesses across the state recover from fire, smoke and soot.",
+ "risk": "rangeland and Sierra wildfires, wildfire smoke, and electrical and apartment fires in summer heat",
+ "risk_short": "wildfires, smoke, electrical fires",
+ "why": [
+  "Northern Nevada's sagebrush and cheatgrass burn fast, and Reno, Carson City and Lake Tahoe neighborhoods sit right against wildland. Fires in the Sierra and on the California side often send heavy smoke into the Truckee Meadows. Nevada has had dozens of FEMA fire management declarations since 2000.",
+  "In Southern Nevada, wildfire is less of a threat than heat. Summer temperatures keep air conditioners and wiring under load, and Las Vegas has many apartment complexes where one unit fire can spread smoke to others. Stucco and tile resist flames, but smoke and soot still get inside."
+ ],
+ "problems": [
+  [
+   "Wildfire smoke and ash",
+   "Reno, Sparks, Carson City and Lake Tahoe",
+   "<a href=\"/services/smoke-damage-restoration/\">Smoke damage restoration</a>"
+  ],
+  [
+   "Apartment fires affecting nearby units",
+   "Las Vegas and Henderson",
+   "<a href=\"/services/commercial-fire-damage-restoration/\">Commercial fire restoration</a>"
+  ],
+  [
+   "Electrical and AC fires",
+   "Homes in summer heat",
+   "<a href=\"/services/fire-damage-cleanup/\">Fire damage cleanup</a>"
+  ],
+  [
+   "Burned roofs and attics",
+   "Homes near wildland in northern Nevada",
+   "<a href=\"/services/fire-damage-repair/\">Fire damage repair</a>"
+  ]
+ ],
+ "tips": [
+  "Clear sagebrush and dry grass at least 30 feet from the house where you can.",
+  "Have AC units and attic wiring checked before summer.",
+  "Never leave cooking unattended, the top cause of apartment fires.",
+  "Replace HVAC filters after any smoke event."
+ ],
+ "insurance": "Lake Tahoe and Reno foothill homes can face higher premiums or fewer insurer choices, so keep your policy limits current and your home inventory up to date.",
+ "areas": "Las Vegas, Henderson, Reno, Sparks, Carson City, Elko and rural Nevada are all covered.",
+ "faq": {
+  "q": "Who is responsible for smoke damage in an apartment fire?",
+  "a": "The building owner's policy covers the building and common areas. Each tenant's renters policy covers their own belongings and extra living costs. If you rent, report the damage to both your landlord and your insurer."
+ }
+}

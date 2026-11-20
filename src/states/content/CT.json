@@ -1,0 +1,43 @@
+{
+ "lead": "Connecticut homes are older than most, and more than a third still heat with oil. SootMend helps homes and businesses from Hartford to New Haven and Stamford recover from fire, smoke and soot.",
+ "risk": "oil furnace puff-backs, heating and chimney fires in older homes, and kitchen fires",
+ "risk_short": "puff-backs, heating and chimney fires",
+ "why": [
+  "About 35% of Connecticut homes heat with fuel oil, one of the highest shares in the country. When an oil burner misfires, it can blow a puff-back of oily soot through ducts and into every room. Puff-backs are among the most common fire-related calls here, and they need very different cleaning from dry soot.",
+  "Much of Connecticut's housing is old, with colonials, capes and multi-family homes built long before modern codes. Fireplaces, wood stoves and old wiring are common. Hartford, New Haven, Bridgeport and Waterbury have many three-family homes where one fire affects several households."
+ ],
+ "problems": [
+  [
+   "Oil burner puff-back soot",
+   "Homes on oil heat statewide",
+   "<a href=\"/services/soot-removal/\">Soot removal</a>"
+  ],
+  [
+   "Chimney and fireplace fires",
+   "Older colonials and capes",
+   "<a href=\"/services/fire-damage-cleanup/\">Fire damage cleanup</a>"
+  ],
+  [
+   "Fires in three-family homes",
+   "Hartford, New Haven, Bridgeport and Waterbury",
+   "<a href=\"/services/commercial-fire-damage-restoration/\">Commercial fire restoration</a>"
+  ],
+  [
+   "Smoke odor in plaster walls",
+   "Pre-war homes",
+   "<a href=\"/services/smoke-odor-removal/\">Smoke odor removal</a>"
+  ]
+ ],
+ "tips": [
+  "Have the oil burner cleaned and tuned every year before heating season.",
+  "If you hear a bang from the furnace or see black smudges at registers, shut it off and call for service.",
+  "Get chimneys swept before the first fire of the season.",
+  "Make sure every floor of a multi-family home has working smoke alarms."
+ ],
+ "insurance": "Many Connecticut policies cover sudden puff-back damage, but some limit it, so ask your agent how your policy treats a puff-back before winter.",
+ "areas": "Hartford, New Haven, Bridgeport, Stamford, Waterbury, Norwalk and small towns statewide are all covered.",
+ "faq": {
+  "q": "Is a furnace puff-back covered by insurance?",
+  "a": "Often, yes, when it is sudden and accidental. Many policies name it specifically. Shut the furnace off, photograph the soot, keep children and pets away and call your insurer before cleaning."
+ }
+}

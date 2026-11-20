@@ -1,0 +1,43 @@
+{
+ "lead": "Tennessee has one of the higher fire death risks in the country, and the Smoky Mountains know wildfire well. SootMend helps homes and businesses from Nashville to Memphis and Knoxville recover from fire, smoke and soot.",
+ "risk": "heating and electrical fires, kitchen fires, and Smoky Mountain wildfires",
+ "risk_short": "heating, kitchen and wildfires",
+ "why": [
+  "USFA found Tennessee residents were 1.9 times as likely to die in a fire as the U.S. population in 2023. Nearly two in three homes heat with electricity, and space heaters and cords are common winter causes. Nashville's fast growth means many apartments and townhomes with shared walls.",
+  "In 2016, the Chimney Tops 2 fire spread from the Great Smoky Mountains into Gatlinburg and led to a FEMA major disaster declaration. Cabins and rental homes in the Smokies sit among dense forest, and fall dry spells raise the risk."
+ ],
+ "problems": [
+  [
+   "Space heater and electrical fires",
+   "Homes statewide",
+   "<a href=\"/services/fire-damage-cleanup/\">Fire damage cleanup</a>"
+  ],
+  [
+   "Apartment and townhome fires",
+   "Nashville, Memphis and Chattanooga",
+   "<a href=\"/services/commercial-fire-damage-restoration/\">Commercial fire restoration</a>"
+  ],
+  [
+   "Wildfire damage to cabins",
+   "Gatlinburg, Pigeon Forge and Sevier County",
+   "<a href=\"/services/fire-damage-repair/\">Fire damage repair</a>"
+  ],
+  [
+   "Smoke odor in log cabins",
+   "Smoky Mountain rentals",
+   "<a href=\"/services/smoke-odor-removal/\">Smoke odor removal</a>"
+  ]
+ ],
+ "tips": [
+  "Keep space heaters away from bedding and turn them off at night.",
+  "Clear leaves and needles from roofs and decks of mountain cabins.",
+  "Never leave cooking unattended.",
+  "Check smoke alarms in every short-term rental before guests arrive."
+ ],
+ "insurance": "Cabin owners who rent short-term need a policy that covers rental use; a standard homeowners policy may not cover a fire during a guest stay.",
+ "areas": "Nashville, Memphis, Knoxville, Chattanooga, Clarksville, Murfreesboro, the Smokies and rural Tennessee are all covered.",
+ "faq": {
+  "q": "Does homeowners insurance cover a cabin I rent out?",
+  "a": "Often not fully. Many homeowners policies exclude or limit business use. Short-term rental cabins usually need a landlord or rental policy. Check before renting."
+ }
+}

@@ -1,0 +1,43 @@
+{
+ "lead": "Colorado fires have moved from the mountains into the suburbs. SootMend helps homes and businesses from Denver to Colorado Springs recover from wildfire, smoke and everyday house fires.",
+ "risk": "wind-driven grass and forest wildfires, wildfire smoke, and heating fires in cold winters",
+ "risk_short": "wildfires, smoke, winter heating fires",
+ "why": [
+  "The December 2021 Marshall Fire showed that Colorado wildfires are not only a summer mountain problem. Driven by hurricane-force winds, it burned more than 1,000 homes in Superior and Louisville in a few hours. Grass fires on the plains and forest fires along the Front Range and Western Slope threaten thousands of homes built where city meets wildland.",
+  "Colorado winters are long at altitude, and two-thirds of homes heat with natural gas. Furnaces, fireplaces and space heaters run for months. Dry indoor air and low humidity help fires spread fast. Many mountain homes also burn wood, so chimney fires and creosote are common calls."
+ ],
+ "problems": [
+  [
+   "Wildfire smoke and ash in suburbs",
+   "Boulder County, Jefferson County and Colorado Springs",
+   "<a href=\"/services/smoke-damage-restoration/\">Smoke damage restoration</a>"
+  ],
+  [
+   "Homes partly burned by grass fires",
+   "Front Range suburbs next to open space",
+   "<a href=\"/services/fire-damage-repair/\">Fire damage repair</a>"
+  ],
+  [
+   "Chimney and wood stove fires",
+   "Mountain towns and cabins",
+   "<a href=\"/services/fire-damage-cleanup/\">Fire damage cleanup</a>"
+  ],
+  [
+   "Smoke odor in ductwork",
+   "Homes with forced-air furnaces",
+   "<a href=\"/services/smoke-odor-removal/\">Smoke odor removal</a>"
+  ]
+ ],
+ "tips": [
+  "Use Class A roofing and ember-resistant vents if you live near open space.",
+  "Get the chimney swept every year if you burn wood.",
+  "Sign up for county emergency alerts; wind-driven fires move faster than you expect.",
+  "Replace furnace filters after any smoke event."
+ ],
+ "insurance": "After the Marshall Fire, many owners found they were underinsured, so review your dwelling limit and ask about extended replacement cost.",
+ "areas": "The Front Range from Fort Collins to Pueblo, the mountain towns and the Western Slope are all covered.",
+ "faq": {
+  "q": "Can a house be saved if the neighbor's house burned?",
+  "a": "Often, yes. Homes next to a burned house usually have heavy smoke, soot and heat damage to siding and windows rather than structural loss. They need cleaning, odor removal and some repairs. Have the house checked before moving back in."
+ }
+}

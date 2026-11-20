@@ -1,0 +1,43 @@
+{
+ "lead": "Nebraska faces grass fires on the plains, heating fires in cold winters and kitchen fires in its cities. SootMend helps homes and businesses from Omaha to Lincoln recover from fire, smoke and soot.",
+ "risk": "wind-driven grass and canyon fires, heating fires, and kitchen fires",
+ "risk_short": "grass fires, heating fires, house fires",
+ "why": [
+  "Western Nebraska's grasslands and Pine Ridge canyons can burn fast in dry, windy weather. In 2026 FEMA approved a major disaster declaration for Nebraska wildfires. Ranches and small towns are spread far apart, and volunteer fire departments cover large areas.",
+  "Most Nebraska homes heat with natural gas, and about 7% use propane. Omaha and Lincoln have many older homes with basements and older wiring. Kitchen and heating fires make up most of the calls in the cities."
+ ],
+ "problems": [
+  [
+   "Grass fire damage to rural homes",
+   "Western Nebraska and the Sandhills",
+   "<a href=\"/services/fire-damage-repair/\">Fire damage repair</a>"
+  ],
+  [
+   "Smoke and ash from range fires",
+   "Small towns on the plains",
+   "<a href=\"/services/smoke-damage-restoration/\">Smoke damage restoration</a>"
+  ],
+  [
+   "Basement furnace fires",
+   "Older homes in Omaha and Lincoln",
+   "<a href=\"/services/fire-damage-cleanup/\">Fire damage cleanup</a>"
+  ],
+  [
+   "Kitchen fires",
+   "Apartments and homes statewide",
+   "<a href=\"/services/soot-removal/\">Soot removal</a>"
+  ]
+ ],
+ "tips": [
+  "Keep grass short around homes, sheds and propane tanks.",
+  "Follow county burn bans and red flag warnings.",
+  "Keep storage clear of basement furnaces and water heaters.",
+  "Never leave cooking unattended."
+ ],
+ "insurance": "Ranch policies may treat fences, hay and outbuildings differently from the house, so review each limit before fire season.",
+ "areas": "Omaha, Lincoln, Bellevue, Grand Island, Kearney, North Platte, Scottsbluff and ranch country are all covered.",
+ "faq": {
+  "q": "Does smoke from a range fire damage a house that did not burn?",
+  "a": "It can. Smoke and ash enter through vents, doors and windows and leave soot and odor. Cleaning, filter changes and odor removal are often needed even when flames stayed outside."
+ }
+}

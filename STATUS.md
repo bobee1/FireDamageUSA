@@ -12,20 +12,23 @@ Last updated: 2026-11-19
 - Build 1 — Foundation, trust and legal pages (done): generator `build.py` (forked from the DryFlare engine), "Soot + Ember" design system, logo set and icons, 9 Pexels photos as WebP (2 used, 7 held), About (with "how a call works" illustration), Contact (form → Pages Function → Resend), Privacy, Terms, Disclaimer, Editorial Policy, Accessibility, 404; `_headers`, `_redirects`, manifest; audit 0 issues; FK 6.0–6.4; responsive clean at 360/768/1280/1440.
 - Build 2 — Keyword research and site plan (done, approved 2026-11-19): plan doc https://claude.ai/artifact/5DcSVz4eh8dK1rEX8g8TCo; Semrush data in `research/01`–`05`; keyword map for home + 8 services, Wave 1 = top 50 cities (Nashville included), 12-guide blog map.
 - Build 2b — Logo set and design system (done): design system artifact https://claude.ai/artifact/Y1stA843hy3x3heukjyA8n with tokens, brand book, 9 logo versions and 14 components; site CSS reads the new tokens.
+- Build 3 — Home, services hub and 8 service pages (done): home (1,498 words), services hub, 8 service pages (1,103–1,304 words) per the keyword map; 10 Pexels photos; tables scroll on phones; audit 0 issues, FK 5.9–8.9.
 
-## Current — Build 3: Home, services hub and 8 service pages (done)
-- **Home** (`/`, 1,498 words): "fire damage restoration" focus, services grid, how a call works, "what a house fire leaves behind" illustration (desktop + mobile versions), process, where we work, cost factors, signs, first steps, 7 FAQs, 6 sources.
-- **Services hub** (`/services/`): CollectionPage, scenario → service table, "what to ask a fire damage restoration company" checklist.
-- **8 service pages** (1,103–1,304 words each), one per keyword in the approved map: fire damage cleanup, smoke damage restoration, soot removal, smoke odor removal, board-up and roof tarping, contents cleaning and pack-out, fire damage repair, commercial fire damage restoration. Each has a 40–60 word quick answer, checklist, comparison table, steps, competitor-gap sections (soot types, dry chemical sponges, HEPA, thermal fogging, hydroxyl, EPA ozone cautions, puff-backs, wildfire ash, lead RRP and asbestos testing, permits, ALE, business interruption), cost factors without prices, DIY vs pro, insurance notes, 5–6 FAQs (FAQPage schema), Service schema, Wikipedia entities, 4–6 primary sources and 3 related-service links.
-- **Photos:** 10 Pexels photos as WebP (800 + 1200 px), each used once; alt text in `src/photos.json`.
-- **Guide and "near you" blocks** are written into each page and appear automatically once Builds 4 and 5 add the locations and blog modules.
-- **Build fix:** tables now sit in a scroll box on phones (no page overflow at 360 px).
-- **Checks:** audit PASS 0 issues; reading grade 5.9–8.9; site audit clean; no horizontal overflow at 360/768/1280.
+## Current — Build 4: Locations hub, 50 state pages and DC (done)
+- **Locations hub** (`/locations/`, 821 words): CollectionPage, state cards grouped by Census region, a national patterns table (most FEMA wildfire aid, highest USFA fire death risk, most oil heat, most wood heat), what each state page covers, 3 FAQs, Pexels photo 942560.
+- **51 state pages** (`/locations/<state>/`, 1,053–1,182 words each), built by `states.py` from data plus hand-written copy in `src/states/content/<AB>.json` (source: `scripts/state_content/batch*.py` → `gen.py`). Each page has a quick answer, a "fire risk at a glance" facts table, a fire-death risk paragraph, local "why it's different" copy, a heating-fuel bar chart (HTML, reflows on phones), a heating paragraph, a problems → service table, state safety tips, insurance regulator and contractor board links, areas served, 4 FAQs, services grid, neighboring-state links and 5–8 sources. Service schema with `areaServed`.
+- **New data** (pulled 2026-11-19 through the browser):
+  - `research/07-heating-fuel.json` — Census ACS 2024 B25040 house heating fuel, all states + DC.
+  - `research/08-fema-fire.json` — OpenFEMA fire declarations since 2000 (major, emergency, fire management assistance) and the latest one per state.
+  - `research/09-usfa-fire-deaths.json` — USFA 2023 fire deaths, rate and relative risk.
+  - Reused from the sister project: `research/06-state-data.json` (ACS housing, largest places) and `src/states/meta.json` (slugs, neighbors, insurance regulator, contractor board).
+- **Site-wide:** "Locations" now shows in the nav and footer; every service page gained a "<service> near you" block linking all 51 state pages.
+- **Waiting on later builds:** each state page has a "Helpful guides" block (shows after Build 5) and will list its cities after Build 6.
+- **Checks:** audit PASS 0 issues; reading grade ≤ 9 on every page, no repeated paragraphs; site audit clean (70 pages); no horizontal overflow at 360/768/1280.
 
 ## Coming
 | Build | Scope | Needs from owner |
 | --- | --- | --- |
-| 4 | Locations hub + 50 state pages + DC (Census housing data, USFA fire data, state insurance and contractor licensing notes). | — |
 | 5 | Guides hub + 12 guides from the blog map + glossary (50+ terms) with auto-links + branded featured images. | — |
 | 6 | Wave 1: top 50 city pages from the approved list (Nashville included), in batches of 25. | — |
 | 7+ | Cities 51–62, then suburbs scored from a second Semrush pull, 25 at a time, once 70%+ of Wave 1 is indexed. | Search Console access |
@@ -43,6 +46,7 @@ Last updated: 2026-11-19
 
 ## How to build
 ```
+python3 scripts/state_content/gen.py   # after editing state copy
 python3 build.py                 # writes public/
 python3 scripts/audit.py         # must print "PASS: 0 issues"
 python3 scripts/readability.py   # reading grade <= 9, no repeated paragraphs

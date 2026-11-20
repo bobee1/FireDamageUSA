@@ -1,0 +1,43 @@
+{
+ "lead": "Kentucky has a higher-than-average fire death risk, with older homes, wood heat in the mountains and long rural distances. SootMend helps homes and businesses from Louisville to Lexington recover from fire, smoke and soot.",
+ "risk": "heating and electrical fires, wood stove fires in Appalachia, and kitchen fires",
+ "risk_short": "heating, electrical and wood stove fires",
+ "why": [
+  "USFA found Kentucky residents were 1.7 times as likely to die in a fire as the U.S. population in 2023. More than half of homes heat with electricity, and space heaters are common in cold snaps. In eastern Kentucky, wood and coal stoves still heat some homes, and mobile homes are common.",
+  "Appalachian forests can burn in dry fall weather, and the 2016 Southeastern Kentucky Fire Complex led to a FEMA fire assistance declaration. Louisville and Lexington have many older homes with original wiring."
+ ],
+ "problems": [
+  [
+   "Space heater and electrical fires",
+   "Homes statewide",
+   "<a href=\"/services/fire-damage-cleanup/\">Fire damage cleanup</a>"
+  ],
+  [
+   "Wood stove and chimney fires",
+   "Eastern Kentucky",
+   "<a href=\"/services/soot-removal/\">Soot removal</a>"
+  ],
+  [
+   "Mobile home fires",
+   "Rural counties",
+   "<a href=\"/services/contents-cleaning/\">Contents cleaning and pack-out</a>"
+  ],
+  [
+   "Fires in older city homes",
+   "Louisville and Lexington",
+   "<a href=\"/services/fire-damage-repair/\">Fire damage repair</a>"
+  ]
+ ],
+ "tips": [
+  "Plug space heaters straight into the wall.",
+  "Clean chimneys every year and store ashes outside.",
+  "Install smoke alarms in every bedroom and hallway.",
+  "Avoid burning debris on dry, windy fall days."
+ ],
+ "insurance": "Many rural Kentucky homes are insured for actual cash value, so check whether your policy will pay to rebuild or only the depreciated value.",
+ "areas": "Louisville, Lexington, Bowling Green, Owensboro, Covington, eastern Kentucky and rural counties are all covered.",
+ "faq": {
+  "q": "What is the difference between replacement cost and actual cash value?",
+  "a": "Replacement cost pays to rebuild or replace with new items. Actual cash value subtracts depreciation, so older items and roofs pay less. Check your declarations page to see which applies."
+ }
+}

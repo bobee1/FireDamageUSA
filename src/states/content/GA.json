@@ -1,0 +1,43 @@
+{
+ "lead": "Georgia's fire risk is above the national average, with kitchen, electrical and heating fires leading the way. SootMend helps homes and businesses from Atlanta to Savannah recover from fire, smoke and soot.",
+ "risk": "kitchen and electrical fires, space heater fires, and wildfires in South Georgia pinelands",
+ "risk_short": "kitchen, electrical and wildfires",
+ "why": [
+  "USFA found Georgia residents were 1.2 times as likely to die in a fire as the U.S. population in 2023. Most homes heat with electricity or gas, and space heaters come out during cold snaps. Metro Atlanta's apartments and townhomes let smoke spread between units.",
+  "South Georgia's pine forests and the Okefenokee Swamp area can burn in dry springs, and FEMA approved fire assistance there in 2026. Smoke can travel far, reaching Savannah, Valdosta and even Atlanta. Humid summers make soot stain faster."
+ ],
+ "problems": [
+  [
+   "Kitchen and electrical fires",
+   "Metro Atlanta homes and apartments",
+   "<a href=\"/services/fire-damage-cleanup/\">Fire damage cleanup</a>"
+  ],
+  [
+   "Smoke in townhomes and apartments",
+   "Atlanta, Augusta and Columbus",
+   "<a href=\"/services/commercial-fire-damage-restoration/\">Commercial fire restoration</a>"
+  ],
+  [
+   "Wildfire smoke and ash",
+   "South Georgia and the coast",
+   "<a href=\"/services/smoke-damage-restoration/\">Smoke damage restoration</a>"
+  ],
+  [
+   "Space heater fires",
+   "Older homes statewide",
+   "<a href=\"/services/fire-damage-repair/\">Fire damage repair</a>"
+  ]
+ ],
+ "tips": [
+  "Keep a lid nearby to smother pan fires; never use water on grease.",
+  "Turn off space heaters when you leave the room.",
+  "Clear pine straw from around the house in dry seasons.",
+  "Test smoke alarms monthly."
+ ],
+ "insurance": "Keep a written log of every call and email with your adjuster, and ask for a copy of the estimate before repairs begin.",
+ "areas": "Atlanta, Augusta, Columbus, Macon, Savannah, Athens, Valdosta and rural Georgia are all covered.",
+ "faq": {
+  "q": "Can smoke from a townhome fire next door get into my unit?",
+  "a": "Yes. Smoke travels through shared attics, walls and vents. Even without flames, you may need cleaning and odor removal. Report it to your insurer and the HOA."
+ }
+}

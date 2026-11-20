@@ -1,0 +1,43 @@
+{
+ "lead": "Ohio's older cities, long winters and gas heat make house fires its main fire damage problem. SootMend helps homes and businesses from Columbus to Cleveland and Cincinnati recover from fire, smoke and soot.",
+ "risk": "heating and electrical fires in older homes, kitchen fires, and smoke damage in apartments",
+ "risk_short": "heating, electrical and kitchen fires",
+ "why": [
+  "Ohio's fire death risk was above the national average in 2023, according to USFA. Cleveland, Toledo, Dayton, Akron and Youngstown have many homes built before 1940, with balloon framing that lets fire climb inside walls. Old wiring, space heaters and vacant houses add to the risk.",
+  "Natural gas heats about two in three Ohio homes. Basement furnaces and water heaters sit near laundry, storage and workshops. In Columbus and Cincinnati, many apartment and student rental fires start in kitchens and spread smoke through shared halls."
+ ],
+ "problems": [
+  [
+   "Fire spreading inside walls of older homes",
+   "Cleveland, Toledo, Dayton and Akron",
+   "<a href=\"/services/fire-damage-repair/\">Fire damage repair</a>"
+  ],
+  [
+   "Kitchen fires in rentals",
+   "Columbus, Cincinnati and college towns",
+   "<a href=\"/services/fire-damage-cleanup/\">Fire damage cleanup</a>"
+  ],
+  [
+   "Smoke damage in apartments and duplexes",
+   "Cities statewide",
+   "<a href=\"/services/smoke-damage-restoration/\">Smoke damage restoration</a>"
+  ],
+  [
+   "Basement furnace fires",
+   "Older homes with gas heat",
+   "<a href=\"/services/soot-removal/\">Soot removal</a>"
+  ]
+ ],
+ "tips": [
+  "Keep basements uncluttered around the furnace and water heater.",
+  "Never leave cooking unattended, especially in student rentals.",
+  "Have older homes' wiring checked by a licensed electrician.",
+  "Close bedroom doors at night; a closed door slows smoke."
+ ],
+ "insurance": "Landlords of duplexes and rentals need a landlord policy, not a homeowners policy, and tenants need renters insurance for their own things.",
+ "areas": "Columbus, Cleveland, Cincinnati, Toledo, Akron, Dayton and rural Ohio are all covered.",
+ "faq": {
+  "q": "What is balloon framing and why does it matter after a fire?",
+  "a": "Many homes built before about 1940 have wall studs that run from the foundation to the roof with no fire blocks. Fire and smoke can travel up inside the walls. Repairs often add fire blocking and need careful inspection."
+ }
+}

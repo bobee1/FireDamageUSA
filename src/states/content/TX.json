@@ -1,0 +1,50 @@
+{
+ "lead": "Texas has more fire deaths than any other state and more than 160 FEMA fire assistance declarations since 2000. SootMend helps homes and businesses from Houston to Dallas, San Antonio and Austin recover from fire, smoke and soot.",
+ "risk": "wind-driven grass and wildfires, kitchen and electrical fires, and apartment fires",
+ "risk_short": "wildfires, house and apartment fires",
+ "why": [
+  "Texas has the second most FEMA fire assistance declarations of any state, after California. The Panhandle and West Texas see fast, wind-driven grass fires; the 2024 Smokehouse Creek Fire became the largest wildfire in Texas history. Central Texas cedar and the Bastrop area have also seen major fires.",
+  "In the big metros, most fire damage starts with cooking, electrical problems and space heaters. Houston, Dallas and San Antonio have large apartment complexes where one fire affects many units. Six in ten homes heat with electricity."
+ ],
+ "problems": [
+  [
+   "Grass and wildfire damage",
+   "Panhandle, West Texas and Hill Country",
+   "<a href=\"/services/fire-damage-repair/\">Fire damage repair</a>"
+  ],
+  [
+   "Apartment complex fires",
+   "Houston, Dallas, San Antonio and Austin",
+   "<a href=\"/services/commercial-fire-damage-restoration/\">Commercial fire restoration</a>"
+  ],
+  [
+   "Kitchen and electrical fires",
+   "Homes statewide",
+   "<a href=\"/services/fire-damage-cleanup/\">Fire damage cleanup</a>"
+  ],
+  [
+   "Wildfire smoke and ash",
+   "Central and West Texas",
+   "<a href=\"/services/smoke-damage-restoration/\">Smoke damage restoration</a>"
+  ]
+ ],
+ "tips": [
+  "Clear dry grass and cedar from around homes and barns.",
+  "Follow county burn bans; they change with drought conditions.",
+  "Never leave cooking unattended.",
+  "Keep space heaters away from beds and curtains."
+ ],
+ "insurance": "The Texas FAIR Plan offers basic coverage when private insurers decline, and the Texas Department of Insurance has a consumer help line for claim disputes.",
+ "areas": "Houston, San Antonio, Dallas, Austin, Fort Worth, El Paso, Arlington, the Panhandle and rural Texas are all covered.",
+ "faq": {
+  "q": "What should I do if a grass fire is heading toward my home?",
+  "a": "Leave when officials tell you to; do not wait to see the flames. Close windows and doors, move outdoor furniture away from the house if there is time, and leave lights on so crews can find the home in smoke."
+ },
+ "licensing_faq": "Texas has no statewide general contractor license. Electricians, plumbers and HVAC contractors need state licenses, and many cities require permits and contractor registration for repairs.",
+ "sources": [
+  [
+   "Texas FAIR Plan Association",
+   "https://www.texasfairplan.org/"
+  ]
+ ]
+}

@@ -1,0 +1,43 @@
+{
+ "lead": "Maryland's rowhouses, older suburbs and mix of gas, electric and oil heat shape its fire damage. SootMend helps homes and businesses from Baltimore to the D.C. suburbs and the Eastern Shore recover from fire, smoke and soot.",
+ "risk": "rowhouse fires, kitchen and heating fires, and oil furnace puff-backs",
+ "risk_short": "rowhouse, kitchen and heating fires",
+ "why": [
+  "Baltimore has tens of thousands of rowhouses that share walls and roofs, and vacant rowhouses add fire risk to whole blocks. A fire in one home often damages the neighbors' homes through shared walls and cornices.",
+  "Heating is split: gas and electricity heat most homes, and nearly 6% still use fuel oil, more in older suburbs and rural counties. On the Eastern Shore and in Western Maryland, propane and wood heat are more common."
+ ],
+ "problems": [
+  [
+   "Rowhouse fires affecting neighbors",
+   "Baltimore and older towns",
+   "<a href=\"/services/fire-damage-repair/\">Fire damage repair</a>"
+  ],
+  [
+   "Oil burner puff-back soot",
+   "Older suburbs and rural homes",
+   "<a href=\"/services/soot-removal/\">Soot removal</a>"
+  ],
+  [
+   "Kitchen fires in apartments",
+   "Montgomery and Prince George's counties",
+   "<a href=\"/services/fire-damage-cleanup/\">Fire damage cleanup</a>"
+  ],
+  [
+   "Board-up of damaged rowhouses",
+   "Baltimore neighborhoods",
+   "<a href=\"/services/board-up-and-roof-tarping/\">Board-up and roof tarping</a>"
+  ]
+ ],
+ "tips": [
+  "Board up and secure a fire-damaged rowhouse quickly to keep out trespassers.",
+  "Have oil burners serviced each fall.",
+  "Install smoke alarms on every level and in every bedroom.",
+  "Never leave cooking unattended."
+ ],
+ "insurance": "Maryland requires home improvement contractors to hold a license from the Maryland Home Improvement Commission, which also runs a guaranty fund for some homeowner losses.",
+ "areas": "Baltimore, Columbia, Germantown, Silver Spring, Frederick, Annapolis, the Eastern Shore and Western Maryland are all covered.",
+ "faq": {
+  "q": "What happens when a vacant rowhouse next door catches fire?",
+  "a": "Fire and smoke can spread through shared walls and roof spaces. Your homeowners policy usually covers your damage. Report it, document it and have the shared wall checked for hidden fire damage."
+ }
+}

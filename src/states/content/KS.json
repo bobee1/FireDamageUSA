@@ -1,0 +1,43 @@
+{
+ "lead": "Kansas sees wind-driven grass fires on the plains and heating fires in long winters. SootMend helps homes and businesses from Wichita to Kansas City, Kansas, recover from fire, smoke and soot.",
+ "risk": "wind-driven grass and prairie fires, heating fires, and kitchen fires",
+ "risk_short": "grass fires, heating fires, house fires",
+ "why": [
+  "Kansas grasslands can burn fast when strong winds meet dry grass, especially in late winter and spring. FEMA has approved more than a dozen fire management declarations here since 2000. Small towns and ranches in western Kansas can be in a fire's path with little warning.",
+  "Kansas had a fire death risk well above the national average in 2023, according to USFA. Nearly 8% of homes heat with propane, many of them rural. Older farmhouses, mobile homes and space heaters add to winter risk, and rural homes may wait longer for fire crews."
+ ],
+ "problems": [
+  [
+   "Grass fire damage to homes and outbuildings",
+   "Western and central Kansas",
+   "<a href=\"/services/fire-damage-repair/\">Fire damage repair</a>"
+  ],
+  [
+   "Smoke and ash from prairie fires",
+   "Small towns on the plains",
+   "<a href=\"/services/smoke-damage-restoration/\">Smoke damage restoration</a>"
+  ],
+  [
+   "Heating and space heater fires",
+   "Wichita, Topeka and rural homes",
+   "<a href=\"/services/fire-damage-cleanup/\">Fire damage cleanup</a>"
+  ],
+  [
+   "Burned mobile homes",
+   "Rural and manufactured home communities",
+   "<a href=\"/services/contents-cleaning/\">Contents cleaning and pack-out</a>"
+  ]
+ ],
+ "tips": [
+  "Mow a wide, short-grass strip around homes and outbuildings.",
+  "Never burn trash or brush on red flag warning days.",
+  "Keep space heaters three feet from beds, curtains and furniture.",
+  "Have propane systems checked after any grass fire nearby."
+ ],
+ "insurance": "Prairie fires can damage fences, outbuildings and equipment that are covered differently from the house, so review each part of a farm or ranch policy.",
+ "areas": "Wichita, Overland Park, Kansas City, Olathe, Topeka, Lawrence and western Kansas are all covered.",
+ "faq": {
+  "q": "What should I do after a grass fire burns up to my house?",
+  "a": "Make sure the fire department has cleared the area. Check the roof, attic vents and siding for heat damage and embers. Smoke and ash often get inside, so the house may need cleaning and odor removal even if it did not burn."
+ }
+}

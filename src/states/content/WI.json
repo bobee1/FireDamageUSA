@@ -1,0 +1,43 @@
+{
+ "lead": "Wisconsin's long winters, older housing and cabins up north shape most fire damage calls. SootMend helps homes and businesses from Milwaukee to Madison and Green Bay recover from fire, smoke and soot.",
+ "risk": "heating and kitchen fires, cabin and wood stove fires, and spring brush fires up north",
+ "risk_short": "heating, kitchen and cabin fires",
+ "why": [
+  "Natural gas heats about two in three Wisconsin homes, and propane heats more than one in ten, mostly in rural areas. Milwaukee has many older duplexes, known locally as Polish flats and upper-lower duplexes, where fire and smoke can move between units.",
+  "Up north, cabins and lake homes use wood stoves and fireplaces, and spring brings brush fire risk before the woods green up. Wisconsin's central sands region is known for spring wildfires. A fire in a closed cabin can go unnoticed for hours."
+ ],
+ "problems": [
+  [
+   "Fires in duplexes",
+   "Milwaukee and older cities",
+   "<a href=\"/services/commercial-fire-damage-restoration/\">Commercial fire restoration</a>"
+  ],
+  [
+   "Furnace and space heater fires",
+   "Homes statewide in winter",
+   "<a href=\"/services/fire-damage-cleanup/\">Fire damage cleanup</a>"
+  ],
+  [
+   "Cabin and wood stove fires",
+   "Northwoods lake country",
+   "<a href=\"/services/soot-removal/\">Soot removal</a>"
+  ],
+  [
+   "Smoke odor through the whole house",
+   "Homes with forced-air heat",
+   "<a href=\"/services/smoke-odor-removal/\">Smoke odor removal</a>"
+  ]
+ ],
+ "tips": [
+  "Service furnaces and propane heaters every fall.",
+  "Check for DNR burning permits and restrictions before spring burning.",
+  "Install smoke alarms in every unit of a duplex.",
+  "Leave cabin stoves cold and chimneys clean when you close up."
+ ],
+ "insurance": "In duplexes, the owner's policy covers the building and each tenant needs renters insurance for belongings and temporary housing.",
+ "areas": "Milwaukee, Madison, Green Bay, Kenosha, Racine, Appleton, Eau Claire and the Northwoods are all covered.",
+ "faq": {
+  "q": "Do I need a DNR permit to burn brush in Wisconsin?",
+  "a": "In many areas you do, especially in spring. The Wisconsin DNR posts daily burning restrictions. Check before you burn, because escaped brush fires can damage homes and you can be held responsible."
+ }
+}

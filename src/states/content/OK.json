@@ -1,0 +1,43 @@
+{
+ "lead": "Oklahoma has one of the highest fire death risks in the country and frequent grass fires. SootMend helps homes and businesses from Oklahoma City to Tulsa recover from fire, smoke and soot.",
+ "risk": "wind-driven grass and wildfires, heating fires, and kitchen fires",
+ "risk_short": "grass fires, heating and house fires",
+ "why": [
+  "Oklahoma has had more than 100 FEMA fire assistance declarations since 2000, among the most of any state. Strong winds, dry grass and red cedar can push fires into towns and suburbs, especially in late winter and spring.",
+  "USFA found Oklahoma residents were 2.1 times as likely to die in a fire as the U.S. population in 2023. Gas and electricity split the heating load, and space heaters and older wiring add winter risk. Rural homes may wait longer for fire crews."
+ ],
+ "problems": [
+  [
+   "Grass fire damage to homes",
+   "Rural and suburban edges of OKC and Tulsa",
+   "<a href=\"/services/fire-damage-repair/\">Fire damage repair</a>"
+  ],
+  [
+   "Wildfire smoke and ash",
+   "Western and central Oklahoma",
+   "<a href=\"/services/smoke-damage-restoration/\">Smoke damage restoration</a>"
+  ],
+  [
+   "Space heater and heating fires",
+   "Homes statewide",
+   "<a href=\"/services/fire-damage-cleanup/\">Fire damage cleanup</a>"
+  ],
+  [
+   "Burned mobile homes and outbuildings",
+   "Rural counties",
+   "<a href=\"/services/contents-cleaning/\">Contents cleaning and pack-out</a>"
+  ]
+ ],
+ "tips": [
+  "Cut red cedar and dry grass back from the house.",
+  "Never burn outdoors when a burn ban or red flag warning is in place.",
+  "Keep space heaters away from bedding and curtains.",
+  "Plan two ways out of rural neighborhoods."
+ ],
+ "insurance": "Oklahoma homeowners often have high wind and hail deductibles, but fire claims usually use the regular deductible, so check your declarations page.",
+ "areas": "Oklahoma City, Tulsa, Norman, Broken Arrow, Edmond, Lawton and rural Oklahoma are all covered.",
+ "faq": {
+  "q": "Why are grass fires so dangerous in Oklahoma?",
+  "a": "Strong winds, dry grass and red cedar can spread fire very fast. Fires can cross roads and reach homes within minutes. Defensible space and early evacuation save lives and homes."
+ }
+}

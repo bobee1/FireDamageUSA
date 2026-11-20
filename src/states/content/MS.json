@@ -1,0 +1,43 @@
+{
+ "lead": "Mississippi has one of the highest fire death risks in the country, with rural homes, mobile homes and space heaters. SootMend helps homes and businesses from Jackson to Gulfport recover from fire, smoke and soot.",
+ "risk": "space heater and electrical fires, mobile home fires, and rural fires far from a station",
+ "risk_short": "space heater, mobile home and rural fires",
+ "why": [
+  "USFA found Mississippi residents were 1.9 times as likely to die in a fire as the U.S. population in 2023. Most homes heat with electricity, and space heaters fill the gap in cold snaps. Nearly one in ten homes uses propane, mostly in rural areas.",
+  "Mobile homes are common in rural Mississippi. Many rural homes rely on volunteer fire departments, and long drives give fires more time to grow. On the Gulf Coast, humid air makes soot stain faster."
+ ],
+ "problems": [
+  [
+   "Space heater fires",
+   "Homes statewide in winter",
+   "<a href=\"/services/fire-damage-cleanup/\">Fire damage cleanup</a>"
+  ],
+  [
+   "Mobile home fires",
+   "Rural counties",
+   "<a href=\"/services/contents-cleaning/\">Contents cleaning and pack-out</a>"
+  ],
+  [
+   "Propane heater fires",
+   "Rural homes",
+   "<a href=\"/services/smoke-damage-restoration/\">Smoke damage restoration</a>"
+  ],
+  [
+   "Soot staining in humid air",
+   "Gulf Coast homes",
+   "<a href=\"/services/soot-removal/\">Soot removal</a>"
+  ]
+ ],
+ "tips": [
+  "Turn off space heaters before bed and when you leave.",
+  "Keep propane heaters vented and serviced.",
+  "Put smoke alarms in every bedroom and hallway.",
+  "Make sure your home's address is clear for first responders."
+ ],
+ "insurance": "Gulf Coast homes may have separate wind policies, but fire and smoke are covered under the main homeowners policy, so file there first.",
+ "areas": "Jackson, Gulfport, Southaven, Biloxi, Hattiesburg, Tupelo, the Delta and rural Mississippi are all covered.",
+ "faq": {
+  "q": "Why is fire risk high in Mississippi?",
+  "a": "Rural homes, mobile homes, space heaters and long distances to fire stations all raise the risk. Working smoke alarms and safe heater use make the biggest difference."
+ }
+}
