@@ -13,23 +13,25 @@ Last updated: 2026-11-19
 - Build 2 — Keyword research and site plan (done, approved 2026-11-19): plan doc https://claude.ai/artifact/5DcSVz4eh8dK1rEX8g8TCo; Semrush data in `research/01`–`05`; keyword map for home + 8 services, Wave 1 = top 50 cities (Nashville included), 12-guide blog map.
 - Build 2b — Logo set and design system (done): design system artifact https://claude.ai/artifact/Y1stA843hy3x3heukjyA8n with tokens, brand book, 9 logo versions and 14 components; site CSS reads the new tokens.
 - Build 3 — Home, services hub and 8 service pages (done): home (1,498 words), services hub, 8 service pages (1,103–1,304 words) per the keyword map; 10 Pexels photos; tables scroll on phones; audit 0 issues, FK 5.9–8.9.
+- Build 4 — Locations hub, 50 state pages and DC (done): `states.py` + hand-written copy per state; ACS heating fuel, OpenFEMA fire declarations and USFA 2023 fire deaths in `research/07`–`09`; heating bar chart; 1,053–1,182 words per state.
 
-## Current — Build 4: Locations hub, 50 state pages and DC (done)
-- **Locations hub** (`/locations/`, 821 words): CollectionPage, state cards grouped by Census region, a national patterns table (most FEMA wildfire aid, highest USFA fire death risk, most oil heat, most wood heat), what each state page covers, 3 FAQs, Pexels photo 942560.
-- **51 state pages** (`/locations/<state>/`, 1,053–1,182 words each), built by `states.py` from data plus hand-written copy in `src/states/content/<AB>.json` (source: `scripts/state_content/batch*.py` → `gen.py`). Each page has a quick answer, a "fire risk at a glance" facts table, a fire-death risk paragraph, local "why it's different" copy, a heating-fuel bar chart (HTML, reflows on phones), a heating paragraph, a problems → service table, state safety tips, insurance regulator and contractor board links, areas served, 4 FAQs, services grid, neighboring-state links and 5–8 sources. Service schema with `areaServed`.
-- **New data** (pulled 2026-11-19 through the browser):
-  - `research/07-heating-fuel.json` — Census ACS 2024 B25040 house heating fuel, all states + DC.
-  - `research/08-fema-fire.json` — OpenFEMA fire declarations since 2000 (major, emergency, fire management assistance) and the latest one per state.
-  - `research/09-usfa-fire-deaths.json` — USFA 2023 fire deaths, rate and relative risk.
-  - Reused from the sister project: `research/06-state-data.json` (ACS housing, largest places) and `src/states/meta.json` (slugs, neighbors, insurance regulator, contractor board).
-- **Site-wide:** "Locations" now shows in the nav and footer; every service page gained a "<service> near you" block linking all 51 state pages.
-- **Waiting on later builds:** each state page has a "Helpful guides" block (shows after Build 5) and will list its cities after Build 6.
-- **Checks:** audit PASS 0 issues; reading grade ≤ 9 on every page, no repeated paragraphs; site audit clean (70 pages); no horizontal overflow at 360/768/1280.
+## Current — Build 5: Guides hub, 12 guides and glossary (done)
+- **12 guides** in `src/pages/blog/` (1,368–1,786 words, FK 4.6–8.3), one per approved blog-map keyword, each tied to a money page. Briefs (Semrush top-10 SERPs pulled 2026-11-19, competitor estimates, money page, word counts) in `docs/guide-briefs.md`.
+  - First Steps: what to do after a house fire (with checklist table).
+  - Smoke & Odor: smoke smell out of a house; smoke smell out of clothes; hydroxyl generator vs. ozone vs. thermal fogging; what is considered smoke damage.
+  - Soot & Cleaning: what is soot; how to clean soot off walls.
+  - Insurance & Claims: homeowners insurance and fire; renters insurance and fire; dealing with the adjuster.
+  - Restoration Basics: the restoration process; what drives restoration cost (factors only, no prices).
+- **Every guide has:** keyword in title, meta, H1, short answer, an H2 and slug; "Short answer" box; money-page link in the first 150 words; tables and steps; mid-article CTA; prevention section; "Local note" with 3–5 state links; "Related reading"; closing "When should you call…" section; 4–5 FAQs (FAQPage); 3–6 opened primary sources; author box; 2 related cards; BlogPosting schema with citations.
+- **New sources opened this build:** NAIC homeowners and renters consumer pages, Maryland Insurance Administration renters page, United Policyholders (partial-loss fire tips, contents tips), EPA PM basics, EPA ash and wildfire IAQ pages, National Cancer Institute soot page, Red Cross cleaning page (re-read for exact figures).
+- **Featured images:** 12 branded 1200×630 graphics (WebP + JPG, 20–25 KB WebP) from `scripts/make_post_images.py`.
+- **Guides hub** (`/blog/`) grouped by category; **glossary** (`/glossary/`) with 55 fire terms and DefinedTermSet schema; glossary terms auto-link (max 4 per page) on service, state and guide pages.
+- **Internal links:** "Helpful guides" now shows on all 8 service pages and 51 state pages; sidebar "Popular guides" on every page; home page links the process, cost and first-steps guides; each guide links 3–6 other guides.
+- **Checks:** audit PASS 0 issues (84 pages); reading grade ≤ 9, no repeated paragraphs; site audit clean; no overflow or console errors at 360/768/1280.
 
 ## Coming
 | Build | Scope | Needs from owner |
 | --- | --- | --- |
-| 5 | Guides hub + 12 guides from the blog map + glossary (50+ terms) with auto-links + branded featured images. | — |
 | 6 | Wave 1: top 50 city pages from the approved list (Nashville included), in batches of 25. | — |
 | 7+ | Cities 51–62, then suburbs scored from a second Semrush pull, 25 at a time, once 70%+ of Wave 1 is indexed. | Search Console access |
 | Launch | Buy sootmend.us, Cloudflare Pages project, real toll-free number, email, Resend keys, Search Console + analytics. | Domain, number, email, Resend key |
@@ -47,6 +49,7 @@ Last updated: 2026-11-19
 ## How to build
 ```
 python3 scripts/state_content/gen.py   # after editing state copy
+python3 scripts/make_post_images.py      # after adding or retitling a guide
 python3 build.py                 # writes public/
 python3 scripts/audit.py         # must print "PASS: 0 issues"
 python3 scripts/readability.py   # reading grade <= 9, no repeated paragraphs

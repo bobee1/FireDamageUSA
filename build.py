@@ -292,7 +292,7 @@ CTA_BAND = f"""<section class="cta-band" aria-label="Call {SITE['brand']}"><div 
 {call_button('btn btn-call btn-lg')}</div></section>"""
 
 
-SIDE_GUIDES = []  # filled in the guides build
+SIDE_GUIDES = ["what-to-do-after-a-house-fire", "how-to-get-smoke-smell-out-of-house", "does-homeowners-insurance-cover-fire-damage", "fire-damage-restoration-process"]
 
 
 def sidebar_html(meta, pages_by_path):

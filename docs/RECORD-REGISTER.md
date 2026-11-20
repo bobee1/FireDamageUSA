@@ -47,4 +47,11 @@ A dated log of every step. Newest entries at the bottom. Status: Done / In progr
 | 41 | 2026-11-19 | 4 | Locations hub with region grid and national patterns table; Pexels photo 942560 | Done | `src/pages/locations/index.html` |
 | 42 | 2026-11-19 | 4 | Checks: audit 0 issues, FK ≤ 9, no duplicate paragraphs, site audit clean, responsive 360/768/1280 | Done | 70 pages |
 | 43 | 2026-11-19 | 4 | STATUS.md and register updated; committed and pushed | Done | Branch `main` |
-| 44 | — | 5 | Guides hub + 12 guides + glossary | Planned | Next build |
+| 44 | 2026-11-19 | 5 | Blog rules re-read; Semrush top-10 SERPs for 12 guide keywords; briefs written | Done | `docs/guide-briefs.md` |
+| 45 | 2026-11-19 | 5 | New primary sources opened (NAIC, MIA, United Policyholders, EPA PM/ash/IAQ, NCI soot) | Done | Cited in guides |
+| 46 | 2026-11-19 | 5 | `blog.py` module, 55-term glossary, guides hub and glossary page | Done | `src/glossary.json`, `src/pages/blog/index.html`, `src/pages/glossary.html` |
+| 47 | 2026-11-19 | 5 | 12 guides written (1,368–1,786 words) with branded featured images | Done | `src/pages/blog/`, `src/static/img/blog/` |
+| 48 | 2026-11-19 | 5 | Inbound links: helpful guides on service and state pages, sidebar, home page | Done | — |
+| 49 | 2026-11-19 | 5 | Checks: audit 0 issues, FK ≤ 9, site audit clean, responsive 360/768/1280 | Done | 84 pages |
+| 50 | 2026-11-19 | 5 | STATUS.md and register updated; committed and pushed | Done | Branch `main` |
+| 51 | — | 6 | Wave 1 city pages (top 50 incl. Nashville), batch 1 of 2 | Planned | Next build |

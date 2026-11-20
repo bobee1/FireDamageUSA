@@ -1,0 +1,688 @@
+[
+ {
+  "term": "ACV (actual cash value)",
+  "slug": "acv",
+  "def": "What an item was worth when it was damaged: the cost to replace it minus wear and age. Some policies pay ACV unless you have replacement cost cover.",
+  "link": [
+   "Homeowners insurance and fire damage",
+   "/blog/does-homeowners-insurance-cover-fire-damage/"
+  ],
+  "match": [
+   "actual cash value"
+  ]
+ },
+ {
+  "term": "Additional living expenses (ALE)",
+  "slug": "ale",
+  "def": "The part of a home or renters policy that pays extra costs of living elsewhere, such as a hotel, rent and meals, while your home is repaired. Also called loss of use.",
+  "link": [
+   "Renters insurance and fire damage",
+   "/blog/does-renters-insurance-cover-fire-damage/"
+  ],
+  "match": [
+   "additional living expenses",
+   "loss of use"
+  ]
+ },
+ {
+  "term": "Adjuster",
+  "slug": "adjuster",
+  "def": "The person who inspects the damage and decides what the insurance company will pay. A staff or independent adjuster works for the insurer; a public adjuster works for you.",
+  "link": [
+   "Dealing with an insurance adjuster after a fire",
+   "/blog/how-to-deal-with-insurance-adjuster-after-house-fire/"
+  ],
+  "match": [
+   "insurance adjuster"
+  ]
+ },
+ {
+  "term": "Air scrubber",
+  "slug": "air-scrubber",
+  "def": "A portable machine that pulls room air through a HEPA filter to catch soot, ash and dust during cleanup.",
+  "link": [
+   "Smoke damage restoration",
+   "/services/smoke-damage-restoration/"
+  ],
+  "match": [
+   "air scrubber",
+   "air scrubbers"
+  ]
+ },
+ {
+  "term": "ANSI/IICRC S700",
+  "slug": "s700",
+  "def": "The industry standard for fire and smoke damage restoration, first published in 2025. It covers inspection, cleaning and odor control, but not reconstruction.",
+  "link": [
+   "The fire damage restoration process",
+   "/blog/fire-damage-restoration-process/"
+  ],
+  "match": [
+   "S700"
+  ]
+ },
+ {
+  "term": "Ash",
+  "slug": "ash",
+  "def": "The powdery leftover from burned material. Ash from burned buildings can hold metals and other harmful residue, so it needs careful cleanup.",
+  "link": [
+   "Fire damage cleanup",
+   "/services/fire-damage-cleanup/"
+  ],
+  "match": [
+   "wildfire ash"
+  ]
+ },
+ {
+  "term": "Asbestos",
+  "slug": "asbestos",
+  "def": "A mineral fiber once used in insulation, flooring, ceiling texture and siding. Fire and demolition can release fibers, so older materials should be tested before tear-out.",
+  "link": [
+   "Fire damage repair",
+   "/services/fire-damage-repair/"
+  ],
+  "match": [
+   "asbestos"
+  ]
+ },
+ {
+  "term": "Board-up",
+  "slug": "board-up",
+  "def": "Covering broken windows, doors and wall openings with plywood after a fire to keep out weather, animals and intruders.",
+  "link": [
+   "Board-up and roof tarping",
+   "/services/board-up-and-roof-tarping/"
+  ],
+  "match": [
+   "board-up",
+   "boarded up"
+  ]
+ },
+ {
+  "term": "Char",
+  "slug": "char",
+  "def": "Wood or other material that has burned black on the surface. Deep char weakens framing and usually means the piece is replaced.",
+  "link": [
+   "Fire damage repair",
+   "/services/fire-damage-repair/"
+  ],
+  "match": [
+   "charred"
+  ]
+ },
+ {
+  "term": "Chimney fire",
+  "slug": "chimney-fire",
+  "def": "A fire inside a chimney flue, usually from built-up creosote. It can crack the flue and spread heat and smoke into walls and the attic.",
+  "link": [
+   "What is soot?",
+   "/blog/what-is-soot/"
+  ],
+  "match": [
+   "chimney fire",
+   "chimney fires"
+  ]
+ },
+ {
+  "term": "Contents",
+  "slug": "contents",
+  "def": "Your belongings, as opposed to the building itself. Insurance usually lists them as personal property or Coverage C.",
+  "link": [
+   "Contents cleaning and pack-out",
+   "/services/contents-cleaning/"
+  ],
+  "match": [
+   "personal property"
+  ]
+ },
+ {
+  "term": "Creosote",
+  "slug": "creosote",
+  "def": "A tar-like residue that builds up inside chimneys and stovepipes when wood burns. It is very flammable and causes most chimney fires.",
+  "link": [
+   "What is soot?",
+   "/blog/what-is-soot/"
+  ],
+  "match": [
+   "creosote"
+  ]
+ },
+ {
+  "term": "Declarations page",
+  "slug": "declarations-page",
+  "def": "The summary page of an insurance policy. It lists your coverage limits, deductibles and the policy period.",
+  "link": [
+   "Homeowners insurance and fire damage",
+   "/blog/does-homeowners-insurance-cover-fire-damage/"
+  ],
+  "match": [
+   "declarations page"
+  ]
+ },
+ {
+  "term": "Deductible",
+  "slug": "deductible",
+  "def": "The amount you pay toward a claim before insurance pays the rest.",
+  "link": [
+   "Homeowners insurance and fire damage",
+   "/blog/does-homeowners-insurance-cover-fire-damage/"
+  ],
+  "match": [
+   "deductible"
+  ]
+ },
+ {
+  "term": "Depreciation",
+  "slug": "depreciation",
+  "def": "The loss in an item's value from age and wear. Insurers subtract it to find actual cash value.",
+  "link": [
+   "Dealing with an insurance adjuster after a fire",
+   "/blog/how-to-deal-with-insurance-adjuster-after-house-fire/"
+  ],
+  "match": [
+   "depreciation"
+  ]
+ },
+ {
+  "term": "Dry chemical sponge",
+  "slug": "dry-chemical-sponge",
+  "def": "A rubber sponge, also called a soot sponge, that lifts dry soot from walls and ceilings without water.",
+  "link": [
+   "How to clean soot off walls",
+   "/blog/how-to-clean-soot-off-walls/"
+  ],
+  "match": [
+   "dry chemical sponge",
+   "dry chemical sponges",
+   "soot sponge"
+  ]
+ },
+ {
+  "term": "Dry soot",
+  "slug": "dry-soot",
+  "def": "Powdery soot from fast, hot fires that burn wood and paper. It is the easiest type to clean.",
+  "link": [
+   "Soot removal",
+   "/services/soot-removal/"
+  ],
+  "match": [
+   "dry soot"
+  ]
+ },
+ {
+  "term": "Dwelling coverage",
+  "slug": "dwelling-coverage",
+  "def": "The part of a homeowners policy that pays to repair or rebuild the house and attached structures. Often called Coverage A.",
+  "link": [
+   "Homeowners insurance and fire damage",
+   "/blog/does-homeowners-insurance-cover-fire-damage/"
+  ],
+  "match": [
+   "dwelling coverage",
+   "Coverage A"
+  ]
+ },
+ {
+  "term": "Encapsulation",
+  "slug": "encapsulation",
+  "def": "Sealing a surface, such as burned framing, with a stain- and odor-blocking primer so leftover smell and stains stay locked in.",
+  "link": [
+   "Fire damage repair",
+   "/services/fire-damage-repair/"
+  ],
+  "match": [
+   "encapsulation",
+   "sealing primer"
+  ]
+ },
+ {
+  "term": "FAIR Plan",
+  "slug": "fair-plan",
+  "def": "A state-backed insurer of last resort that sells basic fire coverage when private insurers decline a home.",
+  "link": [
+   "Homeowners insurance and fire damage",
+   "/blog/does-homeowners-insurance-cover-fire-damage/"
+  ],
+  "match": [
+   "FAIR Plan"
+  ]
+ },
+ {
+  "term": "Fire Management Assistance Grant (FMAG)",
+  "slug": "fmag",
+  "def": "FEMA aid that helps states fight wildfires that threaten to become major disasters. Each state page lists these declarations.",
+  "link": [
+   "All locations",
+   "/locations/"
+  ],
+  "match": [
+   "fire management assistance"
+  ]
+ },
+ {
+  "term": "Fuel-oil soot",
+  "slug": "fuel-oil-soot",
+  "def": "Black, oily soot from an oil furnace or boiler, often spread by a puff-back. It smears with water and needs solvent cleaning.",
+  "link": [
+   "Soot removal",
+   "/services/soot-removal/"
+  ],
+  "match": [
+   "fuel-oil soot",
+   "oily soot"
+  ]
+ },
+ {
+  "term": "HEPA",
+  "slug": "hepa",
+  "def": "High-efficiency particulate air. HEPA filters catch very fine particles such as soot, and are used in vacuums and air scrubbers during cleanup.",
+  "link": [
+   "Soot removal",
+   "/services/soot-removal/"
+  ],
+  "match": [
+   "HEPA vacuum",
+   "HEPA vacuums",
+   "HEPA filter"
+  ]
+ },
+ {
+  "term": "HO-3",
+  "slug": "ho-3",
+  "def": "The most common homeowners policy form. It covers the house against all risks not excluded, and belongings against named perils such as fire and smoke.",
+  "link": [
+   "Homeowners insurance and fire damage",
+   "/blog/does-homeowners-insurance-cover-fire-damage/"
+  ],
+  "match": [
+   "HO-3"
+  ]
+ },
+ {
+  "term": "HO-4",
+  "slug": "ho-4",
+  "def": "The standard renters insurance form. It covers a tenant's belongings, liability and extra living costs, but not the building.",
+  "link": [
+   "Renters insurance and fire damage",
+   "/blog/does-renters-insurance-cover-fire-damage/"
+  ],
+  "match": [
+   "HO-4"
+  ]
+ },
+ {
+  "term": "HO-6",
+  "slug": "ho-6",
+  "def": "The standard condo owner policy. It covers belongings and the inside of the unit that the association's master policy leaves out.",
+  "link": [
+   "Renters insurance and fire damage",
+   "/blog/does-renters-insurance-cover-fire-damage/"
+  ],
+  "match": [
+   "HO-6"
+  ]
+ },
+ {
+  "term": "Hydroxyl generator",
+  "slug": "hydroxyl-generator",
+  "def": "A machine that uses UV light to make hydroxyl radicals, which break down odor molecules. It works slowly and is generally used with people present.",
+  "link": [
+   "Hydroxyl generator vs. ozone",
+   "/blog/hydroxyl-generator-vs-ozone/"
+  ],
+  "match": [
+   "hydroxyl generator",
+   "hydroxyl generators"
+  ]
+ },
+ {
+  "term": "Lead-safe work practices",
+  "slug": "lead-safe",
+  "def": "EPA rules for contractors who disturb painted surfaces in homes built before 1978, to keep lead dust from spreading.",
+  "link": [
+   "Fire damage repair",
+   "/services/fire-damage-repair/"
+  ],
+  "match": [
+   "lead-safe"
+  ]
+ },
+ {
+  "term": "Mitigation",
+  "slug": "mitigation",
+  "def": "The first stage of restoration: steps that stop damage from getting worse, such as board-up, water removal and drying.",
+  "link": [
+   "The fire damage restoration process",
+   "/blog/fire-damage-restoration-process/"
+  ],
+  "match": [
+   "mitigation"
+  ]
+ },
+ {
+  "term": "Negative air",
+  "slug": "negative-air",
+  "def": "Setting up fans and filters so a work area has lower air pressure than the rest of the building, which keeps soot and dust from drifting out.",
+  "link": [
+   "Commercial fire damage restoration",
+   "/services/commercial-fire-damage-restoration/"
+  ],
+  "match": [
+   "negative air"
+  ]
+ },
+ {
+  "term": "Ordinance or law coverage",
+  "slug": "ordinance-or-law",
+  "def": "Insurance that pays extra costs to bring a damaged home up to current building codes during repairs.",
+  "link": [
+   "Fire damage repair",
+   "/services/fire-damage-repair/"
+  ],
+  "match": [
+   "ordinance or law"
+  ]
+ },
+ {
+  "term": "Ozone generator",
+  "slug": "ozone-generator",
+  "def": "A machine that makes ozone gas to break down odors. The EPA warns ozone can damage the lungs, so it is used only in empty spaces.",
+  "link": [
+   "Hydroxyl generator vs. ozone",
+   "/blog/hydroxyl-generator-vs-ozone/"
+  ],
+  "match": [
+   "ozone generator",
+   "ozone generators",
+   "ozone treatment"
+  ]
+ },
+ {
+  "term": "Pack-back",
+  "slug": "pack-back",
+  "def": "Returning cleaned belongings to the home after repairs, checked against the pack-out inventory.",
+  "link": [
+   "Contents cleaning and pack-out",
+   "/services/contents-cleaning/"
+  ],
+  "match": [
+   "pack-back"
+  ]
+ },
+ {
+  "term": "Pack-out",
+  "slug": "pack-out",
+  "def": "Inventorying, packing and moving belongings out of a damaged home so they can be cleaned and stored during repairs.",
+  "link": [
+   "Contents cleaning and pack-out",
+   "/services/contents-cleaning/"
+  ],
+  "match": [
+   "pack-out"
+  ]
+ },
+ {
+  "term": "PAHs",
+  "slug": "pahs",
+  "def": "Polycyclic aromatic hydrocarbons: chemicals formed when things burn incompletely. They are found in soot and smoke.",
+  "link": [
+   "What is soot?",
+   "/blog/what-is-soot/"
+  ],
+  "match": [
+   "polycyclic aromatic hydrocarbons",
+   "PAHs"
+  ]
+ },
+ {
+  "term": "PM2.5",
+  "slug": "pm25",
+  "def": "Fine particles 2.5 micrometers across or smaller, found in smoke. The EPA says they pose the greatest health risk among particles.",
+  "link": [
+   "What is soot?",
+   "/blog/what-is-soot/"
+  ],
+  "match": [
+   "PM2.5",
+   "fine particles"
+  ]
+ },
+ {
+  "term": "Pre-testing",
+  "slug": "pre-testing",
+  "def": "Testing a small hidden spot before cleaning a surface, to pick a method that removes soot without causing damage.",
+  "link": [
+   "How to clean soot off walls",
+   "/blog/how-to-clean-soot-off-walls/"
+  ],
+  "match": [
+   "test spot",
+   "test spots",
+   "pre-testing"
+  ]
+ },
+ {
+  "term": "Proof of loss",
+  "slug": "proof-of-loss",
+  "def": "A signed, sworn statement of what was lost and its value, which some insurers require within a set time after a claim.",
+  "link": [
+   "Dealing with an insurance adjuster after a fire",
+   "/blog/how-to-deal-with-insurance-adjuster-after-house-fire/"
+  ],
+  "match": [
+   "proof of loss"
+  ]
+ },
+ {
+  "term": "Protein residue",
+  "slug": "protein-residue",
+  "def": "A thin yellowish film left when food burns. It is hard to see but has a strong, lasting smell.",
+  "link": [
+   "Smoke damage restoration",
+   "/services/smoke-damage-restoration/"
+  ],
+  "match": [
+   "protein residue"
+  ]
+ },
+ {
+  "term": "Public adjuster",
+  "slug": "public-adjuster",
+  "def": "An adjuster you hire, for a percentage of the claim, to prepare and negotiate your claim with the insurer. Most states license them.",
+  "link": [
+   "Dealing with an insurance adjuster after a fire",
+   "/blog/how-to-deal-with-insurance-adjuster-after-house-fire/"
+  ],
+  "match": [
+   "public adjuster"
+  ]
+ },
+ {
+  "term": "Puff-back",
+  "slug": "puff-back",
+  "def": "A misfire in an oil furnace or boiler that blows oily soot through the ducts and into the house.",
+  "link": [
+   "Soot removal",
+   "/services/soot-removal/"
+  ],
+  "match": [
+   "puff-back",
+   "puff-backs",
+   "puffback"
+  ]
+ },
+ {
+  "term": "Replacement cost",
+  "slug": "replacement-cost",
+  "def": "Insurance that pays what it costs to repair or replace damaged property with new, without subtracting depreciation. Often paid in two parts.",
+  "link": [
+   "Homeowners insurance and fire damage",
+   "/blog/does-homeowners-insurance-cover-fire-damage/"
+  ],
+  "match": [
+   "replacement cost"
+  ]
+ },
+ {
+  "term": "Roof tarping",
+  "slug": "roof-tarping",
+  "def": "Covering roof holes and burned roofing with heavy tarps fastened to battens until permanent repairs.",
+  "link": [
+   "Board-up and roof tarping",
+   "/services/board-up-and-roof-tarping/"
+  ],
+  "match": [
+   "roof tarping",
+   "roof tarp"
+  ]
+ },
+ {
+  "term": "Scope of work",
+  "slug": "scope",
+  "def": "The written, line-by-line list of repairs and cleaning a job needs. You and the adjuster use it to agree on what will be done.",
+  "link": [
+   "Fire damage restoration cost",
+   "/blog/fire-damage-restoration-cost/"
+  ],
+  "match": [
+   "scope of work"
+  ]
+ },
+ {
+  "term": "Smoke damage",
+  "slug": "smoke-damage",
+  "def": "Staining, residue, odor and corrosion left by smoke on surfaces and belongings, even far from the flames.",
+  "link": [
+   "What is considered smoke damage?",
+   "/blog/what-is-considered-smoke-damage/"
+  ],
+  "match": [
+   "smoke damage"
+  ]
+ },
+ {
+  "term": "Soot",
+  "slug": "soot",
+  "def": "Fine black or brown powder left when something burns without enough oxygen. It is mostly carbon, mixed with chemicals from what burned.",
+  "link": [
+   "What is soot?",
+   "/blog/what-is-soot/"
+  ],
+  "match": [
+   "soot"
+  ]
+ },
+ {
+  "term": "Space heater",
+  "slug": "space-heater",
+  "def": "A portable heater. Space heaters placed too close to beds, curtains or furniture are a common cause of winter house fires.",
+  "link": [
+   "What to do after a house fire",
+   "/blog/what-to-do-after-a-house-fire/"
+  ],
+  "match": [
+   "space heater",
+   "space heaters"
+  ]
+ },
+ {
+  "term": "Structure fire",
+  "slug": "structure-fire",
+  "def": "A fire in or on a building, as opposed to a vehicle or wildland fire.",
+  "link": [
+   "Fire damage cleanup",
+   "/services/fire-damage-cleanup/"
+  ],
+  "match": [
+   "structure fire"
+  ]
+ },
+ {
+  "term": "Subrogation",
+  "slug": "subrogation",
+  "def": "When your insurer pays you and then seeks repayment from the person or company that caused the loss.",
+  "link": [
+   "Homeowners insurance and fire damage",
+   "/blog/does-homeowners-insurance-cover-fire-damage/"
+  ],
+  "match": [
+   "subrogation"
+  ]
+ },
+ {
+  "term": "Thermal fogging",
+  "slug": "thermal-fogging",
+  "def": "Heating a deodorizer into a fine fog that travels like smoke into cracks and fabrics to neutralize odor. Done in empty spaces.",
+  "link": [
+   "Hydroxyl generator vs. ozone",
+   "/blog/hydroxyl-generator-vs-ozone/"
+  ],
+  "match": [
+   "thermal fogging",
+   "thermal fogger"
+  ]
+ },
+ {
+  "term": "Trisodium phosphate (TSP)",
+  "slug": "tsp",
+  "def": "A strong cleaner used to wash soot and smoke from walls and some fabrics. It is caustic, so wear gloves.",
+  "link": [
+   "How to clean soot off walls",
+   "/blog/how-to-clean-soot-off-walls/"
+  ],
+  "match": [
+   "trisodium phosphate",
+   "tri-sodium phosphate",
+   "TSP"
+  ]
+ },
+ {
+  "term": "Wet soot",
+  "slug": "wet-soot",
+  "def": "Sticky, smeary soot from smoldering plastics, rubber and foam. It needs degreasers rather than dry sponges.",
+  "link": [
+   "Soot removal",
+   "/services/soot-removal/"
+  ],
+  "match": [
+   "wet soot"
+  ]
+ },
+ {
+  "term": "Wildland-urban interface",
+  "slug": "wui",
+  "def": "Areas where homes are built next to or among wildland vegetation, where wildfires can reach neighborhoods.",
+  "link": [
+   "All locations",
+   "/locations/"
+  ],
+  "match": [
+   "wildland-urban interface"
+  ]
+ },
+ {
+  "term": "Smoke odor",
+  "slug": "smoke-odor",
+  "def": "The lingering smell from smoke particles that settle into porous materials. It returns with heat and humidity until the source is cleaned or sealed.",
+  "link": [
+   "How to get smoke smell out of a house",
+   "/blog/how-to-get-smoke-smell-out-of-house/"
+  ],
+  "match": [
+   "smoke smell",
+   "smoke odor"
+  ]
+ },
+ {
+  "term": "Ultrasonic cleaning",
+  "slug": "ultrasonic-cleaning",
+  "def": "Cleaning hard items in a tank of liquid where sound waves shake residue loose, used for dishes, metal and small items.",
+  "link": [
+   "Contents cleaning and pack-out",
+   "/services/contents-cleaning/"
+  ],
+  "match": [
+   "ultrasonic"
+  ]
+ }
+]
